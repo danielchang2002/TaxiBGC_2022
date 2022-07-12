@@ -13,8 +13,7 @@ string = """
 ░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝╚═════╝░░╚═════╝░░╚════╝░
 """
 
-def print_logo():
-
+def logo():
   splits = [(0, 9), (9, 17), (17, 25), (25, 28), (28, 36), (36, 45), (45, 53)]
 
   class bcolors:
@@ -42,4 +41,4 @@ def print_logo():
   "".join([color + st[split[0]:split[1]] + bcolors.ENDC for color, split in zip(colors, splits)])
   for st in string.split("\n")[1:-1]])
 
-  print(taxi_logo)
+  return taxi_logo

@@ -1,5 +1,6 @@
 import os
 import sys
+from . import utils
 import argparse
 from . import prerun
 from . import pipeline
@@ -12,7 +13,8 @@ __version__ = "1.0"
 
 def main():
     parser = argparse.ArgumentParser(
-        description="DESCRIPTION:\n"
+        description="\n" + utils.logo() + 
+        "\n\nDESCRIPTION:\n"
         "TaxiBGC version " + __version__ + " \n"
         "TaxiBGC (Taxonomy-guided Identification of Biosynthetic Gene Clusters) is an original"
         " computational pipeline that identifies experimentally verified BGCs" 
