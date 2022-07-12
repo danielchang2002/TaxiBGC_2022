@@ -1,5 +1,12 @@
 # TaxiBGC: Taxonomy-guided Identification of Biosynthetic Gene Clusters
 
+[![Anaconda-Server Badge](https://anaconda.org/danielchang2002/taxibgc/badges/version.svg)](https://anaconda.org/danielchang2002/taxibgc)
+[![Anaconda-Server Badge](https://anaconda.org/danielchang2002/taxibgc/badges/platforms.svg)](https://anaconda.org/danielchang2002/taxibgc)
+[![Anaconda-Server Badge](https://anaconda.org/danielchang2002/taxibgc/badges/license.svg)](https://anaconda.org/danielchang2002/taxibgc)
+[![Anaconda-Server Badge](https://anaconda.org/danielchang2002/taxibgc/badges/downloads.svg)](https://anaconda.org/danielchang2002/taxibgc)
+[![Anaconda-Server Badge](https://anaconda.org/danielchang2002/taxibgc/badges/installer/conda.svg)](https://conda.anaconda.org/danielchang2002)
+
+
 ### Description
 TaxiBGC is a Taxonomy-guided Approach for the Identification of 
 Experimentally Verified Microbial Biosynthetic Gene Clusters 
