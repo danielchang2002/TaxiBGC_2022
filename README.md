@@ -1,14 +1,5 @@
 # TaxiBGC: Taxonomy-guided Identification of Biosynthetic Gene Clusters
 
-```bash
-████████╗░█████╗░██╗░░██╗██╗██████╗░░██████╗░░█████╗░
-╚══██╔══╝██╔══██╗╚██╗██╔╝██║██╔══██╗██╔════╝░██╔══██╗
-░░░██║░░░███████║░╚███╔╝░██║██████╦╝██║░░██╗░██║░░╚═╝
-░░░██║░░░██╔══██║░██╔██╗░██║██╔══██╗██║░░╚██╗██║░░██╗
-░░░██║░░░██║░░██║██╔╝╚██╗██║██████╦╝╚██████╔╝╚█████╔╝
-░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝╚═════╝░░╚═════╝░░╚════╝░
-```
-
 ### Description
 TaxiBGC is a Taxonomy-guided Approach for the Identification of 
 Experimentally Verified Microbial Biosynthetic Gene Clusters 
