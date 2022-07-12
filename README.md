@@ -41,7 +41,7 @@ USAGE:
 TaxiBGC is a pipeline that takes as input two raw fastq files generated 
 from a paired end sequence, estimates microbial abundances, and using 
 these microbial estimates, returns as output predictions of 
-experimentally verified BGCs
+experimentally verified BGCs.
 
 * Example usage:
 
