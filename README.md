@@ -29,21 +29,19 @@ usage: taxibgc [-h] -n NUM_THREADS -f FORWARD -r REVERSE -o OUTPUT
 
 DESCRIPTION:
 TaxiBGC version 1.0
-TaxiBGC (Taxonomy-guided Identification of Biosynthetic Gene Clusters) is an original 
-
-computational pipeline that identifies experimentally verified BGCs from shotgun metagenomic data 
-
-and infers their known SM products.
+TaxiBGC (Taxonomy-guided Identification of Biosynthetic Gene Clusters) 
+is an original computational pipeline that identifies experimentally 
+verified BGCs from shotgun metagenomic data and infers 
+their known SM products.
 
 AUTHORS:
 Daniel Chang, Vinod Gupta, Jaeyun Sung
 
 USAGE:
 TaxiBGC is a pipeline that takes as input two raw fastq files generated 
-
 from a paired end sequence, estimates microbial abundances, and using 
-
-these microbial estimates, returns as output predictions of experimentally verified BGCs
+these microbial estimates, returns as output predictions of 
+experimentally verified BGCs
 
 * Example usage:
 
