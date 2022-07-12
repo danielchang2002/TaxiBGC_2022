@@ -1,4 +1,5 @@
 import os
+import sys
 import argparse
 from . import prerun
 from . import pipeline
@@ -40,30 +41,32 @@ def main():
         " (ii) the MetaPhlAn taxonomic profiling output, and (iii) the bbmap output.",
         formatter_class=RawTextHelpFormatter,
     )
-    requiredNamed = parser.add_argument_group("required named arguments")
-    requiredNamed.add_argument(
+    parser.add_argument(
         "-n", "--num_threads", required=True, help="number of threads", type=int
     )
-    requiredNamed.add_argument(
+    parser.add_argument(
         "-f", "--forward", required=True, help="forward read of metagenome (.fastq)", type=str
     )
-    requiredNamed.add_argument(
+    parser.add_argument(
         "-r", "--reverse", required=True, help="reverse read of metagenome (.fastq)", type=str
     )
-    requiredNamed.add_argument(
-        "-o", "--output", required=True, help="prefix for output file names", type=int
+    parser.add_argument(
+        "-o", "--output", required=True, help="prefix for output file names", type=str
     )
+
+    if len(sys.argv) == 1:
+        parser.print_help()
+        return
 
     args = parser.parse_args()
 
-    forward, reverse = args.f, args.r
+    forward, reverse = args.forward, args.reverse
 
-    print("Inputs:", forward, reverse)
     if not os.path.exists(forward) or not os.path.exists(reverse):
-        print("file(s) do not exist")
+        print("input file(s) do not exist")
         return
     if forward.split(".")[-1] != "fastq" or reverse.split(".")[-1] != "fastq":
-        print("invalid file extensions")
+        print("invalid input file extensions")
         return
 
     up_to_date = prerun.check_versions()
