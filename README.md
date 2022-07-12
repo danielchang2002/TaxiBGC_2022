@@ -29,13 +29,21 @@ usage: taxibgc [-h] -n NUM_THREADS -f FORWARD -r REVERSE -o OUTPUT
 
 DESCRIPTION:
 TaxiBGC version 1.0
-TaxiBGC (Taxonomy-guided Identification of Biosynthetic Gene Clusters) is an original computational pipeline that identifies experimentally verified BGCs from shotgun metagenomic data and infers their known SM products.
+TaxiBGC (Taxonomy-guided Identification of Biosynthetic Gene Clusters) is an original 
+
+computational pipeline that identifies experimentally verified BGCs from shotgun metagenomic data 
+
+and infers their known SM products.
 
 AUTHORS:
 Daniel Chang, Vinod Gupta, Jaeyun Sung
 
 USAGE:
-TaxiBGC is a pipeline that takes as input two raw fastq files generated from a paired end sequence, estimates microbial abundances, and using these microbial estimates, returns as output predictions of experimentally verified BGCs
+TaxiBGC is a pipeline that takes as input two raw fastq files generated 
+
+from a paired end sequence, estimates microbial abundances, and using 
+
+these microbial estimates, returns as output predictions of experimentally verified BGCs
 
 * Example usage:
 
@@ -71,10 +79,8 @@ required named arguments:
 ```
 
 ### Runtime
-```bash
 Runtime depends on the size of the input metagenome and the system specs.
 
 On a 2019 MacBook Pro with a 2.3 GHz 8-Core Intel Core i9 processor and 16GB of RAM, a single run of taxibgc on an input metagenome of 4 GB takes about half an hour.
 
 Note: the initial run on any machine will take extra time because databases will need to be downloaded and installed before the actual computation.
-```
