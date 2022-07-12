@@ -60,7 +60,10 @@ $ ls
 ├── output_prefix_BGC_metsp.txt
 └── output_prefix_covstats_taxigc2022.txt
 
-The three output files are (i) Biosynthetic gene clusters identified, (ii) the MetaPhlAn taxonomic profiling output, and (iii) the bbmap output.
+The three output files are 
+(i) Biosynthetic gene clusters identified
+(ii) the MetaPhlAn taxonomic profiling output
+(iii) the bbmap output.
 
 optional arguments:
   -h, --help            show this help message and exit
