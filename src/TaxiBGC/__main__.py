@@ -70,6 +70,8 @@ def main():
     if forward.split(".")[-1] != "fastq" or reverse.split(".")[-1] != "fastq":
         print("invalid input file extensions")
         return
+    
+    print(utils.logo())
 
     up_to_date = prerun.check_versions()
     if not up_to_date:
