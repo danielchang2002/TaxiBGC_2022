@@ -1,0 +1,2268 @@
+Accession	Main product	Biosynthetic class	Organism
+BGC0000810	benzoxazinone DIMBOA	Alkaloid	Zea mays
+BGC0000467	yersiniabactin	NRP	Yersinia enterocolitica
+BGC0001498	aerobactin	Other	Xenorhabdus szentirmaii DSM 16338
+BGC0001868	iodinin	Phenazine	Xenorhabdus szentirmaii DSM 16338
+BGC0001873	pyrrolizixenamide A	Lipopeptide	Xenorhabdus szentirmaii DSM 16338
+BGC0001716	odilorhabdins	NRP	Xenorhabdus nematophila AN6/1
+BGC0001825	xenematide	NRP	Xenorhabdus nematophila AN6/1
+BGC0000416	rhabdopeptide 1, rhabdopeptide 2, rhabdopeptide 3, rhabdopeptide 4	NRP	Xenorhabdus nematophila ATCC 19061
+BGC0000465	xenortide A, xenortide B, xenortide C, xenortide D	NRP	Xenorhabdus nematophila ATCC 19061
+BGC0001054	xenocoumacin 1, xenocoumacin II	NRP	Xenorhabdus nematophila ATCC 19061
+BGC0001054	xenocoumacin 1, xenocoumacin II	Modular type I polyketide	Xenorhabdus nematophila ATCC 19061
+BGC0001132	xenotetrapeptide	NRP	Xenorhabdus nematophila ATCC 19061
+BGC0001692	nematophin	NRP	Xenorhabdus nematophila ATCC 19061
+BGC0001757	rhabduscin	Other	Xenorhabdus nematophila ATCC 19061
+BGC0001131	ambactin	NRP	Xenorhabdus miraniensis
+BGC0000464	xenoamicin A, xenoamicin B	Cyclic depsipeptide	Xenorhabdus doucetiae
+BGC0002008	aryl polyenes	Other	Xenorhabdus doucetiae
+BGC0001130	fabclavine Ia	NRP	Xenorhabdus budapestensis
+BGC0001135	bicornutin A1, bicornutin A2	NRP	Xenorhabdus budapestensis
+BGC0001434	nematophin	NRP	Xenorhabdus budapestensis
+BGC0001698	nevaltophin A, nevaltophin B, nevaltophin C, nevaltophin D	NRP	Xenorhabdus budapestensis
+BGC0001870	putrebactin, avaroferrin	Other	Xenorhabdus budapestensis
+BGC0000189	3-(2'-hydroxy-3'-oxo-4'-methylpentyl)-indole, 3-(2'-hydroxy-3'-oxo-4'-methylhexyl)-indole, 3-(2'-acetoxy-3'-oxo-4'-methylpentyl)-indole, 3-(2'-acetoxy-3'-oxo-4'-methylhexyl)-indole	Type III polyketide	Xenorhabdus bovienii SS-2004
+BGC0001133	taxlllaid A	NRP	Xenorhabdus bovienii SS-2004
+BGC0001872	fabclavine-polyamine	Polyketide	Xenorhabdus bovienii SS-2004
+BGC0001824	xefoampeptides A-G	NRP	Xenorhabdus beddingii
+BGC0001826	xeneprotides A-C	NRP	Xenorhabdus sp. KJ12.1
+BGC0001130	fabclavine Ia	Polyketide	Xenorhabdus budapestensis
+BGC0000783	O-antigen	Saccharide	Xanthomonas oryzae pv. oryzae
+BGC0000840	xanthomonadin I	Other	Xanthomonas oryzae pv. oryzae
+BGC0002005	RaxX	RiPP	Xanthomonas oryzae pv. oryzae
+BGC0001408	xanthoferrin	Other	Xanthomonas oryzae pv. oryzae KACC 10331
+BGC0000580	xanthomonin I, xanthomonin II	RiPP	Xanthomonas gardneri ATCC 19865
+BGC0000800	xanthan	Saccharide	Xanthomonas campestris
+BGC0000774	lipopolysaccharide	Lipopolysaccharide	Xanthomonas campestris pv. campestris
+BGC0001088	albicidin	NRP	Xanthomonas albilineans
+BGC0001088	albicidin	Polyketide	Xanthomonas albilineans
+BGC0000656	zeaxanthin	Terpene	Xanthobacter autotrophicus Py2
+BGC0000460	vulnibactin	NRP	Vibrio vulnificus CMCP6
+BGC0000780	O&K-antigen	Saccharide	Vibrio parahaemolyticus
+BGC0000946	vibrioferrin	Other	Vibrio parahaemolyticus
+BGC0001890	amphi-enterobactin 1, amphi-enterobactin 2, amphi-enterobactin 3, amphi-enterobactin 4	NRP	Vibrio campbellii ATCC BAA-1116
+BGC0000454	vanchrobactin	NRP	Vibrio anguillarum RV22
+BGC0000947	vibrioferrin	Other	Vibrio alginolyticus
+BGC0000001	abyssomicin C, atrop-abyssomicin C	Modular type I polyketide	Verrucosispora maris AB-18-032
+BGC0001286	itaconic acid	Other	Ustilago maydis
+BGC0001281	ustilagic acid	Polyketide	Ustilago maydis 521
+BGC0001888	mannosylerythritol lipid A, mannosylerythritol lipid B, mannosylerythritol lipid C	Other	Ustilago maydis 521
+BGC0000221	erdacin	Polyketide	uncultured soil bacterium V167
+BGC0000477	patellin 2, patellin 3	Cyanobactin	uncultured Prochloron sp. 06037A
+BGC0000476	patellamide B	Cyanobactin	uncultured Prochloron sp.
+BGC0000478	patellin 6, trunkamide	Cyanobactin	uncultured Prochloron sp.
+BGC0000482	trunkamide	Cyanobactin	uncultured Prochloron sp.
+BGC0000350	ET-743	Beta-lactam	uncultured organism
+BGC0000967	calyculin A, phosphocalyculin A, calyculinamide A, dephosphonocalyculin A	NRP	uncultured Candidatus Entotheonella sp.
+BGC0000967	calyculin A, phosphocalyculin A, calyculinamide A, dephosphonocalyculin A	Trans-AT type I polyketide	uncultured Candidatus Entotheonella sp.
+BGC0001630	kasumigamide	NRP	uncultured Candidatus Entotheonella sp.
+BGC0001630	kasumigamide	Polyketide	uncultured Candidatus Entotheonella sp.
+BGC0001110	psymberin, irciniastatin B	NRP	uncultured bacterium psy1
+BGC0001110	psymberin, irciniastatin B	Trans-AT type I polyketide	uncultured bacterium psy1
+BGC0001591	fatty acid enol ester	Other	uncultured bacterium CSLC2
+BGC0001688	N-tetradecanoyl tyrosine	Other	uncultured bacterium CSLC2
+BGC0001687	N-tetradecanoyl tyrosine	Other	uncultured bacterium CSL12
+BGC0000223	rabelomycin, dehydrorabelomycin, fluostatin F, fluostatin G, fluostatin H	Type II polyketide	uncultured bacterium BAC AB649/1850
+BGC0001203	clarexpoxcin	NRP	uncultured bacterium AR_456
+BGC0001203	clarexpoxcin	Polyketide	uncultured bacterium AR_456
+BGC0001202	landepoxcin	NRP	uncultured bacterium AR_412
+BGC0001202	landepoxcin	Polyketide	uncultured bacterium AR_412
+BGC0001333	BE-54017	Alkaloid	uncultured bacterium AB1650
+BGC0000427	shinorine, 4-deoxygadusol, mycosporine glycine	NRP	Trichormus variabilis ATCC 29413
+BGC0001144	neosartoricin B	Polyketide	Trichophyton tonsurans CBS 112818
+BGC0000481	trichamide	Cyanobactin	Trichodesmium erythraeum IMS101
+BGC0001609	gliovirin	NRP	Trichoderma virens Gv29-8
+BGC0001854	tricholignan A	Iterative type I polyketide	Trichoderma harzianum
+BGC0001901	tricholignan A	Polyketide	Trichoderma harzianum
+BGC0000334	cyclosporine	NRP	Tolypocladium inflatum NRRL8044
+BGC0001260	terpendole E	Terpene	Tolypocladium album
+BGC0000985	didemnin B, nordidemnin B, didemnin X, didemnin Y	Polyketide	Tistrella mobilis KA081020-065
+BGC0000985	didemnin B, nordidemnin B, didemnin X, didemnin Y	Cyclic depsipeptide	Tistrella mobilis KA081020-065
+BGC0001050	thalassospiramide A	Lipopeptide	Tistrella bauzanensis
+BGC0001050	thalassospiramide A	Trans-AT type I polyketide	Tistrella bauzanensis
+BGC0001449	ucs1025a	NRP	Thermothelomyces thermophilus
+BGC0001449	ucs1025a	Alkaloid	Thermothelomyces thermophilus
+BGC0001449	ucs1025a	Iterative type I polyketide	Thermothelomyces thermophilus
+BGC0001860	thiomuracin	Thiopeptide	Thermobispora bispora DSM 43833
+BGC0000359	fuscachelin A, fuscachelin B, fuscachelin C	NRP	Thermobifida fusca YX
+BGC0001889	fusilassin	RiPP	Thermobifida fusca YX
+BGC0001876	thalassospiramide A	NRP	Thalassospira sp. CNJ-328
+BGC0000185	tartrolon	Polyketide	Teredinibacter turnerae T7901
+BGC0000451	turnerbactin	NRP	Teredinibacter turnerae T7901
+BGC0001531	bisucaberin B	Other	Tenacibaculum mesophilum
+BGC0001747	pseudaminic acid	Other	Tannerella forsythia
+BGC0001651	legionaminic acid	Other	Tannerella forsythia 92A2
+BGC0001954	wortmanamide A, wortmanamide B	NRP	Talaromyces wortmannii
+BGC0001954	wortmanamide A, wortmanamide B	Polyketide	Talaromyces wortmannii
+BGC0001969	asperterpenoid A	Terpene	Talaromyces wortmannii
+BGC0001926	chrodrimanin B	Polyketide	Talaromyces verruculosus
+BGC0000154	stipitatic acid	Iterative type I polyketide	Talaromyces stipitatus ATCC 10500
+BGC0001578	duclauxin	Polyketide	Talaromyces stipitatus ATCC 10500
+BGC0000099	monascorubrin	Polyketide	Talaromyces marneffei
+BGC0001402	cyclochlorotine, hydroxy-cyclochlorotine, cyclotine, cyclochlorotine B, deoxy-Cyclochlorotine	NRP	Talaromyces islandicus
+BGC0001526	bartolosides E, bartolosides F, bartolosides G, bartolosides H, bartolosides I, bartolosides J, bartolosides K	Other	Synechocystis salina LEGE 06099
+BGC0001525	bartoloside 2, bartoloside 3, bartoloside 4	Other	Synechocystis salina LEGE 06155
+BGC0001160	1-nonadecene, (14Z)-1,14-nonadecadiene	Modular type I polyketide	Synechococcus sp. PCC 7002
+BGC0001678	mycosporine-like amino acids (MAAs)	Other	Symbiodinium sp. clade A Y106
+BGC0001883	porphyra-334	Other	Symbiodinium sp. clade A Y106
+BGC0001524	barnesin A	NRP	Sulfurospirillum barnesii SES-3
+BGC0001524	barnesin A	Polyketide	Sulfurospirillum barnesii SES-3
+BGC0001909	strobilurin	Polyketide	Strobilurus tenacellus
+BGC0000428	sibiromycin	NRP	Streptosporangium sibiricum
+BGC0001376	WS79089A, hexaricin B, hexaricin C	Polyketide	Streptosporangium sp. FXJ7.131
+BGC0001944	funisamine	Polyketide	Streptosporangium sp.
+BGC0001540	CC-1065	Other	Streptomyces zelensis
+BGC0000933	xiamenmycin A	Other	Streptomyces xiamenensis
+BGC0000130	pyrrolomycin A, pyrrolomycin B, pyrrolomycin C, pyrrolomycin D	Polyketide	Streptomyces vitaminophilus
+BGC0000805	moenomycin	Saccharide	Streptomyces viridosporus ATCC 14672
+BGC0000026	avilamycin A, avilamycin C	Oligosaccharide	Streptomyces viridochromogenes Tue57
+BGC0000379	glycinocin A	NRP	Streptomyces viridochromogenes
+BGC0000406	phosphinothricintripeptide	NRP	Streptomyces viridochromogenes
+BGC0000518	informatipeptin	Lanthipeptide	Streptomyces viridochromogenes DSM 40736
+BGC0001116	virginiamycin S1	NRP	Streptomyces virginiae
+BGC0001116	virginiamycin S1	Polyketide	Streptomyces virginiae
+BGC0000114	nigericin	Modular type I polyketide	Streptomyces violaceusniger
+BGC0001012	meridamycin	NRP	Streptomyces violaceusniger
+BGC0001012	meridamycin	Polyketide	Streptomyces violaceusniger
+BGC0000227	granaticin	Type II polyketide	Streptomyces violaceoruber
+BGC0000228	granaticin	Polyketide	Streptomyces violaceoruber
+BGC0001066	kendomycin	Modular type I polyketide	Streptomyces violaceoruber
+BGC0000953	amicetin	Aminoglycoside	Streptomyces vinaceusdrappus
+BGC0001979	LL-D49194α1 (LLD)	Polyketide	Streptomyces vinaceusdrappus
+BGC0000458	viomycin	NRP	Streptomyces vinaceus
+BGC0000963	bleomycin	Glycopeptide	Streptomyces verticillus
+BGC0000963	bleomycin	Modular type I polyketide	Streptomyces verticillus
+BGC0000963	bleomycin	Hybrid/tailoring saccharide	Streptomyces verticillus
+BGC0001204	versipelostatin	Polyketide	Streptomyces versipellis
+BGC0000094	methymycin	Modular type I polyketide	Streptomyces venezuelae
+BGC0000094	methymycin	Hybrid/tailoring saccharide	Streptomyces venezuelae
+BGC0000898	desosamine	Hybrid/tailoring saccharide	Streptomyces venezuelae
+BGC0001819	venemycin	Polyketide	Streptomyces venezuelae
+BGC0000234	jadomycin	Polyketide	Streptomyces venezuelae ATCC 10712
+BGC0000563	venezuelin	Lanthipeptide	Streptomyces venezuelae ATCC 10712
+BGC0000893	chloramphenicol	NRP	Streptomyces venezuelae ATCC 10712
+BGC0001801	thiazostatin, watasemycin A, watasemycin B, 2-hydroxyphenylthiazoline enantiopyochelin, isopyochelin	NRP	Streptomyces venezuelae ATCC 10712
+BGC0001348	JBIR-100	Modular type I polyketide	Streptomyces varsoviensis
+BGC0001849	thiovarsolin A, thiovarsolin B, thiovarsolin C, thiovarsolin D	RiPP	Streptomyces varsoviensis
+BGC0001334	caldoniamide A, cladoniamide B, cladoniamide C7, cladoniamide D, cladoniamide E, cladoniamide F, cladoniamide G	Alkaloid	Streptomyces uncialis
+BGC0001377	uncialamycin	Polyketide	Streptomyces uncialis
+BGC0001815	uncialamycin	Polyketide	Streptomyces uncialis
+BGC0000444	thaxtomin A	NRP	Streptomyces turgidiscabies Car8
+BGC0001937	tubercidin	Other	Streptomyces tubercidicus
+BGC0000453	valinomycin	Cyclic depsipeptide	Streptomyces tsusimaensis
+BGC0000886	allylmalonyl-CoA	Other	Streptomyces tsukubensis
+BGC0000450	triostin A	NRP	Streptomyces triostinicus
+BGC0000290	A-47934	Glycopeptide	Streptomyces toyocaensis
+BGC0000382	lipstatin	NRP	Streptomyces toxytricini
+BGC0000024	aureothin	Modular type I polyketide	Streptomyces thioluteus
+BGC0001574	diisonitrile antibiotic SF2768	NRP	Streptomyces thioluteus
+BGC0000700	istamycin	Saccharide	Streptomyces tenjimariensis
+BGC0000242	lysolipin I	Polyketide	Streptomyces tendae
+BGC0000876	neopolyoxin C	Other	Streptomyces tendae
+BGC0001474	thiopeptin	Thiopeptide	Streptomyces tateyamensis
+BGC0000579	SSV-2083	Lanthipeptide	Streptomyces sviceus ATCC 29083
+BGC0000273	steffimycin D	Type II polyketide	Streptomyces steffisburgensis
+BGC0000273	steffimycin D	Hybrid/tailoring saccharide	Streptomyces steffisburgensis
+BGC0000159	tautomycin	Modular type I polyketide	Streptomyces spiroverticillatus
+BGC0000715	actinospectacin	Saccharide	Streptomyces spectabilis
+BGC0001785	streptovaricin	Polyketide	Streptomyces spectabilis
+BGC0001905	violapyrone B	Polyketide	Streptomyces somaliensis
+BGC0000611	siomycin A	Thiopeptide	Streptomyces sioyaensis
+BGC0000655	siomycin	Terpene	Streptomyces sioyaensis
+BGC0001778	showdomycin	Other	Streptomyces showdoensis
+BGC0001784	streptoseomycin	Polyketide	Streptomyces seoulensis
+BGC0001939	streptoseomycin	Polyketide	Streptomyces seoulensis
+BGC0001196	desotamide	NRP	Streptomyces scopuliridis
+BGC0001771	scleric acid	NRP	Streptomyces sclerotialus
+BGC0001194	hitachimycin	Polyketide	Streptomyces scabrisporus
+BGC0000423	scabichelin	NRP	Streptomyces scabiei 87.22
+BGC0001157	bottromycin A2	Bottromycin	Streptomyces scabiei 87.22
+BGC0000237	lactonamycin Z	Polyketide	Streptomyces sanglieri
+BGC0000960	azinomycin B	NRP	Streptomyces sahachiroi
+BGC0000960	azinomycin B	Polyketide	Streptomyces sahachiroi
+BGC0000904	FR-900098	Other	Streptomyces rubellomurinus
+BGC0001002	jawsamycin	NRP	Streptomyces roseoverticillatus
+BGC0001002	jawsamycin	Polyketide	Streptomyces roseoverticillatus
+BGC0000225	frenolicin B	Polyketide	Streptomyces roseofulvus
+BGC0000832	clorobiocin	Hybrid/tailoring saccharide	Streptomyces roseochromogenus subsp. oscitans DS 12.976
+BGC0000832	clorobiocin	Aminocoumarin	Streptomyces roseochromogenus subsp. oscitans DS 12.976
+BGC0000085	lankamycin	Polyketide	Streptomyces rochei
+BGC0000432	streptothricin	NRP	Streptomyces rochei
+BGC0001100	lankacidin C	NRP	Streptomyces rochei
+BGC0001100	lankacidin C	Polyketide	Streptomyces rochei
+BGC0001370	lipopeptide 8D1-1, lipopeptide 8D1-2	NRP	Streptomyces rochei
+BGC0001533	borrelidin	Polyketide	Streptomyces rochei
+BGC0000238	lactonamycin	Polyketide	Streptomyces rishiriensis
+BGC0000833	coumermycin A1	Hybrid/tailoring saccharide	Streptomyces rishiriensis
+BGC0000833	coumermycin A1	Aminocoumarin	Streptomyces rishiriensis
+BGC0000254	oxytetracycline	Polyketide	Streptomyces rimosus
+BGC0000879	toyocamycin, sangivamycin	Other	Streptomyces rimosus
+BGC0000712	paromomycin	Saccharide	Streptomyces rimosus subsp. paromomycinus
+BGC0001942	malonomycin	NRP	Streptomyces rimosus subsp. paromomycinus
+BGC0001942	malonomycin	Polyketide	Streptomyces rimosus subsp. paromomycinus
+BGC0001760	rimosamide	NRP	Streptomyces rimosus subsp. rimosus ATCC 10970
+BGC0000882	mildiomycin	Other	Streptomyces rimofaciens
+BGC0000713	ribostamycin	Saccharide	Streptomyces ribosidificus
+BGC0000264	resistomycin, resistoflavine	Type II polyketide	Streptomyces resistomycificus
+BGC0000303	anthramycin	NRP	Streptomyces refuineus subsp. thermotolerans
+BGC0000263	ravidomycin	Polyketide	Streptomyces ravidus
+BGC0001040	rapamycin	NRP	Streptomyces rapamycinicus NRRL 5491
+BGC0001040	rapamycin	Polyketide	Streptomyces rapamycinicus NRRL 5491
+BGC0001217	PreQ0 Base	Other	Streptomyces qinglanensis
+BGC0001039	pyridomycin	NRP	Streptomyces pyridomyceticus
+BGC0001039	pyridomycin	Polyketide	Streptomyces pyridomyceticus
+BGC0000265	rhodomycin	Polyketide	Streptomyces purpurascens
+BGC0000060	fostriecin	Polyketide	Streptomyces pulveraceus
+BGC0001746	pristinol	Terpene	Streptomyces pristinaespiralis ATCC 25486
+BGC0000126	pladienolide B	Polyketide	Streptomyces platensis
+BGC0001140	platensimycin, platencin	Terpene	Streptomyces platensis
+BGC0001156	platencin	Terpene	Streptomyces platensis
+BGC0001898	thioplatensimycin, thioplatencin	Terpene	Streptomyces platensis
+BGC0000177	iso-migrastatin, migrastatin, dorrigocin A, dorrigocin B, 13-epi-dorrigocin A	Modular type I polyketide	Streptomyces platensis subsp. rosaceus
+BGC0000177	iso-migrastatin, migrastatin, dorrigocin A, dorrigocin B, 13-epi-dorrigocin A	Trans-AT type I polyketide	Streptomyces platensis subsp. rosaceus
+BGC0000124	piericidin A1	Polyketide	Streptomyces piomogenus
+BGC0000218	doxorubicin	Polyketide	Streptomyces peucetius
+BGC0001731	paulomycin	Other	Streptomyces paulus
+BGC0000031	borrelidin	Modular type I polyketide	Streptomyces parvulus
+BGC0000118	pactamycin	Polyketide	Streptomyces pactum
+BGC0000119	7-deoxypactamycin	Iterative type I polyketide	Streptomyces pactum
+BGC0000119	7-deoxypactamycin	Hybrid/tailoring saccharide	Streptomyces pactum
+BGC0001726	pactamides	NRP	Streptomyces pactum
+BGC0001726	pactamides	Polyketide	Streptomyces pactum
+BGC0001807	totopotensamide A, totopotensamide B	NRP	Streptomyces pactum
+BGC0001807	totopotensamide A, totopotensamide B	Polyketide	Streptomyces pactum
+BGC0000110	spectinabilin, orinocin, SNF4435C, SNF4435D	Modular type I polyketide	Streptomyces orinoci
+BGC0001919	neoantimycin	NRP	Streptomyces orinoci
+BGC0001919	neoantimycin	Polyketide	Streptomyces orinoci
+BGC0000625	thioviridamide	RiPP	Streptomyces olivoviridis
+BGC0001803	thioviridamide	RiPP	Streptomyces olivoviridis
+BGC0000219	elloramycin	Type II polyketide	Streptomyces olivaceus
+BGC0000219	elloramycin	Hybrid/tailoring saccharide	Streptomyces olivaceus
+BGC0001719	olimycin A, olimycin B	Polyketide	Streptomyces olivaceus
+BGC0000214	cosmomycin B	Polyketide	Streptomyces olindensis
+BGC0001074	cosmomycin D	Saccharide	Streptomyces olindensis
+BGC0001074	cosmomycin D	Polyketide	Streptomyces olindensis
+BGC0001507	anantin C	RiPP	Streptomyces olindensis
+BGC0001957	amipurimycin	Polyketide	Streptomyces novoguineensis
+BGC0001958	amipurimycin	Other	Streptomyces novoguineensis
+BGC0000115	nystatin A1	Modular type I polyketide	Streptomyces noursei ATCC 11455
+BGC0000115	nystatin A1	Hybrid/tailoring saccharide	Streptomyces noursei ATCC 11455
+BGC0000851	albonoursin	Other	Streptomyces noursei ATCC 11455
+BGC0001569	dechlorocuracomycin	NRP	Streptomyces noursei ATCC 11455
+BGC0000249	nogalamycin	Polyketide	Streptomyces nogalater
+BGC0000016	amphotericin B	Other	Streptomyces nodosus
+BGC0001779	siamycin	RiPP	Streptomyces nodosus
+BGC0000187	asukamycin	Type II polyketide	Streptomyces nodosus subsp. asukaensis
+BGC0000834	cathomycin	Hybrid/tailoring saccharide	Streptomyces niveus
+BGC0000834	cathomycin	Aminocoumarin	Streptomyces niveus
+BGC0001917	5-alkyl-1,2,3,4-tetrahydroquinolines, streptoaminals	Polyketide	Streptomyces nigrescens
+BGC0000040	concanamycin A	Polyketide	Streptomyces neyagawaensis
+BGC0000716	spectinomycin	Saccharide	Streptomyces netropsis
+BGC0000125	pimaricin	Polyketide	Streptomyces natalensis
+BGC0000899	desosamine	Other	Streptomyces narbonensis
+BGC0000093	meilingmycin	Polyketide	Streptomyces nanchangensis
+BGC0000105	nanchangmycin	Polyketide	Streptomyces nanchangensis
+BGC0000096	midecamycin	Polyketide	Streptomyces mycarofaciens
+BGC0000236	kinamycin	Polyketide	Streptomyces murayamaensis
+BGC0000885	4-hydroxy-3-nitrosobenzamide	Other	Streptomyces murayamaensis
+BGC0001414	griselimycin	NRP	Streptomyces muensis
+BGC0001145	cyclothiazomycin b1	Thiopeptide	Streptomyces mobaraensis NBRC 13819 = DSM 40847
+BGC0001633	ketomemicin B3, ketomemicin B4	Other	Streptomyces mobaraensis NBRC 13819 = DSM 40847
+BGC0001674	MS-271	RiPP	Streptomyces mirabilis
+BGC0001409	dutomycin	Polyketide	Streptomyces minoensis
+BGC0001956	miharamycin A, miharamycin B	Polyketide	Streptomyces miharaensis
+BGC0000414	quinocarcin	NRP	Streptomyces melanovinaceus
+BGC0000677	cyclooctatin	Terpene	Streptomyces melanosporofaciens
+BGC0000220	enterocin	Type II polyketide	Streptomyces maritimus
+BGC0001802	thioholgamide A, thioholgamide B	RiPP	Streptomyces malaysiense
+BGC0001046	streptolydigin	NRP	Streptomyces lydicus
+BGC0001046	streptolydigin	Modular type I polyketide	Streptomyces lydicus
+BGC0001046	streptolydigin	Hybrid/tailoring saccharide	Streptomyces lydicus
+BGC0001896	carbazomycin B	Other	Streptomyces luteoverticillatus
+BGC0001379	BD-12	NRP	Streptomyces luteocolor
+BGC0000229	grincamycin	Type II polyketide	Streptomyces lusitanus
+BGC0000229	grincamycin	Hybrid/tailoring saccharide	Streptomyces lusitanus
+BGC0000394	naphthyridinomycin	NRP	Streptomyces lusitanus
+BGC0000897	dehydrophos	Other	Streptomyces luridus
+BGC0001592	ferroverdin	Other	Streptomyces lunaelactis
+BGC0002029	bagremycin A, bagremycin B, bagremycin C, bagremycin E, bagremycin F, bagremycin G, ferroverdin A, ferroverdin B, ferroverdin C	Other	Streptomyces lunaelactis
+BGC0000163	tetronasin	Polyketide	Streptomyces longisporoflavus
+BGC0001302	lomofungin	Other	Streptomyces lomondensis
+BGC0000028	bafilomycin B1	Modular type I polyketide	Streptomyces lohii
+BGC0000708	lividomycin	Saccharide	Streptomyces lividus
+BGC0001168	livipeptin	NRP	Streptomyces lividans 1326
+BGC0001283	arsono-polyketide	Polyketide	Streptomyces lividans 1326
+BGC0000596	SLI-2138	RiPP	Streptomyces lividans TK24
+BGC0000907	lincomycin	Other	Streptomyces lincolnensis
+BGC0001567	cysteoamide	NRP	Streptomyces lincolnensis
+BGC0001329	rakicidin D	Polyketide	Streptomyces lilacinus
+BGC0001329	rakicidin D	Cyclic depsipeptide	Streptomyces lilacinus
+BGC0001287	chaxamycin A, chaxamycin B, chaxamycin C, chaxamycin D	Polyketide	Streptomyces leeuwenhoekii
+BGC0001307	chaxapeptin	RiPP	Streptomyces leeuwenhoekii
+BGC0000326	isocomplestatin	NRP	Streptomyces lavendulae
+BGC0000422	saframycin A, saframycin B	NRP	Streptomyces lavendulae
+BGC0000915	mitomycin	Aminocoumarin	Streptomyces lavendulae
+BGC0001649	lavendiol	Polyketide	Streptomyces lavendulae
+BGC0001916	lavendiol	Polyketide	Streptomyces lavendulae
+BGC0002036	dehydrofosmidomycin	Other	Streptomyces lavendulae
+BGC0000896	cycloserine	Other	Streptomyces lavendulae subsp. lavendulae
+BGC0000614	thiostrepton	Thiopeptide	Streptomyces laurentii
+BGC0000086	lasalocid	Polyketide	Streptomyces lasaliensis
+BGC0000087	lasalocid	Polyketide	Streptomyces lasaliensis
+BGC0000339	echinomycin	NRP	Streptomyces lasaliensis
+BGC0000606	lactazole	Thiopeptide	Streptomyces lactacystinaeus
+BGC0001694	meoabyssomicin, abyssomicin	Polyketide	Streptomyces koyangensis
+BGC0001550	citrulassin D	RiPP	Streptomyces katrae
+BGC0000707	kasugamycin	Saccharide	Streptomyces kasugaensis
+BGC0000702	kanamycin	Saccharide	Streptomyces kanamyceticus
+BGC0000703	kanamycin	Saccharide	Streptomyces kanamyceticus
+BGC0000704	kanamycin	Saccharide	Streptomyces kanamyceticus
+BGC0000705	kanamycin	Saccharide	Streptomyces kanamyceticus
+BGC0000706	kanamycin	Saccharide	Streptomyces kanamyceticus
+BGC0001510	anisomycin	Other	Streptomyces hygrospinosus
+BGC0000066	geldanamycin	Polyketide	Streptomyces hygroscopicus
+BGC0000067	geldanamycin	Polyketide	Streptomyces hygroscopicus subsp. duamyceticus
+BGC0000068	geldanamycin	Polyketide	Streptomyces hygroscopicus
+BGC0000074	herbimycin A	Polyketide	Streptomyces hygroscopicus
+BGC0000345	eponemycin	NRP	Streptomyces hygroscopicus
+BGC0000345	eponemycin	Modular type I polyketide	Streptomyces hygroscopicus
+BGC0000388	mannopeptimycin	NRP	Streptomyces hygroscopicus
+BGC0000603	cyclothiazomycin	Thiopeptide	Streptomyces hygroscopicus
+BGC0000698	hygromycin A	Saccharide	Streptomyces hygroscopicus
+BGC0000994	FR-900520	NRP	Streptomyces hygroscopicus subsp. ascomyceticus
+BGC0000994	FR-900520	Polyketide	Streptomyces hygroscopicus subsp. ascomyceticus
+BGC0000699	hygromycin A	Saccharide	Streptomyces hygroscopicus subsp. hygroscopicus
+BGC0000722	validamycin A	Polyketide	Streptomyces hygroscopicus subsp. jinggangensis
+BGC0000722	validamycin A	Cyclitol	Streptomyces hygroscopicus subsp. jinggangensis
+BGC0000723	β-D-galactosylvalidoxylamine-A	Saccharide	Streptomyces hygroscopicus subsp. limoneus
+BGC0000701	jinggangmycin	Saccharide	Streptomyces hygroscopicus subsp. yingchengensis
+BGC0001959	taylorflavin A, taylorflavin B	Other	Streptomyces hiroshimensis
+BGC0001960	hiroshidine	Polyketide	Streptomyces hiroshimensis
+BGC0001972	toxoflavin, fervenulin	Other	Streptomyces hiroshimensis
+BGC0001973	fervenulin	Other	Streptomyces hiroshimensis
+BGC0000171	9-methylstreptimidone	Modular type I polyketide	Streptomyces himastatinicus ATCC 53653
+BGC0001117	himastatin	NRP	Streptomyces himastatinicus ATCC 53653
+BGC0001967	acyldepsipeptide 1	NRP	Streptomyces hawaiiensis
+BGC0000073	halstoctacosanolide A	Polyketide	Streptomyces halstedii
+BGC0000167	vicenistatin	Polyketide	Streptomyces halstedii
+BGC0000224	fredericamycin A	Type II polyketide	Streptomyces griseus
+BGC0000231	griseusin	Polyketide	Streptomyces griseus
+BGC0000949	A-500359 A, A-500359 B	NRP	Streptomyces griseus
+BGC0001828	griseochelin	Polyketide	Streptomyces griseus
+BGC0002028	frigocyclinone	Polyketide	Streptomyces griseus
+BGC0000210	chromomycin A3	Type II polyketide	Streptomyces griseus subsp. griseus
+BGC0000210	chromomycin A3	Oligosaccharide	Streptomyces griseus subsp. griseus
+BGC0000243	macrotetrolide	Polyketide	Streptomyces griseus subsp. griseus
+BGC0000244	macrotetrolide	Polyketide	Streptomyces griseus subsp. griseus
+BGC0000252	nonactin	Polyketide	Streptomyces griseus subsp. griseus
+BGC0001206	indolmycin	Other	Streptomyces griseus subsp. griseus
+BGC0000282	alkylresorcinol	Polyketide	Streptomyces griseus subsp. griseus NBRC 13350
+BGC0000496	AmfS	Lanthipeptide	Streptomyces griseus subsp. griseus NBRC 13350
+BGC0000583	grisemycin	Linaridin	Streptomyces griseus subsp. griseus NBRC 13350
+BGC0000649	carotenoid	Terpene	Streptomyces griseus subsp. griseus NBRC 13350
+BGC0000658	2-methylisoborneol	Terpene	Streptomyces griseus subsp. griseus NBRC 13350
+BGC0000662	grixazone	Terpene	Streptomyces griseus subsp. griseus NBRC 13350
+BGC0000664	isorenieratene	Terpene	Streptomyces griseus subsp. griseus NBRC 13350
+BGC0000724	streptomycin	Saccharide	Streptomyces griseus subsp. griseus NBRC 13350
+BGC0000848	A-factor	Other	Streptomyces griseus subsp. griseus NBRC 13350
+BGC0000911	melanin	Other	Streptomyces griseus subsp. griseus NBRC 13350
+BGC0000912	melanin	Other	Streptomyces griseus subsp. griseus NBRC 13350
+BGC0000941	desferrioxamin B	Other	Streptomyces griseus subsp. griseus NBRC 13350
+BGC0001043	SGR PTMs	NRP	Streptomyces griseus subsp. griseus NBRC 13350
+BGC0001043	SGR PTMs	Polyketide	Streptomyces griseus subsp. griseus NBRC 13350
+BGC0000257	prodigiosin	Polyketide	Streptomyces griseoviridis
+BGC0000459	griseoviridin, fijimycin A	Cyclic depsipeptide	Streptomyces griseoviridis
+BGC0000459	griseoviridin, fijimycin A	Trans-AT type I polyketide	Streptomyces griseoviridis
+BGC0000415	quinomycin	NRP	Streptomyces griseovariabilis subsp. bandungensis
+BGC0000233	hedamycin	Polyketide	Streptomyces griseoruber
+BGC0001675	murayaquinone	Polyketide	Streptomyces griseoruber
+BGC0000820	physostigmine	Alkaloid	Streptomyces griseofuscus
+BGC0000226	gilvocarcin V	Polyketide	Streptomyces griseoflavus
+BGC0000374	hormaomycin, hormaomycin A1, hormaomycin A2, hormaomycin A3, hormaomycin A4, hormaomycin A5, hormaomycin A6	Cyclic depsipeptide	Streptomyces griseoflavus
+BGC0000158	tautomycetin	Modular type I polyketide	Streptomyces griseochromogenes
+BGC0000874	blasticidin S	Other	Streptomyces griseochromogenes
+BGC0002090	undecylprodigiosin, metacycloprodigiosin	Modular type I polyketide	Streptomyces griseoaurantiacus
+BGC0002090	undecylprodigiosin, metacycloprodigiosin		Streptomyces griseoaurantiacus
+BGC0002090	undecylprodigiosin, metacycloprodigiosin		Streptomyces griseoaurantiacus
+BGC0000058	FD-891	Polyketide	Streptomyces graminofaciens
+BGC0000965	C-1027	Iterative type I polyketide	Streptomyces globisporus
+BGC0000965	C-1027	Enediyne type I polyketide	Streptomyces globisporus
+BGC0001397	lidamycin	NRP	Streptomyces globisporus C-1027
+BGC0001397	lidamycin	Polyketide	Streptomyces globisporus C-1027
+BGC0001753	radamycin, globimycin	RiPP	Streptomyces globisporus subsp. globisporus
+BGC0000275	tetracenomycin C	Type II polyketide	Streptomyces glaucescens
+BGC0000690	hydroxystreptomycin	Saccharide	Streptomyces glaucescens
+BGC0001551	citrulassin E	RiPP	Streptomyces glaucescens
+BGC0001690	natamycin	Polyketide	Streptomyces gilvosporeus
+BGC0000191	aclacinomycin	Polyketide	Streptomyces galilaeus
+BGC0000192	aclacinomycin	Polyketide	Streptomyces galilaeus
+BGC0000193	aclacinomycin	Polyketide	Streptomyces galilaeus
+BGC0000065	rustmicin	Iterative type I polyketide	Streptomyces galbus
+BGC0000341	enduracidin	NRP	Streptomyces fungicidicus
+BGC0000166	tylactone	Polyketide	Streptomyces fradiae
+BGC0000277	urdamycin	Polyketide	Streptomyces fradiae
+BGC0000278	urdamycin	Polyketide	Streptomyces fradiae
+BGC0000291	A54145	NRP	Streptomyces fradiae
+BGC0000711	neomycin	Saccharide	Streptomyces fradiae
+BGC0000938	fosfomycin	Aminocoumarin	Streptomyces fradiae
+BGC0000709	neomycin	Saccharide	Streptomyces fradiae ATCC 10745 = DSM 40063
+BGC0001783	streptonigrin	Other	Streptomyces flocculus
+BGC0001058	zorbamycin	Glycopeptide	Streptomyces flavoviridis
+BGC0001058	zorbamycin	Modular type I polyketide	Streptomyces flavoviridis
+BGC0001058	zorbamycin	Hybrid/tailoring saccharide	Streptomyces flavoviridis
+BGC0000279	xantholipin	Polyketide	Streptomyces flavogriseus
+BGC0001042	sanglifehrin A	NRP	Streptomyces flaveolus
+BGC0001042	sanglifehrin A	Polyketide	Streptomyces flaveolus
+BGC0001774	spicamycin	Other	Streptomyces fimbriatus
+BGC0001522	auroramycin	Polyketide	Streptomyces filamentosus
+BGC0001534	branched-chain fatty acids	Other	Streptomyces filamentosus
+BGC0001535	branched-chain fatty acids	Other	Streptomyces filamentosus
+BGC0000306	arylomycin	Lipopeptide	Streptomyces filamentosus NRRL 11379
+BGC0000336	daptomycin	NRP	Streptomyces filamentosus NRRL 11379
+BGC0000431	stenothricin	Cyclic depsipeptide	Streptomyces filamentosus NRRL 15998
+BGC0000553	SRO15-2212	Lanthipeptide	Streptomyces filamentosus NRRL 15998
+BGC0000554	SRO15-3108	Lanthipeptide	Streptomyces filamentosus NRRL 15998
+BGC0000578	SRO15-2005	Lassopeptide	Streptomyces filamentosus NRRL 15998
+BGC0001593	ficellomycin	NRP	Streptomyces ficellus
+BGC0000018	angolamycin	Polyketide	Streptomyces eurythermus
+BGC0000019	angolamycin	Polyketide	Streptomyces eurythermus
+BGC0001851	komodoquinone B	Type II polyketide	Streptomyces erythrochromogenes
+BGC0001851	komodoquinone B	Hybrid/tailoring saccharide	Streptomyces erythrochromogenes
+BGC0000197	aranciamycin	Type II polyketide	Streptomyces echinatus
+BGC0000197	aranciamycin	Hybrid/tailoring saccharide	Streptomyces echinatus
+BGC0001214	marformycin A, marformycin B, marformycin C, marformycin D, marformycin E, marformycin F	NRP	Streptomyces drozdowiczii
+BGC0001061	polyketomycin	Iterative type I polyketide	Streptomyces diastatochromogenes
+BGC0001061	polyketomycin	Type II polyketide	Streptomyces diastatochromogenes
+BGC0001061	polyketomycin	Hybrid/tailoring saccharide	Streptomyces diastatochromogenes
+BGC0001598	foxicins A-D	NRP	Streptomyces diastatochromogenes
+BGC0001598	foxicins A-D	Polyketide	Streptomyces diastatochromogenes
+BGC0001808	toyocamycin	Other	Streptomyces diastatochromogenes
+BGC0000598	polytheonamide A, polytheonamide B	Proteusin	Streptomyces diastatochromogenes Tü6028
+BGC0000138	rimocidin	Polyketide	Streptomyces diastaticus
+BGC0001910	cyslabdan	Terpene	Streptomyces cyslabdanicus
+BGC0000239	landomycin A	Type II polyketide	Streptomyces cyanogenus
+BGC0000239	landomycin A	Hybrid/tailoring saccharide	Streptomyces cyanogenus
+BGC0000215	curamycin	Polyketide	Streptomyces cyaneus
+BGC0000109	LL-F28249α	Polyketide	Streptomyces cyaneogriseus subsp. noncyanogenus
+BGC0001487	3,7-dihydroxytropolone	Other	Streptomyces cyaneofuscatus
+BGC0001935	3,7-dihydroxytropolone	Other	Streptomyces cyaneofuscatus
+BGC0001561	curacomycin	NRP	Streptomyces curacoi
+BGC0001562	curacomycin	NRP	Streptomyces curacoi
+BGC0002013	curacozole	RiPP	Streptomyces curacoi
+BGC0001295	cremeomycin	Other	Streptomyces cremeus
+BGC0001215	conglobatin	NRP	Streptomyces conglobatus
+BGC0001695	neoantimycin	NRP	Streptomyces conglobatus
+BGC0000266	collinomycin	Polyketide	Streptomyces collinus
+BGC0000272	spore pigment	Polyketide	Streptomyces collinus
+BGC0001070	kirromycin	NRP	Streptomyces collinus Tu 365
+BGC0001070	kirromycin	Modular type I polyketide	Streptomyces collinus Tu 365
+BGC0001070	kirromycin	Trans-AT type I polyketide	Streptomyces collinus Tu 365
+BGC0001227	isorenieratene	Terpene	Streptomyces collinus Tu 365
+BGC0000951	pacidamycin 1, pacidamycin 2, pacidamycin 3, pacidamycin 4, pacidamycin 5, pacidamycin 6, pacidamycin 7, pacidamycin D	NRP	Streptomyces coeruleorubidus
+BGC0000038	coelimycin P1	Modular type I polyketide	Streptomyces coelicolor A3(2)
+BGC0000194	actinorhodin	Type II polyketide	Streptomyces coelicolor A3(2)
+BGC0000315	CDA1b, CDA2a, CDA2b, CDA3a, CDA3b, CDA4a, CDA4b	Ca+-dependent lipopeptide	Streptomyces coelicolor A3(2)
+BGC0000324	coelibactin	NRP	Streptomyces coelicolor A3(2)
+BGC0000325	coelichelin	NRP	Streptomyces coelicolor A3(2)
+BGC0000551	SapB	Lanthipeptide	Streptomyces coelicolor A3(2)
+BGC0000595	SCO-2138	RiPP	Streptomyces coelicolor A3(2)
+BGC0000660	albaflavenone	Terpene	Streptomyces coelicolor A3(2)
+BGC0000663	hopene	Terpene	Streptomyces coelicolor A3(2)
+BGC0000849	SCB1, SCB2, SCB3	Butyrolactone	Streptomyces coelicolor A3(2)
+BGC0000910	melanin	Other	Streptomyces coelicolor A3(2)
+BGC0000914	methylenomycin A	Other	Streptomyces coelicolor A3(2)
+BGC0000940	desferrioxamin B, desferrioxamine E	Other	Streptomyces coelicolor A3(2)
+BGC0001063	undecylprodigiosin	NRP	Streptomyces coelicolor A3(2)
+BGC0001063	undecylprodigiosin	Polyketide	Streptomyces coelicolor A3(2)
+BGC0001181	geosmin	Terpene	Streptomyces coelicolor A3(2)
+BGC0000804	acarviostatin I03, acarviostatin II03, acarviostatin III03, acarviostatin IV03	Saccharide	Streptomyces coelicoflavus ZG0656
+BGC0000844	clavulanic acid	Other	Streptomyces clavuligerus
+BGC0000319	cephamycin C	Beta-lactam	Streptomyces clavuligerus ATCC 27064
+BGC0000373	holomycin	NRP	Streptomyces clavuligerus ATCC 27064
+BGC0000674	(-)-δ-cadinene	Terpene	Streptomyces clavuligerus ATCC 27064
+BGC0000675	(+)-T-muurolol	Terpene	Streptomyces clavuligerus ATCC 27064
+BGC0000826	staurosporine	Alkaloid	Streptomyces clavuligerus ATCC 27064
+BGC0000841	alanylclavam, 2-hydroxymethylclavam, 2-formyloxymethylclavam, clavam-2-carboxylate, clavulanic acid	Non-NRP beta-lactam	Streptomyces clavuligerus ATCC 27064
+BGC0000843	alanylclavam, 2-hydroxymethylclavam, 2-formyloxymethylclavam, clavam-2-carboxylate	Non-NRP beta-lactam	Streptomyces clavuligerus ATCC 27064
+BGC0000845	clavulanic acid	Non-NRP beta-lactam	Streptomyces clavuligerus ATCC 27064
+BGC0001310	naringenin	Terpene	Streptomyces clavuligerus ATCC 27064
+BGC0001514	aristeromycin	Other	Streptomyces citricolor
+BGC0001148	pheganomycin	NRP	Streptomyces cirratus
+BGC0001148	pheganomycin	RiPP	Streptomyces cirratus
+BGC0000503	cinnamycin	Lanthipeptide	Streptomyces cinnamoneus
+BGC0001468	bicyclomycin	tRNA-derived	Streptomyces cinnamoneus
+BGC0001530	bicyclomycin	Other	Streptomyces cinnamoneus
+BGC0001579	duramycin	Lanthipeptide	Streptomyces cinnamoneus
+BGC0000100	monensin	Polyketide	Streptomyces cinnamonensis
+BGC0001670	monensin	Polyketide	Streptomyces cinnamonensis
+BGC0000971	cinnabaramide A	NRP	Streptomyces cinnabarigriseus
+BGC0000971	cinnabaramide A	Modular type I polyketide	Streptomyces cinnabarigriseus
+BGC0000375	indigoidine	NRP	Streptomyces chromofuscus
+BGC0001065	herboxidiene	Polyketide	Streptomyces chromofuscus
+BGC0001829	α,β-epoxyketone	NRP	Streptomyces chromofuscus
+BGC0001829	α,β-epoxyketone	Polyketide	Streptomyces chromofuscus
+BGC0001986	purincyclamide	Other	Streptomyces chrestomyceticus
+BGC0000108	natamycin	Polyketide	Streptomyces chattanoogensis
+BGC0000032	A23187	Polyketide	Streptomyces chartreusis NRRL 3882
+BGC0000207	chartreusin	Polyketide	Streptomyces chartreusis
+BGC0000880	tunicamycin B1	Nucleoside	Streptomyces chartreusis NRRL 3882
+BGC0000847	thienamycin	Non-NRP beta-lactam	Streptomyces cattleya
+BGC0000903	fluorometabolite	Other	Streptomyces cattleya
+BGC0001539	cattlecin	RiPP	Streptomyces cattleya NRRL 8057 = DSM 46488
+BGC0001673	moomysin	RiPP	Streptomyces cattleya NRRL 8057 = DSM 46488
+BGC0001994	β-ethynylserine	Other	Streptomyces cattleya NRRL 8057 = DSM 46488
+BGC0002018	azomycin	Other	Streptomyces cattleya NRRL 8057 = DSM 46488
+BGC0000111	neocarzilin A, neocarzilin B	Polyketide	Streptomyces carzinostaticus
+BGC0000112	neocarzinostatin	Iterative type I polyketide	Streptomyces carzinostaticus subsp. neocarzinostaticus
+BGC0000112	neocarzinostatin	Enediyne type I polyketide	Streptomyces carzinostaticus subsp. neocarzinostaticus
+BGC0001406	telomycin	NRP	Streptomyces canus
+BGC0001457	jomthonic acid A, jomthonic acid B, jomthonic acid C	NRP	Streptomyces caniferus
+BGC0001856	caniferolide A, caniferolide B, caniferolide C, caniferolide D	Modular type I polyketide	Streptomyces caniferus
+BGC0001985	pyrazomycin	Other	Streptomyces candidus
+BGC0001297	WS9326	NRP	Streptomyces calvus
+BGC0001298	4-Z-annimycin	Polyketide	Streptomyces calvus
+BGC0001387	nucleocidin	Other	Streptomyces calvus
+BGC0000113	niddamycin	Polyketide	Streptomyces caelestis
+BGC0001225	celesticetin	NRP	Streptomyces caelestis
+BGC0000877	polyoxin A, polyoxin H	Other	Streptomyces cacaoi subsp. asoensis
+BGC0000468	bottromycin A2	Bottromycin	Streptomyces bottropensis
+BGC0001177	mensacaricin	Type II polyketide	Streptomyces bottropensis
+BGC0001179	rishirilide B, rishirilide A	Type II polyketide	Streptomyces bottropensis
+BGC0001085	teleocidin B1	NRP	Streptomyces blastmyceticus
+BGC0001085	teleocidin B1	Terpene	Streptomyces blastmyceticus
+BGC0001229	SBI-06990 A1, SBI-06989 A2	Lanthipeptide	Streptomyces bingchenggensis BCW-1
+BGC0000035	chalcomycin A	Polyketide	Streptomyces bikiniensis
+BGC0001472	berninamycin A	RiPP	Streptomyces bernensis
+BGC0000025	avermectin	Polyketide	Streptomyces avermitilis
+BGC0000059	filipin	Polyketide	Streptomyces avermitilis MA-4680 = NBRC 14893
+BGC0000117	oligomycin	Polyketide	Streptomyces avermitilis
+BGC0000271	spore pigment	Polyketide	Streptomyces avermitilis
+BGC0000633	carotenoid	Terpene	Streptomyces avermitilis
+BGC0000908	melanin	Other	Streptomyces avermitilis
+BGC0000909	melanin	Other	Streptomyces avermitilis
+BGC0000918	ochronotic pigment	Other	Streptomyces avermitilis
+BGC0001740	phthoxazolin	NRP	Streptomyces avermitilis
+BGC0001740	phthoxazolin	Polyketide	Streptomyces avermitilis
+BGC0000678	pentalenolactone	Terpene	Streptomyces avermitilis MA-4680 = NBRC 14893
+BGC0000683	avermitilol	Terpene	Streptomyces avermitilis MA-4680 = NBRC 14893
+BGC0001552	citrulassin F	RiPP	Streptomyces avermitilis MA-4680 = NBRC 14893
+BGC0001587	ethylenediaminesuccinic acid hydroxyarginine (EDHA)	Other	Streptomyces avermitilis MA-4680 = NBRC 14893
+BGC0000213	colabomycin E	Type II polyketide	Streptomyces aureus
+BGC0000201	auricin	Type II polyketide	Streptomyces aureofaciens
+BGC0000201	auricin	Hybrid/tailoring saccharide	Streptomyces aureofaciens
+BGC0000727	indigoidine	Saccharide	Streptomyces aureofaciens
+BGC0001519	aurantimycin A	NRP	Streptomyces aurantiacus JA 4570
+BGC0001519	aurantimycin A	Polyketide	Streptomyces aurantiacus JA 4570
+BGC0001549	citrulassin B	RiPP	Streptomyces aurantiacus JA 4570
+BGC0002000	setomimycin	Polyketide	Streptomyces aurantiacus JA 4570
+BGC0001101	leinamycin	NRP	Streptomyces atroolivaceus
+BGC0001101	leinamycin	Modular type I polyketide	Streptomyces atroolivaceus
+BGC0001101	leinamycin	Trans-AT type I polyketide	Streptomyces atroolivaceus
+BGC0001620	ilamycins	Polyketide	Streptomyces atratus
+BGC0001763	rufomycin	NRP	Streptomyces atratus
+BGC0001763	rufomycin	Polyketide	Streptomyces atratus
+BGC0001975	atratumycin	NRP	Streptomyces atratus
+BGC0001934	armeniaspirols	Polyketide	Streptomyces armeniacus
+BGC0002022	armeniaspirol A, armeniaspirol B, armeniaspirol C	Polyketide	Streptomyces armeniacus
+BGC0000883	arginomycin	Other	Streptomyces arginensis
+BGC0000246	mithramycin	Polyketide	Streptomyces argillaceus
+BGC0000247	mithramycin	Type II polyketide	Streptomyces argillaceus
+BGC0000247	mithramycin	Oligosaccharide	Streptomyces argillaceus
+BGC0001433	argimycin PI, argimycin PII, nigrifactin, argimycin PIV, argimycin PV, argimycin PVI, argimycin PIX	Modular type I polyketide	Streptomyces argillaceus
+BGC0001453	desferrioxamine	Other	Streptomyces argillaceus
+BGC0001454	germicidin	Other	Streptomyces argillaceus
+BGC0001455	antimycin	NRP	Streptomyces argillaceus
+BGC0001455	antimycin	Polyketide	Streptomyces argillaceus
+BGC0001456	isorenieratene	Terpene	Streptomyces argillaceus
+BGC0001853	largimiycin 38, largimycin 39	Modular type I polyketide	Streptomyces argillaceus
+BGC0001853	largimiycin 38, largimycin 39	NRP	Streptomyces argillaceus
+BGC0000651	KS-505a	Terpene	Streptomyces argenteolus
+BGC0000842	carbapenem MM4550	Non-NRP beta-lactam	Streptomyces argenteolus
+BGC0000248	naphtocyclinone	Polyketide	Streptomyces arenae
+BGC0000653	pentalenolactone	Terpene	Streptomyces arenae
+BGC0000296	actinomycin D	NRP	Streptomyces anulatus
+BGC0000853	ectoine	Other	Streptomyces anulatus
+BGC0001080	endophenazine A, endophenazine B	Phenazine	Streptomyces anulatus
+BGC0001797	telomestatin	RiPP	Streptomyces anulatus
+BGC0001911	raimonol	Terpene	Streptomyces anulatus
+BGC0000036	chlorothricin, deschlorothricin	Modular type I polyketide	Streptomyces antibioticus
+BGC0000036	chlorothricin, deschlorothricin	Iterative type I polyketide	Streptomyces antibioticus
+BGC0000036	chlorothricin, deschlorothricin	Oligosaccharide	Streptomyces antibioticus
+BGC0000079	X-14547	Polyketide	Streptomyces antibioticus
+BGC0000253	oviedomycin	Type II polyketide	Streptomyces antibioticus
+BGC0000270	simocyclinone D8	Polyketide	Streptomyces antibioticus
+BGC0000835	simocyclinone	Polyketide	Streptomyces antibioticus
+BGC0000935	esmeraldin	Polyketide	Streptomyces antibioticus
+BGC0000935	esmeraldin	Aminocoumarin	Streptomyces antibioticus
+BGC0001072	simocyclinone D8	Saccharide	Streptomyces antibioticus
+BGC0001072	simocyclinone D8	Modular type I polyketide	Streptomyces antibioticus
+BGC0001072	simocyclinone D8	Type II polyketide	Streptomyces antibioticus
+BGC0001072	simocyclinone D8	Aminocoumarin	Streptomyces antibioticus
+BGC0001151	valclavam, (-)-2-(2-hydroxyethyl)clavam	Non-NRP beta-lactam	Streptomyces antibioticus
+BGC0001723	oviedomycin	Polyketide	Streptomyces antibioticus
+BGC0001735	pentostatine, vidarabine	Other	Streptomyces antibioticus
+BGC0000083	lactimidomycin, 8,9-dihydrolactimidomycin, 8-hydroxy-8,9-dihydrolactidomycin, 17-hydroxy-8-desmethoxy-isomigrastatin	Modular type I polyketide	Streptomyces amphibiosporus
+BGC0000083	lactimidomycin, 8,9-dihydrolactimidomycin, 8-hydroxy-8,9-dihydrolactidomycin, 17-hydroxy-8-desmethoxy-isomigrastatin	Trans-AT type I polyketide	Streptomyces amphibiosporus
+BGC0000151	stambomycin A, stambomycin B, stambomycin C, stambomycin D	Modular type I polyketide	Streptomyces ambofaciens ATCC 23877
+BGC0000151	stambomycin A, stambomycin B, stambomycin C, stambomycin D	Hybrid/tailoring saccharide	Streptomyces ambofaciens ATCC 23877
+BGC0000327	netropsin	NRP	Streptomyces ambofaciens ATCC 23877
+BGC0002033	spiramycin	Polyketide	Streptomyces ambofaciens ATCC 23877
+BGC0000143	salinomycin	Polyketide	Streptomyces albus
+BGC0000144	salinomycin	Modular type I polyketide	Streptomyces albus
+BGC0001106	oxalomycin B	NRP	Streptomyces albus
+BGC0001106	oxalomycin B	Polyketide	Streptomyces albus
+BGC0001596	fluostatins M-Q	Polyketide	Streptomyces albus
+BGC0002006	albusnodin	RiPP	Streptomyces albus
+BGC0000409	porothramycin A	NRP	Streptomyces albus subsp. albus
+BGC0001965	nybomycin	Other	Streptomyces albus subsp. chlorinus
+BGC0001548	citrulassin A	RiPP	Streptomyces albulus
+BGC0001570	deimino-antipain	NRP	Streptomyces albulus
+BGC0001709	nystatin	Polyketide	Streptomyces albulus
+BGC0000878	puromycin	Other	Streptomyces alboniger
+BGC0001150	pamamycin-607	Type II polyketide	Streptomyces alboniger
+BGC0001150	pamamycin-607	Type III polyketide	Streptomyces alboniger
+BGC0001374	thienodolin	Other	Streptomyces albogriseolus
+BGC0000546	SAL-2242	Lanthipeptide	Streptomyces albidoflavus
+BGC0001792	surugamide A, surugamide D	NRP	Streptomyces albidoflavus
+BGC0000211	chrysomycin	Polyketide	Streptomyces albaduncus
+BGC0000052	ECO-02301	Polyketide	Streptomyces aizunensis
+BGC0000881	toyocamycin	Other	Streptomyces ahygroscopicus subsp. wuzhouensis
+BGC0001610	gougerotin	Other	Streptomyces ahygroscopicus subsp. wuzhouensis
+BGC0001236	thiotetroamide	Polyketide	Streptomyces afghaniensis
+BGC0002012	julichrome Q3-3, julichrome Q3-5	Polyketide	Streptomyces afghaniensis 772
+BGC0000050	E-837	Polyketide	Streptomyces aculeolatus
+BGC0001079	napyradiomycin A80915C	Terpene	Streptomyces aculeolatus
+BGC0001079	napyradiomycin A80915C	Type III polyketide	Streptomyces aculeolatus
+BGC0000610	nosiheptide	Thiopeptide	Streptomyces actuosus
+BGC0000850	γ-butyrolactone	Other	Streptomyces acidiscabies
+BGC0000448	tomaymycin	NRP	Streptomyces achromogenes
+BGC0001493	achromosin	RiPP	Streptomyces achromogenes subsp. achromogenes
+BGC0000141	rubradirin	Polyketide	Streptomyces achromogenes subsp. rubradiris
+BGC0002015	aborycin	RiPP	Streptomyces sp. ZS0098
+BGC0001435	ikarugamycin	NRP	Streptomyces sp. ZJ306
+BGC0001435	ikarugamycin	Iterative type I polyketide	Streptomyces sp. ZJ306
+BGC0001732	paulomycin	Other	Streptomyces sp. YN86
+BGC0000175	cycloheximide	Trans-AT type I polyketide	Streptomyces sp. YIM 56141
+BGC0000957	mycotrienin I	NRP	Streptomyces sp. XZQH13
+BGC0000957	mycotrienin I	Polyketide	Streptomyces sp. XZQH13
+BGC0000470	bottromycin D	Cyanobactin	Streptomyces sp. WMMB 272
+BGC0000937	fosfazinomycin A	Other	Streptomyces sp. WM6372
+BGC0000889	bagremycin A, bagremycin B	Other	Streptomyces sp. WK-5344
+BGC0001619	ibomycin	Polyketide	Streptomyces sp. WAC2288
+BGC0001817	vancosamine	Other	Streptomyces sp. WAC2288
+BGC0000235	kiamycin	Polyketide	Streptomyces sp. W007
+BGC0000131	pyrrolomycin	Polyketide	Streptomyces sp. UC 11065
+BGC0000132	pyrrolomycin	Polyketide	Streptomyces sp. UC 11065
+BGC0000654	phenalinolactone A	Terpene	Streptomyces sp. Tu6071
+BGC0000654	phenalinolactone A	Hybrid/tailoring saccharide	Streptomyces sp. Tu6071
+BGC0001213	nataxazole	Polyketide	Streptomyces sp. Tu 6176
+BGC0000466	yatakemycin	NRP	Streptomyces sp. TP-A2060
+BGC0000565	goadsporin	LAP	Streptomyces sp. TP-A0584
+BGC0000825	staurosporine	Alkaloid	Streptomyces sp. TP-A0274
+BGC0001384	saprolmycin E	Polyketide	Streptomyces sp. TK08046
+BGC0000222	FD-594	Polyketide	Streptomyces sp. TA-0256
+BGC0001301	anthracimycin	Polyketide	Streptomyces sp. T676
+BGC0001442	actinonin	NRP	Streptomyces sp. strain ATCC 14903
+BGC0000996	frontalamide B	NRP	Streptomyces sp. SPB78
+BGC0000996	frontalamide B	Iterative type I polyketide	Streptomyces sp. SPB78
+BGC0000212	cinerubin B	Type II polyketide	Streptomyces sp. SPB074
+BGC0000376	JBIR-34, JBIR-35	NRP	Streptomyces sp. Sp080513GE-23
+BGC0001764	s56-p1	NRP	Streptomyces sp. SoC090715LN-17
+BGC0001922	isoindolinomycin	Polyketide	Streptomyces sp. SoC090715LN-16
+BGC0000434	SW-163C, UK-63598, SW-163E, SW-163F, SW-163G	NRP	Streptomyces sp. SNA15896
+BGC0000135	reveromycin A	Polyketide	Streptomyces sp. SN-593
+BGC0001076	liposidomycin B, liposidomycin A, liposidomycin C, liposidomycin Z, liposidomycin H, liposidomycin G, liposidomycin L, liposidomycin M, liposidomycin K, liposidomycin N	Nucleoside	Streptomyces sp. SN-1061M
+BGC0000269	SF2575	Type II polyketide	Streptomyces sp. SF2575
+BGC0000269	SF2575	Hybrid/tailoring saccharide	Streptomyces sp. SF2575
+BGC0001770	sceliphrolactam	Polyketide	Streptomyces sp. SD85
+BGC0001908	sceliphrolactam	Polyketide	Streptomyces sp. SD85
+BGC0001568	cytorhodin	Polyketide	Streptomyces sp. SCSIO 1666
+BGC0001169	piericidin A1	Modular type I polyketide	Streptomyces sp. SCSIO 03032
+BGC0001349	heronamide A, heronamide B, heronamide C, heronamide D, heronamide E, heronamide F	NRP	Streptomyces sp. SCSIO 03032
+BGC0001349	heronamide A, heronamide B, heronamide C, heronamide D, heronamide E, heronamide F	Polyketide	Streptomyces sp. SCSIO 03032
+BGC0001782	spiroindimicin A, spiroindimicin B, spiroindimicin C, spiroindimicin D, indimicin A, indimicin B, indimicin C, indimicin D, indimicin E, lynamicin A, lynamicin D, lynamicin F, lynamicin G	Other	Streptomyces sp. SCSIO 03032
+BGC0000666	xiamycin A	Terpene	Streptomyces sp. SCSIO 02999
+BGC0001004	lobophorin B	Modular type I polyketide	Streptomyces sp. SCSIO 01127
+BGC0000268	Sch-47554, Sch-47555	Polyketide	Streptomyces sp. SCC 2136
+BGC0000288	A-503083 A, A-503083 B, A-503083 E, A-503083 F	NRP	Streptomyces sp. SANK 62799
+BGC0000190	A-74528	Polyketide	Streptomyces sp. SANK 61196
+BGC0000872	A-90289 A, A-90289 B	Other	Streptomyces sp. SANK 60405
+BGC0001818	vazabitide A	NRP	Streptomyces sp. SANK 60404
+BGC0001912	(2S,6R)-diamino-(5R,7)-dihydroxy-heptanoic acid	NRP	Streptomyces sp. SANK 60404
+BGC0002032	pentamycin	Polyketide	Streptomyces sp. S816
+BGC0000958	antimycin	Cyclic depsipeptide	Streptomyces sp. S4
+BGC0000958	antimycin	Modular type I polyketide	Streptomyces sp. S4
+BGC0001483	5-isoprenylindole-3-carboxylate β-D-glycosyl ester	Other	Streptomyces sp. RM-5-8
+BGC0001529	bezastatin derivates	Alkaloid	Streptomyces sp. RI18
+BGC0001914	benzastatin J, 7-hydroxyl benzastatin B, 7-hydroxyl O-demethylbenzastatin A, JBIR-67, 7-hydroxyl benzastatin F, 7-hydroxyl O-demethylbenzastatin D, O-demethylvirantmycin, 7-hydroxyl benzastatin D, virantmycin, benzastatin K, methylbenzastatin K	Other	Streptomyces sp. RI18
+BGC0001386	JBIR-76, JBIR-77	Polyketide	Streptomyces sp. RI-77
+BGC0000261	R1128	Polyketide	Streptomyces sp. R1128
+BGC0002016	lugdunomycin	Polyketide	Streptomyces sp. QL37
+BGC0000262	prejadomycin, rabelomycin, gaudimycin C, gaudimycin D, UWM6, gaudimycin A	Type II polyketide	Streptomyces sp. PGA64
+BGC0000262	prejadomycin, rabelomycin, gaudimycin C, gaudimycin D, UWM6, gaudimycin A	Hybrid/tailoring saccharide	Streptomyces sp. PGA64
+BGC0000582	cypemycin	Linaridin	Streptomyces sp. OH-4156
+BGC0001444	caboxamycin	Other	Streptomyces sp. NTK 937
+BGC0001538	caboxamycin	NRP	Streptomyces sp. NTK 937
+BGC0001538	caboxamycin	Polyketide	Streptomyces sp. NTK 937
+BGC0001146	cyclothiazomycin C	Thiopeptide	Streptomyces sp. NRRL WC-3908
+BGC0001813	tyrobetaine	NRP	Streptomyces sp. NRRL WC-3703
+BGC0001852	komodoquinone B	Type II polyketide	Streptomyces sp. NRRL S-378
+BGC0001852	komodoquinone B	Hybrid/tailoring saccharide	Streptomyces sp. NRRL S-378
+BGC0001840	detoxin S1	NRP	Streptomyces sp. NRRL S-325
+BGC0001840	detoxin S1	Polyketide	Streptomyces sp. NRRL S-325
+BGC0001506	anantin B1, anantin B2	RiPP	Streptomyces sp. NRRL S-146
+BGC0001645	lagmysin	RiPP	Streptomyces sp. NRRL S-118
+BGC0001634	keywimysin	RiPP	Streptomyces sp. NRRL F-5702
+BGC0001739	phosphonoacetic Acid	Other	Streptomyces sp. NRRL F-525
+BGC0001368	JBIR-126	NRP	Streptomyces sp. NRRL F-4474
+BGC0000366	gobichelin A, gobichelin B	NRP	Streptomyces sp. NRRL F-4415
+BGC0001885	oxazolepoxidomycin A	Polyketide	Streptomyces sp. NRRL F-4335
+BGC0001607	gilvusmycin	Other	Streptomyces sp. NRRL B-1347
+BGC0001878	detoxin N2, detoxin N3	NRP	Streptomyces sp. NRRL B-1347
+BGC0001878	detoxin N2, detoxin N3	Polyketide	Streptomyces sp. NRRL B-1347
+BGC0001011	meridamycin	NRP	Streptomyces sp. NRRL 30748
+BGC0001011	meridamycin	Polyketide	Streptomyces sp. NRRL 30748
+BGC0001020	muraymycin C1	NRP	Streptomyces sp. NRRL 30471
+BGC0001020	muraymycin C1	Polyketide	Streptomyces sp. NRRL 30471
+BGC0001292	A33853	Other	Streptomyces sp. NRRL 12068
+BGC0000164	tetronomycin	Polyketide	Streptomyces sp. NRRL 11266
+BGC0001293	cyclizidine	Polyketide	Streptomyces sp. NCIB 11649
+BGC0001537	butyrolactol A	Polyketide	Streptomyces sp. NBRC 110030
+BGC0001199	akaeolide	Polyketide	Streptomyces sp. NBRC 109706
+BGC0001200	lorneic acid A	Polyketide	Streptomyces sp. NBRC 109706
+BGC0001332	microtermolide A	NRP	Streptomyces sp. MspMP-M5
+BGC0001332	microtermolide A	Polyketide	Streptomyces sp. MspMP-M5
+BGC0001296	streptazone E	Polyketide	Streptomyces sp. MSC090213JE08
+BGC0001623	ishigamide	NRP	Streptomyces sp. MSC090213JE08
+BGC0001623	ishigamide	Polyketide	Streptomyces sp. MSC090213JE08
+BGC0000097	ML-449	Modular type I polyketide	Streptomyces sp. MP39-85
+BGC0001647	lagunapyrone A, lagunapyrone B, lagunapyrone C	Polyketide	Streptomyces sp. MP131-18
+BGC0000078	incednine	Polyketide	Streptomyces sp. ML694-90F3
+BGC0001036	polyoxypeptin	Polyketide	Streptomyces sp. MK498-98F14
+BGC0001036	polyoxypeptin	NRP	Streptomyces sp. MK498-98F14
+BGC0000042	cremimycin	Polyketide	Streptomyces sp. MJ635-86F5
+BGC0001752	qinichelins	NRP	Streptomyces sp. MBT76
+BGC0001294	7-prenylisatin	Other	Streptomyces sp. MBT28
+BGC0000353	tacrolimus	NRP	Streptomyces sp. MA6548
+BGC0001903	neocarazostatin A	Other	Streptomyces sp. MA37
+BGC0001928	(2R,3S,4S)-5-fluoro-2,3,4-trihydroxypentanoic acid	Other	Streptomyces sp. MA37
+BGC0000075	hygrocin A, hygrocin B	Polyketide	Streptomyces sp. LZ35
+BGC0000340	echoside A, echoside B, echoside C, echoside D, echoside E	NRP	Streptomyces sp. LZ35
+BGC0001492	abyssomicin M, abyssomicin N, abyssomicin O, abyssomicin P, abyssomicin Q, abyssomicin R, abyssomicin S, abyssomicin T, abyssomicin U, abyssomicin V, abyssomicin W, abyssomicin X	Polyketide	Streptomyces sp. LC-6-2
+BGC0000360	GE81112	NRP	Streptomyces sp. L-49973
+BGC0001590	formicamycins A-M	Polyketide	Streptomyces sp. KY5
+BGC0000286	viguiepinol	Polyketide	Streptomyces sp. KO-3988
+BGC0001078	furaquinocin B	Terpene	Streptomyces sp. KO-3988
+BGC0001078	furaquinocin B	Polyketide	Streptomyces sp. KO-3988
+BGC0001762	rubrolone A, rubrolone B	Alkaloid	Streptomyces sp. KIB-H033
+BGC0000047	10,11-dihydro-8-deoxy-12,13-deepoxy-12,13-dihydrochalcomycin	Polyketide	Streptomyces sp. KCTC 0041BP
+BGC0001814	ulleungmycin	NRP	Streptomyces sp. KCB13F003
+BGC0000998	guadinomine	NRP	Streptomyces sp. K01-0509
+BGC0000998	guadinomine	Polyketide	Streptomyces sp. K01-0509
+BGC0001553	clifednamide A	NRP	Streptomyces sp. JV178
+BGC0001553	clifednamide A	Polyketide	Streptomyces sp. JV178
+BGC0000230	griseorhodin A	Type II polyketide	Streptomyces sp. JP95
+BGC0001877	cyphomycin	Polyketide	Streptomyces sp. ISID311
+BGC0001700	niphimycins C-E	Polyketide	Streptomyces sp. IMB7-145
+BGC0001477	lydicamycin	NRP	Streptomyces sp. ID38640
+BGC0001477	lydicamycin	Modular type I polyketide	Streptomyces sp. ID38640
+BGC0001478	desferrioxamine E	Other	Streptomyces sp. ID38640
+BGC0001652	limazepine C, limazepine D, limazepine E, limazepine F, limazepine A	NRP	Streptomyces sp. ICBB 8177
+BGC0002034	perquinoline A, perquinoline B, perquinoline C	Other	Streptomyces sp. IB2014 016-6
+BGC0000665	xiamycin	Terpene	Streptomyces sp. HKI0576
+BGC0000665	xiamycin	Alkaloid	Streptomyces sp. HKI0576
+BGC0001119	divergolide A, divergolide B, divergolide C, divergolide D	Modular type I polyketide	Streptomyces sp. HKI0576
+BGC0000123	phoslactomycin B	Polyketide	Streptomyces sp. HK803
+BGC0001183	lobophorin A	Polyketide	Streptomyces sp. FXJ7.023
+BGC0000034	candicidin	Polyketide	Streptomyces sp. FR-008
+BGC0000061	levorin A3, C06690, FR-008-III, candicidin A, UNII-AP5PEF5W7U	Polyketide	Streptomyces sp. FR-008
+BGC0001366	BE-24566B, zunyimycin A	Polyketide	Streptomyces sp. FJS31-2
+BGC0001850	diazaquinomycin A, diazaquinomycin E, diazaquinomycin F, diazaquinomycin G	Shikimate-derived	Streptomyces sp. F001
+BGC0000597	SWA-2138	Proteusin	Streptomyces sp. e14
+BGC0000950	napsamycin A, napsamycin B, napsamycin C, napsamycin D, mureidomycin A, mureidomycin B	Uridylpeptide	Streptomyces sp. DSM 5940
+BGC0000950	napsamycin A, napsamycin B, napsamycin C, napsamycin D, mureidomycin A, mureidomycin B	Nucleoside	Streptomyces sp. DSM 5940
+BGC0000029	BE-14106	Modular type I polyketide	Streptomyces sp. DSM 21069
+BGC0001233	feglymycin	NRP	Streptomyces sp. DSM 11171
+BGC0001188	legonaridin	RiPP	Streptomyces sp. CT34
+BGC0000084	laidlomycin	Polyketide	Streptomyces sp. CS684
+BGC0000973	collismycin A	NRP	Streptomyces sp. CS40
+BGC0000973	collismycin A	Modular type I polyketide	Streptomyces sp. CS40
+BGC0001452	sipanmycin	Polyketide	Streptomyces sp. CS149
+BGC0001439	antibiotic HKI 10311129, antibiotic A2121-1, cervimycin D, cervimycin C, cervimycin A	Polyketide	Streptomyces sp. CS113
+BGC0001439	antibiotic HKI 10311129, antibiotic A2121-1, cervimycin D, cervimycin C, cervimycin A	Hybrid/tailoring saccharide	Streptomyces sp. CS113
+BGC0001438	warkmycin CS1, warkmycin CS2	Polyketide	Streptomyces sp. CS057
+BGC0001438	warkmycin CS1, warkmycin CS2	Hybrid/tailoring saccharide	Streptomyces sp. CS057
+BGC0000106	naphthomycin A	Polyketide	Streptomyces sp. CS
+BGC0001558	cosmomycin C	Polyketide	Streptomyces sp. CNT302
+BGC0000652	napyradiomycin	Terpene	Streptomyces sp. CNQ525
+BGC0001216	splenocin	NRP	Streptomyces sp. CNQ431
+BGC0001216	splenocin	Polyketide	Streptomyces sp. CNQ431
+BGC0000091	marineosin A, marineosin B	Polyketide	Streptomyces sp. CNQ-617
+BGC0001221	marinophenazine A, phenaziterpene A	Phenazine	Streptomyces sp. CNQ-509
+BGC0001159	marinopyrrole A, marinopyrrole E, marinopyrrole D, marinopyrrole C, marinopyrrole B	NRP	Streptomyces sp. CNQ-418
+BGC0001159	marinopyrrole A, marinopyrrole E, marinopyrrole D, marinopyrrole C, marinopyrrole B	Modular type I polyketide	Streptomyces sp. CNQ-418
+BGC0001300	anthracimycin	Polyketide	Streptomyces sp. CNH365
+BGC0001083	merochlorin A, merochlorin B, deschloro-merochlorin A, deschloro-merochlorin B, isochloro-merochlorin B, dichloro-merochlorin B, merochlorin D, merochlorin C	Terpene	Streptomyces sp. CNH189
+BGC0001083	merochlorin A, merochlorin B, deschloro-merochlorin A, deschloro-merochlorin B, isochloro-merochlorin B, dichloro-merochlorin B, merochlorin D, merochlorin C	Type III polyketide	Streptomyces sp. CNH189
+BGC0001172	chlorizidine A	NRP	Streptomyces sp. CNH-287
+BGC0001172	chlorizidine A	Modular type I polyketide	Streptomyces sp. CNH-287
+BGC0001230	salinamide A, salinamide B, salinamide C, salinamide D, salinamide E, salinamide F, desmethylsalinamide C, desmethylsalinamide E	Cyclic depsipeptide	Streptomyces sp. CNB091
+BGC0001230	salinamide A, salinamide B, salinamide C, salinamide D, salinamide E, salinamide F, desmethylsalinamide C, desmethylsalinamide E	Modular type I polyketide	Streptomyces sp. CNB091
+BGC0001766	salinamide A	NRP	Streptomyces sp. CNB091
+BGC0002010	streptophenazine B, streptophenazine C, streptophenazine F, streptophenazine G, streptophenazine H	NRP	Streptomyces sp. CNB091
+BGC0002010	streptophenazine B, streptophenazine C, streptophenazine F, streptophenazine G, streptophenazine H	Polyketide	Streptomyces sp. CNB091
+BGC0000195	alnumycin A, alnumycin B, alnumycin C, alnumycin P, prealnumycin, thalnumycin A, thalnumycin B, K1115A, 1,6-dihydro-8-propylanthraquinone	Type II polyketide	Streptomyces sp. CM020
+BGC0000157	tautomycetin	Polyketide	Streptomyces sp. CK4412
+BGC0001846	valinomycin, montanastatin	NRP	Streptomyces sp. CBMAI 2042
+BGC0001846	valinomycin, montanastatin	Hybrid/tailoring saccharide	Streptomyces sp. CBMAI 2042
+BGC0001895	huanglongmycin A, huanglongmycin B, huanglongmycin C	Polyketide	Streptomyces sp. CB09001
+BGC0001378	tiancimycin	Polyketide	Streptomyces sp. CB03234
+BGC0001804	tiancimycin	Polyketide	Streptomyces sp. CB03234
+BGC0002019	tiancilactone	Terpene	Streptomyces sp. CB03234
+BGC0001584	C-1027	Polyketide	Streptomyces sp. CB02366
+BGC0001823	weishanmycin	NRP	Streptomyces sp. CB02120-2
+BGC0001823	weishanmycin	Polyketide	Streptomyces sp. CB02120-2
+BGC0001611	guangnanmycin	NRP	Streptomyces sp. CB01883
+BGC0001611	guangnanmycin	Polyketide	Streptomyces sp. CB01883
+BGC0001625	isofuranonaphthoquinone	Polyketide	Streptomyces sp. CB01883
+BGC0000469	bottromycin A2	Bottromycin	Streptomyces sp. BC16019
+BGC0000368	streptobactin	NRP	Streptomyces sp. ATCC 700974
+BGC0000605	GE37468	Thiopeptide	Streptomyces sp. ATCC 55365
+BGC0000245	medermycin	Polyketide	Streptomyces sp. AM-7161
+BGC0000429	skyllamycin A, skyllamycin B	Polyketide	Streptomyces sp. Acta 2897
+BGC0000429	skyllamycin A, skyllamycin B	Cyclic depsipeptide	Streptomyces sp. Acta 2897
+BGC0000300	amychelin	NRP	Streptomyces sp. AA4
+BGC0000204	benastatin A, benastatin B, BE-43767, TAN1532B	Type II polyketide	Streptomyces sp. A2991200
+BGC0001396	aldgamycin J, aldgamycin K, aldgamycin P, aldgamycin E	Polyketide	Streptomyces sp. A1(2016)
+BGC0000140	4-hexadecanoyl-3-hydroxy-2-(hydroxymethyl)-2H-furan-5-one	Polyketide	Streptomyces sp. 88-682
+BGC0001052	tirandamycin	NRP	Streptomyces sp. 307-9
+BGC0001052	tirandamycin	Modular type I polyketide	Streptomyces sp. 307-9
+BGC0000232	hatomarubigin A, hatomarubigin B, hatomarubigin C, hatomarubigin D	Polyketide	Streptomyces sp. 2238-SVT4
+BGC0001523	azalomycin F3a	Polyketide	Streptomyces sp. 211726
+BGC0000217	daunorubicin	Polyketide	Streptomyces sp.
+BGC0001013	meridamycin	NRP	Streptomyces sp.
+BGC0001013	meridamycin	Polyketide	Streptomyces sp.
+BGC0001441	belactosin A, belactosin C	Other	Streptomyces sp.
+BGC0001476	pseudouridimycin	Nucleoside	Streptomyces sp.
+BGC0001497	actinonin	Polyketide	Streptomyces sp.
+BGC0001512	BE-24566B	Polyketide	Streptomyces sp.
+BGC0001556	combamide	NRP	Streptomyces sp.
+BGC0001556	combamide	Polyketide	Streptomyces sp.
+BGC0001622	isatropolone A, isotropolone B, isotropolone C	Polyketide	Streptomyces sp.
+BGC0001648	lasalocid	Polyketide	Streptomyces sp.
+BGC0001661	mayamycin	Polyketide	Streptomyces sp.
+BGC0001696	neothioviridamide	RiPP	Streptomyces sp.
+BGC0001707	nosiheptide	RiPP	Streptomyces sp.
+BGC0001755	reedsmycins	Polyketide	Streptomyces sp.
+BGC0001769	saquayamycin A	Polyketide	Streptomyces sp.
+BGC0001918	JBIR-06	Polyketide	Streptomyces sp.
+BGC0001918	JBIR-06	NRP	Streptomyces sp.
+BGC0001920	siamycin I	RiPP	Streptomyces sp.
+BGC0001921	MS-271	Other	Streptomyces sp.
+BGC0001925	altemicidin, SB-203207, SB-203208	Alkaloid	Streptomyces sp.
+BGC0001927	A-94964	Other	Streptomyces sp.
+BGC0001948	naseseazine C, C3-aryl pyrroloindolines	Other	Streptomyces sp.
+BGC0001961	ashimides	NRP	Streptomyces sp.
+BGC0001984	sarpeptin A, sarpeptin B	NRP	Streptomyces sp.
+BGC0001176	streptomonomicin	Lassopeptide	Streptomonospora alba
+BGC0002045	Persiamycin A	Type II polyketide	Streptomonospora sp. PA3
+BGC0000494	uberolysin	Lanthipeptide	Streptococcus uberis
+BGC0000537	nisin U	Lanthipeptide	Streptococcus uberis
+BGC0000561	thermophilin 1277	Lanthipeptide	Streptococcus thermophilus
+BGC0001209	streptide	RiPP	Streptococcus thermophilus LMD-9
+BGC0001787	suicin 3908	RiPP	Streptococcus suis
+BGC0001788	suicin 65	RiPP	Streptococcus suis
+BGC0001789	suicin 90-1330	RiPP	Streptococcus suis
+BGC0000547	salivaricin 9	Lanthipeptide	Streptococcus salivarius
+BGC0000548	salivaricin A	Lanthipeptide	Streptococcus salivarius
+BGC0000549	salivaricin D	Lanthipeptide	Streptococcus salivarius
+BGC0000550	salivaricin G32	Lanthipeptide	Streptococcus salivarius
+BGC0000497	BHT-Aα, BHT-Aβ	Lanthipeptide	Streptococcus ratti
+BGC0000556	streptin	Lanthipeptide	Streptococcus pyogenes
+BGC0000557	streptococcin A-FF22	Lanthipeptide	Streptococcus pyogenes
+BGC0000566	streptolysin S	LAP	Streptococcus pyogenes M1 GAS
+BGC0000531	mutacin I	Lanthipeptide	Streptococcus mutans
+BGC0000532	mutacin II	Lanthipeptide	Streptococcus mutans
+BGC0000533	mutacin III	Lanthipeptide	Streptococcus mutans
+BGC0000534	mutacin K8	Lanthipeptide	Streptococcus mutans
+BGC0000552	SmbA, SmbB	Lanthipeptide	Streptococcus mutans
+BGC0000530	mutacin B-Ny266	Lanthipeptide	Streptococcus mutans N66
+BGC0000526	macedocin	Lanthipeptide	Streptococcus macedonicus
+BGC0001929	WGK	RiPP	Streptococcus ferus
+BGC0000498	bovicin HJ50	Lanthipeptide	Streptococcus equinus
+BGC0000347	equibactin	NRP	Streptococcus equi subsp. equi
+BGC0000740	capsular polysaccharide	Saccharide	Streptococcus agalactiae
+BGC0000741	capsular polysaccharide	Saccharide	Streptococcus agalactiae
+BGC0000742	capsular polysaccharide	Saccharide	Streptococcus agalactiae
+BGC0000743	capsular polysaccharide	Saccharide	Streptococcus agalactiae
+BGC0000744	capsular polysaccharide	Saccharide	Streptococcus agalactiae
+BGC0000745	capsular polysaccharide	Saccharide	Streptococcus agalactiae
+BGC0000746	capsular polysaccharide	Saccharide	Streptococcus agalactiae
+BGC0000747	capsular polysaccharide	Saccharide	Streptococcus agalactiae
+BGC0000748	capsular polysaccharide	Saccharide	Streptococcus agalactiae
+BGC0000720	tobramycin	Saccharide	Streptoalloteichus tenebrarius
+BGC0000721	tobramycin	Saccharide	Streptoalloteichus tenebrarius
+BGC0000692	apramycin	Saccharide	Streptoalloteichus hindustanus
+BGC0000719	tobramycin	Saccharide	Streptoalloteichus hindustanus
+BGC0001048	tallysomycin A	Glycopeptide	Streptoalloteichus hindustanus
+BGC0001048	tallysomycin A	Modular type I polyketide	Streptoalloteichus hindustanus
+BGC0001048	tallysomycin A	Hybrid/tailoring saccharide	Streptoalloteichus hindustanus
+BGC0000081	kedarcidin	Iterative type I polyketide	Streptoalloteichus sp. ATCC 53650
+BGC0000081	kedarcidin	Enediyne type I polyketide	Streptoalloteichus sp. ATCC 53650
+BGC0001432	myxochromide D	Cyclic depsipeptide	Stigmatella erecta
+BGC0001432	myxochromide D	Iterative type I polyketide	Stigmatella erecta
+BGC0000023	aurafuron A	Modular type I polyketide	Stigmatella aurantiaca DW4/3-1
+BGC0000044	dawenol	Polyketide	Stigmatella aurantiaca DW4/3-1
+BGC0001022	myxalamid	NRP	Stigmatella aurantiaca
+BGC0001022	myxalamid	Polyketide	Stigmatella aurantiaca
+BGC0001023	myxochromide S1	NRP	Stigmatella aurantiaca
+BGC0001023	myxochromide S1	Modular type I polyketide	Stigmatella aurantiaca
+BGC0001431	myxochromide S	Cyclic depsipeptide	Stigmatella aurantiaca
+BGC0001431	myxochromide S	Iterative type I polyketide	Stigmatella aurantiaca
+BGC0000986	dkxanthene	NRP	Stigmatella aurantiaca DW4/3-1
+BGC0000986	dkxanthene	Polyketide	Stigmatella aurantiaca DW4/3-1
+BGC0001024	myxothiazol	NRP	Stigmatella aurantiaca DW4/3-1
+BGC0001024	myxothiazol	Modular type I polyketide	Stigmatella aurantiaca DW4/3-1
+BGC0001429	myxochromide S1	Cyclic depsipeptide	Stigmatella aurantiaca DW4/3-1
+BGC0001429	myxochromide S1	Iterative type I polyketide	Stigmatella aurantiaca DW4/3-1
+BGC0000153	stigmatellin	NRP	Stigmatella aurantiaca Sg a15
+BGC0000153	stigmatellin	Modular type I polyketide	Stigmatella aurantiaca Sg a15
+BGC0001111	rhizopodin	NRP	Stigmatella aurantiaca Sg a15
+BGC0001111	rhizopodin	Trans-AT type I polyketide	Stigmatella aurantiaca Sg a15
+BGC0001343	aurachin A, aurachin D	Polyketide	Stigmatella aurantiaca Sg a15
+BGC0001345	myxochelin A, myxochelin B	NRP	Stigmatella aurantiaca Sg a15
+BGC0001430	myxochromide S	Cyclic depsipeptide	Stigmatella aurantiaca Sg a15
+BGC0001430	myxochromide S	Iterative type I polyketide	Stigmatella aurantiaca Sg a15
+BGC0001617	hirsutene	Terpene	Stereum hirsutum FP-91666 SS1
+BGC0000539	nukacin ISK-1	Lanthipeptide	Staphylococcus warneri
+BGC0001393	lugdunin	NRP	Staphylococcus lugdunensis N920143
+BGC0001618	hyicin 3682	RiPP	Staphylococcus hyicus
+BGC0000514	gallidermin	Lanthipeptide	Staphylococcus gallinarum
+BGC0000507	epicidin	Lanthipeptide	Staphylococcus epidermidis
+BGC0000508	epidermin	Lanthipeptide	Staphylococcus epidermidis
+BGC0000509	epilancin 15x	Lanthipeptide	Staphylococcus epidermidis
+BGC0000510	epilancin K7	Lanthipeptide	Staphylococcus epidermidis
+BGC0000543	pep5	Lanthipeptide	Staphylococcus epidermidis
+BGC0000916	molybdenum cofactor	Other	Staphylococcus carnosus
+BGC0000555	staphylococcin C55 α, staphylococcin C55 β	Lanthipeptide	Staphylococcus aureus
+BGC0000758	capsular polysaccharide	Exopolysaccharide	Staphylococcus aureus
+BGC0000943	staphylobactin	Other	Staphylococcus aureus subsp. aureus NCTC 8325
+BGC0000944	staphyloferrin A	Non-NRP siderophore	Staphylococcus aureus subsp. aureus NCTC 8325
+BGC0000308	aureusimine	NRP	Staphylococcus aureus subsp. aureus str. JKD6008
+BGC0000807	phosphonoglycans	Saccharide	Stackebrandtia nassauensis DSM 44728
+BGC0001626	isoindolinone	Polyketide	Stachybotrys chlorohalonata IBT 40285
+BGC0001390	LL-Z1272beta	NRP	Stachybotrys bisbyi
+BGC0001390	LL-Z1272beta	Polyketide	Stachybotrys bisbyi
+BGC0000852	ectoine	Other	Sporosarcina pasteurii
+BGC0002055	mycalamide A	Trans-AT type I polyketide	sponge metagenome
+BGC0002056	peloruside A	Trans-AT type I polyketide	sponge metagenome
+BGC0000768	gellan polysaccharide	Saccharide	Sphingomonas elodea ATCC 31461
+BGC0000797	sphingan polysaccharide	Saccharide	Sphingomonas sp. S88
+BGC0000759	diutan polysaccharide	Saccharide	Sphingomonas sp. ATCC 53159
+BGC0000577	sphingonodin II	Lassopeptide	Sphingobium japonicum UT26S
+BGC0001505	anacyclamide D8P	RiPP	Sphaerospermopsis sp. LEGE 00249
+BGC0001933	sphaerocyclamide	RiPP	Sphaerospermopsis sp. LEGE 00249
+BGC0000798	dhurrin	Saccharide	Sorghum bicolor
+BGC0001373	sordarin	Polyketide	Sordaria araneosa
+BGC0000014	ambruticin	Polyketide	Sorangium cellulosum
+BGC0000080	jerangolid A, jerangolid D	Polyketide	Sorangium cellulosum
+BGC0000147	soraphen A	Modular type I polyketide	Sorangium cellulosum
+BGC0000149	spirangien O	Modular type I polyketide	Sorangium cellulosum
+BGC0000184	sorangicin A	Trans-AT type I polyketide	Sorangium cellulosum
+BGC0000380	leupyrrin	NRP	Sorangium cellulosum
+BGC0000380	leupyrrin	Modular type I polyketide	Sorangium cellulosum
+BGC0000988	epothilone B	NRP	Sorangium cellulosum
+BGC0000988	epothilone B	Polyketide	Sorangium cellulosum
+BGC0000990	epothilone	NRP	Sorangium cellulosum
+BGC0000990	epothilone	Polyketide	Sorangium cellulosum
+BGC0000991	epothilone	NRP	Sorangium cellulosum
+BGC0000991	epothilone	Polyketide	Sorangium cellulosum
+BGC0001019	microsclerodermin M	NRP	Sorangium cellulosum
+BGC0001019	microsclerodermin M	Modular type I polyketide	Sorangium cellulosum
+BGC0001034	pellasoren	NRP	Sorangium cellulosum
+BGC0001034	pellasoren	Modular type I polyketide	Sorangium cellulosum
+BGC0001051	thuggacin A	NRP	Sorangium cellulosum
+BGC0001051	thuggacin A	Modular type I polyketide	Sorangium cellulosum
+BGC0001069	chivosazol	NRP	Sorangium cellulosum
+BGC0001069	chivosazol	Trans-AT type I polyketide	Sorangium cellulosum
+BGC0001093	disorazol A	NRP	Sorangium cellulosum
+BGC0001093	disorazol A	Polyketide	Sorangium cellulosum
+BGC0001299	chlorotonil A	Polyketide	Sorangium cellulosum
+BGC0001761	ripostatin A, ripostatin B, ripostatin C	Polyketide	Sorangium cellulosum
+BGC0000179	etnangien	Trans-AT type I polyketide	Sorangium cellulosum So ce56
+BGC0001201	eremophilene	Terpene	Sorangium cellulosum So ce56
+BGC0000989	epothilone	NRP	Sorangium cellulosum So0157-2
+BGC0000989	epothilone	Polyketide	Sorangium cellulosum So0157-2
+BGC0001324	monoterpenes-diterpenes	Terpene	Solanum pimpinellifolium
+BGC0001323	monoterpenes-diterpenes	Terpene	Solanum pennellii
+BGC0001322	lycosantalonol	Terpene	Solanum lycopersicum
+BGC0001321	monoterpenes-diterpenes	Terpene	Solanum habrochaites
+BGC0000801	galactoglucan	Saccharide	Sinorhizobium meliloti
+BGC0000802	succinoglycan	Saccharide	Sinorhizobium meliloti
+BGC0001605	gibberellin	Terpene	Sinorhizobium fredii NGR234
+BGC0001816	valactamide A	NRP	Shuttle vector AtFAC9J20
+BGC0001816	valactamide A	Polyketide	Shuttle vector AtFAC9J20
+BGC0000812	huperzine A	Alkaloid	Shiraia sp. slf14
+BGC0000862	eicosapentaenoic acid	Other	Shewanella pneumatophori
+BGC0000861	eicosapentaenoic acid	Other	Shewanella sp. BR-2
+BGC0001032	oocydin A	NRP	Serratia plymuthica
+BGC0001032	oocydin A	Polyketide	Serratia plymuthica
+BGC0001361	sodorifen	Terpene	Serratia plymuthica 4Rx13
+BGC0001056	zeamine, zeamine I, zeamine II, prezeamine, prezeamine I	NRP	Serratia plymuthica RVH1
+BGC0001056	zeamine, zeamine I, zeamine II, prezeamine, prezeamine I	Modular type I polyketide	Serratia plymuthica RVH1
+BGC0001056	zeamine, zeamine I, zeamine II, prezeamine, prezeamine I	PUFA synthase or related polyketide	Serratia plymuthica RVH1
+BGC0000259	prodigiosin	Polyketide	Serratia marcescens
+BGC0001031	oocydin A	NRP	Serratia marcescens
+BGC0001031	oocydin A	Polyketide	Serratia marcescens
+BGC0001415	althiomycin	NRP	Serratia marcescens subsp. marcescens Db11
+BGC0002002	1,6-phenazinedimethanol, fontizine A	NRP	Serratia fonticola
+BGC0000258	prodigiosin	Polyketide	Serratia sp.
+BGC0001664	merosterol	Terpene	Scytonema sp. PCC 10023
+BGC0001246	trans-resorcylide	Polyketide	Sarocladium zeae
+BGC0001827	xenovulene A	Polyketide	Sarocladium sp. 'schorii'
+BGC0000793	lipopolysaccharide oligosaccharide	Saccharide	Salmonella enterica subsp. arizonae
+BGC0000788	O-antigen	Saccharide	Salmonella enterica subsp. salamae serovar Greenside
+BGC0000145	salinosporamide A	Polyketide	Salinispora tropica
+BGC0000142	salinilactam	Polyketide	Salinispora tropica CNB-440
+BGC0000150	sporolide A, sporolide B	NRP	Salinispora tropica CNB-440
+BGC0000150	sporolide A, sporolide B	Enediyne type I polyketide	Salinispora tropica CNB-440
+BGC0000241	lomaiviticin A, lomaiviticin C, lomaiviticin D, lomaiviticin E	Type II polyketide	Salinispora tropica CNB-440
+BGC0000241	lomaiviticin A, lomaiviticin C, lomaiviticin D, lomaiviticin E	Hybrid/tailoring saccharide	Salinispora tropica CNB-440
+BGC0001006	lymphostin, neolymphostinol B, lymphostinol, neolymphostin B	NRP	Salinispora tropica CNB-440
+BGC0001006	lymphostin, neolymphostinol B, lymphostinol, neolymphostin B	Polyketide	Salinispora tropica CNB-440
+BGC0001041	salinosporamide A	NRP	Salinispora tropica CNB-440
+BGC0001041	salinosporamide A	Polyketide	Salinispora tropica CNB-440
+BGC0001458	salinipostin G	Aminocoumarin	Salinispora tropica CNB-440
+BGC0000240	lomaiviticin A, lomaiviticin C, lomaiviticin D, lomaiviticin E	Type II polyketide	Salinispora pacifica
+BGC0000240	lomaiviticin A, lomaiviticin C, lomaiviticin D, lomaiviticin E	Hybrid/tailoring saccharide	Salinispora pacifica
+BGC0001830	rosamicin, salinipyrone A, pacificanone A	Polyketide	Salinispora pacifica
+BGC0001767	salinichelins	NRP	Salinispora pacifica CNY331
+BGC0001237	thiolactomycin	Polyketide	Salinispora pacifica DSM 45543 = CNS-863
+BGC0000198	arenimycin A	Type II polyketide	Salinispora arenicola CNB527
+BGC0000198	arenimycin A	Hybrid/tailoring saccharide	Salinispora arenicola CNB527
+BGC0001331	BE-43547A1, BE-43547A2, BE-43547B1, BE-43547B2, BE-43547B3, BE-43547C1, BE-43547C2	Cyclic depsipeptide	Salinispora arenicola CNR107
+BGC0001331	BE-43547A1, BE-43547A2, BE-43547B1, BE-43547B2, BE-43547B3, BE-43547C1, BE-43547C2	Modular type I polyketide	Salinispora arenicola CNR107
+BGC0000137	rifamycin	Polyketide	Salinispora arenicola CNS-205
+BGC0000333	cyclomarin D	NRP	Salinispora arenicola CNS-205
+BGC0000827	staurosporine	Alkaloid	Salinispora arenicola CNS-205
+BGC0001007	lymphostin, neolymphostinol B, lymphostinol, neolymphostin b	Polyketide	Salinispora arenicola CNS-205
+BGC0001007	lymphostin, neolymphostinol B, lymphostinol, neolymphostin b	NRP	Salinispora arenicola CNS-205
+BGC0001228	retimycin A	Cyclic depsipeptide	Salinispora arenicola CNT005
+BGC0001702	nocamycin	NRP	Saccharothrix syringae
+BGC0001702	nocamycin	Polyketide	Saccharothrix syringae
+BGC0000316	capreomycin IA, capreomycin IB, capreomycin IIA, capreomycin IIB	NRP	Saccharothrix mutabilis subsp. capreolus
+BGC0000873	A-201A	Other	Saccharothrix mutabilis subsp. capreolus
+BGC0001193	thiolutin	NRP	Saccharothrix algeriensis
+BGC0000148	A83543A	Polyketide	Saccharopolyspora spinosa
+BGC0000055	erythromycin A, erythromycin B, erythromycin C, erythromycin D	Modular type I polyketide	Saccharopolyspora erythraea NRRL 2338
+BGC0000055	erythromycin A, erythromycin B, erythromycin C, erythromycin D	Hybrid/tailoring saccharide	Saccharopolyspora erythraea NRRL 2338
+BGC0000285	flaviolin rhamnoside, 3,3'-diflaviolin, flaviolin	Type III polyketide	Saccharopolyspora erythraea
+BGC0000285	flaviolin rhamnoside, 3,3'-diflaviolin, flaviolin	Oligosaccharide	Saccharopolyspora erythraea
+BGC0000349	erythrochelin	NRP	Saccharopolyspora erythraea NRRL 2338
+BGC0000513	Ery-9, Ery-6, Ery-8, Ery-7, Ery-5, Ery-4, Ery-3	Lanthipeptide	Saccharopolyspora erythraea NRRL 2338
+BGC0000659	2-methylisoborneol	Terpene	Saccharopolyspora erythraea NRRL 2338
+BGC0000902	flaviolin	Other	Saccharopolyspora erythraea NRRL 2338
+BGC0001447	primycin	Polyketide	Saccharomonospora azurea SZMC 14600
+BGC0000439	taromycin A	Ca+-dependent lipopeptide	Saccharomonospora sp. CNQ490
+BGC0001311	flavecins	Lanthipeptide	Ruminococcus flavefaciens FD-1
+BGC0001575	dipeptide aldehydes	NRP	Ruminococcus sp. 5_1_39BFAA
+BGC0001891	closthioamide	Other	Ruminiclostridium cellulolyticum H10
+BGC0000576	rubrivinodin	Lassopeptide	Rubrivivax gelatinosus IL144
+BGC0001341	valinomycin	NRP	Rothia nasimurium
+BGC0000575	lariatin	Lassopeptide	Rhodococcus jostii
+BGC0000417	rhodochelin	NRP	Rhodococcus jostii RHA1
+BGC0001075	aurachin RE	Terpene	Rhodococcus erythropolis
+BGC0001075	aurachin RE	Polyketide	Rhodococcus erythropolis
+BGC0000371	heterobactin A, heterobactin S2	NRP	Rhodococcus erythropolis PR4
+BGC0000647	carotenoid	Terpene	Rhodobacter sphaeroides
+BGC0000917	molybdenum cofactor	Other	Rhodobacter capsulatus
+BGC0000567	trifolitoxin	LAP	Rhizobium leguminosarum
+BGC0000762	exopolysaccharide	Saccharide	Rhizobium leguminosarum bv. viciae
+BGC0000457	vicibactin	NRP	Rhizobium etli CFN 42
+BGC0000436	syringolin A	NRP	Rhizobium sp. AP16
+BGC0000732	capsular polysaccharide	Saccharide	Raoultella planticola
+BGC0001685	N-acyloxyacyl lysine	Other	Raoultella ornithinolytica 10-5246
+BGC0001014	micacocidin	NRP siderophore	Ralstonia solanacearum GMI1000
+BGC0001014	micacocidin	Modular type I polyketide	Ralstonia solanacearum GMI1000
+BGC0001014	micacocidin	Iterative type I polyketide	Ralstonia solanacearum GMI1000
+BGC0001363	ralsolamycin	NRP	Ralstonia solanacearum GMI1000
+BGC0001363	ralsolamycin	Polyketide	Ralstonia solanacearum GMI1000
+BGC0001754	ralsolamycin	NRP	Ralstonia solanacearum GMI1000
+BGC0001754	ralsolamycin	Polyketide	Ralstonia solanacearum GMI1000
+BGC0000072	gulmirecin A	Modular type I polyketide	Pyxidicoccus fallax
+BGC0001940	pyxidicycline A, pyxidicycline B	Polyketide	Pyxidicoccus fallax
+BGC0001751	pyxipyrrolone A, pyxipyrrolone B	NRP	Pyxidicoccus sp. MCy9557
+BGC0001751	pyxipyrrolone A, pyxipyrrolone B	Polyketide	Pyxidicoccus sp. MCy9557
+BGC0001749	epipyriculol	Polyketide	Pyricularia oryzae 70-15
+BGC0001881	pyrichalasin H	Iterative type I polyketide	Pyricularia grisea
+BGC0001881	pyrichalasin H	NRP	Pyricularia grisea
+BGC0001982	pyrichalasin H	NRP	Pyricularia grisea
+BGC0001982	pyrichalasin H	Polyketide	Pyricularia grisea
+BGC0001738	phomasetin	NRP	Pyrenochaetopsis sp.
+BGC0001738	phomasetin	Polyketide	Pyrenochaetopsis sp.
+BGC0001358	leucinostatin A, leucinostatin B	Polyketide	Purpureocillium lilacinum
+BGC0000116	nystatin-like Pseudonocardia polyene	Polyketide	Pseudonocardia autotrophica
+BGC0001773	selvamicin	Polyketide	Pseudonocardia sp. HH130630-07
+BGC0001806	tolaasin A	NRP	Pseudomonas tolaasii
+BGC0000041	oronofacic acid	Polyketide	Pseudomonas syringae
+BGC0000846	tabtoxin	Other	Pseudomonas syringae
+BGC0000919	phaseolotoxin	Other	Pseudomonas syringae
+BGC0001047	syringolin A	NRP	Pseudomonas syringae
+BGC0001047	syringolin A	Polyketide	Pseudomonas syringae
+BGC0001859	fosfomycin	Phosphonate	Pseudomonas syringae
+BGC0001486	3-thiaglutamate	RiPP	Pseudomonas syringae pv. maculicola str. ES4326
+BGC0002027	TglA-thiaGlu	RiPP	Pseudomonas syringae pv. maculicola str. ES4326
+BGC0000387	mangotoxin	NRP	Pseudomonas syringae pv. syringae
+BGC0000438	syringopeptin 25A	NRP	Pseudomonas syringae pv. syringae
+BGC0000884	3-methylarginine	Other	Pseudomonas syringae pv. syringae
+BGC0000437	syringomycin	NRP	Pseudomonas syringae pv. syringae B728a
+BGC0000435	syringafactin	NRP	Pseudomonas syringae pv. tomato str. DC3000
+BGC0001586	EPS273	Saccharide	Pseudomonas stutzeri
+BGC0000328	coronatine	NRP	Pseudomonas savastanoi pv. glycinea
+BGC0000411	putisolvin	NRP	Pseudomonas putida
+BGC0000463	xantholysin A, xantholysin B, xantholysin C	Lipopeptide	Pseudomonas putida
+BGC0000921	promysalin	Polyketide	Pseudomonas putida
+BGC0000921	promysalin	NRP	Pseudomonas putida
+BGC0000921	promysalin	Shikimate-derived	Pseudomonas putida
+BGC0001285	pseudopyronine A, pseudopyronine B	Fatty acid	Pseudomonas putida
+BGC0001838	WLIP	NRP	Pseudomonas putida
+BGC0000127	pyoluteorin	Polyketide	Pseudomonas protegens Pf-5
+BGC0000399	orfamide A, orfamide C	Cyclic depsipeptide	Pseudomonas protegens Pf-5
+BGC0000413	pyoverdin	NRP	Pseudomonas protegens Pf-5
+BGC0001987	koreenceine A, koreenceine B, koreenceine C, koreenceine D	Polyketide	Pseudomonas koreensis
+BGC0000182	pseudomonic acid A	Iterative type I polyketide	Pseudomonas fluorescens
+BGC0000182	pseudomonic acid A	Trans-AT type I polyketide	Pseudomonas fluorescens
+BGC0000280	2,4-diacetylphloroglucinol	Polyketide	Pseudomonas fluorescens
+BGC0000281	2,4-diacetylphloroglucinol	Polyketide	Pseudomonas fluorescens
+BGC0000410	pseudomonine	NRP	Pseudomonas fluorescens
+BGC0000421	safracin A, safracin B	NRP	Pseudomonas fluorescens
+BGC0000925	quinolobactin	Other	Pseudomonas fluorescens
+BGC0001099	kalimantacin A	NRP	Pseudomonas fluorescens
+BGC0001099	kalimantacin A	Modular type I polyketide	Pseudomonas fluorescens
+BGC0001099	kalimantacin A	Trans-AT type I polyketide	Pseudomonas fluorescens
+BGC0001346	bananamide 1, bananamide 2, bananamide 3	Cyclic depsipeptide	Pseudomonas fluorescens
+BGC0001437	obafluorin	NRP	Pseudomonas fluorescens
+BGC0001509	anikasin	NRP	Pseudomonas fluorescens
+BGC0001710	obafluorin	NRP	Pseudomonas fluorescens
+BGC0001842	gacamide A	Lipopeptide	Pseudomonas fluorescens Pf0-1
+BGC0001312	viscosin	NRP	Pseudomonas fluorescens SBW25
+BGC0000389	massetolide A	Cyclic depsipeptide	Pseudomonas fluorescens SS101
+BGC0001488	4-formylaminooxyvinylglycine	Other	Pseudomonas fluorescens WH6
+BGC0000344	entolysin	NRP	Pseudomonas entomophila L48
+BGC0000447	tolaasin I, tolaasin F	Lipopeptide	Pseudomonas costantinii
+BGC0000329	corpeptin A, corpeptin B	NRP	Pseudomonas corrugata
+BGC0000323	cichofactin A, cichofactin B	Lipopeptide	Pseudomonas cichorii
+BGC0001389	cichopeptin	NRP	Pseudomonas cichorii
+BGC0000924	pyrrolnitrin	Other	Pseudomonas chlororaphis
+BGC0000781	O-antigen	Saccharide	Pseudomonas aeruginosa
+BGC0000784	O-antigen	Saccharide	Pseudomonas aeruginosa
+BGC0001682	N-acyl lysine/ornithine	Other	Pseudomonas aeruginosa LESB58
+BGC0000287	L-2-amino-4-methoxy-trans-3-butenoic acid	NRP	Pseudomonas aeruginosa PAO1
+BGC0000412	pyochelin	NRP	Pseudomonas aeruginosa PAO1
+BGC0000725	alginate	Saccharide	Pseudomonas aeruginosa PAO1
+BGC0000922	pseudomonas quinolone signal (PQS)	Other	Pseudomonas aeruginosa PAO1
+BGC0000923	paerucumarin	Other	Pseudomonas aeruginosa PAO1
+BGC0000936	pyocyanine	Other	Pseudomonas aeruginosa PAO1
+BGC0001871	L-2-amino-4-methoxy-trans-3-butenoic acid	NRP	Pseudomonas aeruginosa PAO1
+BGC0001790	sulfazecin	NRP	Pseudomonas acidophila
+BGC0000443	thanamycin	Beta-lactam	Pseudomonas sp. SHC52
+BGC0001149	brabantamide A	Lipopeptide	Pseudomonas sp. SHC52
+BGC0001149	brabantamide A	Hybrid/tailoring saccharide	Pseudomonas sp. SHC52
+BGC0001045	spiruchostatin A	Cyclic depsipeptide	Pseudomonas sp. Q71576
+BGC0001045	spiruchostatin A	Modular type I polyketide	Pseudomonas sp. Q71576
+BGC0000305	arthrofactin A	Lipopeptide	Pseudomonas sp. MIS38
+BGC0000128	pyoluteorin	Polyketide	Pseudomonas sp. M18
+BGC0000343	enterobactin	NRP	Pseudomonas sp. J465
+BGC0001416	nunapeptin, nunamycin	NRP	Pseudomonas sp. In5
+BGC0000398	orfamide B	Cyclic depsipeptide	Pseudomonas sp. CMR12a
+BGC0000425	sessilin A	Cyclic depsipeptide	Pseudomonas sp. CMR12a
+BGC0000995	FR901464	NRP	Pseudomonas sp. 2663
+BGC0000995	FR901464	Polyketide	Pseudomonas sp. 2663
+BGC0001096	FR901464	NRP	Pseudomonas sp. 2663
+BGC0001096	FR901464	Polyketide	Pseudomonas sp. 2663
+BGC0001980	lokisin	NRP	Pseudomonas sp.
+BGC0001463	2,3,4,5-tetrabromopyrrole	Other	Pseudoalteromonas piscicida
+BGC0000299	alterochromide A, bromoalterochromide A, dibromoalterochromide A, alterochromide B, bromoalterochromide B, dibromoalterochromide B, alterochromide A', bromoalterochromide A', dibromoalterochromide A', alterochromide B', bromoalterochromide B', dibromoalterochromide B', alterochromide A'', bromoalterochromide A'', alterochromide B'', bromoalterochromide B''	NRP	Pseudoalteromonas piscicida JCM 20779
+BGC0000314	bromoalterochromide A	Polyketide	Pseudoalteromonas piscicida JCM 20779
+BGC0000314	bromoalterochromide A	Cyclic depsipeptide	Pseudoalteromonas piscicida JCM 20779
+BGC0000314	bromoalterochromide A	Aminocoumarin	Pseudoalteromonas piscicida JCM 20779
+BGC0000890	pentabromopseudilin	Aminocoumarin	Pseudoalteromonas phenolica O-BC30
+BGC0000891	pentabromopseudilin	Aminocoumarin	Pseudoalteromonas luteoviolacea 2ta16
+BGC0001115	thiomarinol	NRP	Pseudoalteromonas sp. SANK 73390
+BGC0001115	thiomarinol	Polyketide	Pseudoalteromonas sp. SANK 73390
+BGC0001464	tetrabromopyrrole	Other	Pseudoalteromonas sp. PS5
+BGC0000863	eicosapentaenoic acid	Other	Pseudoalteromonas sp. DS-12
+BGC0001949	domoic acid	Other	Pseudo-nitzschia multiseries
+BGC0000657	2-methylisoborneol	Terpene	Pseudanabaena sp. dqh15
+BGC0000475	patellamide A, patellamide C	Cyanobactin	Prochloron didemni
+BGC0001576	divamide A	RiPP	Prochloron didemni
+BGC0001577	divamide B	RiPP	Prochloron didemni
+BGC0001810	trehangelin	Polyketide	Polymorphospora rubra
+BGC0001235	antalid	NRP	Polyangium spumosum
+BGC0001235	antalid	Polyketide	Polyangium spumosum
+BGC0000134	radicicol	Polyketide	Pochonia chlamydosporia
+BGC0001733	PcpA	RiPP	Pleurocapsa sp. PCC 7327
+BGC0001745	PlpA1, PlpA2, PlpA3	RiPP	Pleurocapsa sp. PCC 7319
+BGC0000504	cytolysin ClyLl, cytolysin ClyLs	Lanthipeptide	Plasmid pAD1
+BGC0001781	sphaericin	RiPP	Planomonospora sphaerica
+BGC0000544	planosporicin	Lanthipeptide	Planomonospora alba
+BGC0001155	GE2270	Thiopeptide	Planobispora rosea
+BGC0001614	hassallidin E	NRP	Planktothrix serta PCC 8927
+BGC0001656	luminaolide	Polyketide	Planktothrix paucivesiculata PCC 9631
+BGC0000479	prenylagaramide B, prenylagaramide C	Lanthipeptide	Planktothrix agardhii NIES-596
+BGC0000331	cyanopeptin	NRP	Planktothrix agardhii NIVA-CYA 116
+BGC0000297	aeruginoside 126B, aeruginoside 126A	Glycopeptide	Planktothrix agardhii NIVA-CYA 126
+BGC0000297	aeruginoside 126B, aeruginoside 126A	Other polyketide	Planktothrix agardhii NIVA-CYA 126
+BGC0000297	aeruginoside 126B, aeruginoside 126A	Hybrid/tailoring saccharide	Planktothrix agardhii NIVA-CYA 126
+BGC0000301	anabaenopeptin 908, anabaenopeptin 915	NRP	Planktothrix agardhii NIVA-CYA 126/8
+BGC0000594	microviridin K	RiPP	Planktothrix agardhii NIVA-CYA 126/8
+BGC0001015	microcystin	NRP	Planktothrix agardhii NIVA-CYA 126/8
+BGC0001015	microcystin	Polyketide	Planktothrix agardhii NIVA-CYA 126/8
+BGC0001741	phyllostictine A, phyllostictine B	NRP	Phyllosticta cirsii
+BGC0001741	phyllostictine A, phyllostictine B	Polyketide	Phyllosticta cirsii
+BGC0000196	AQ-256, AQ-270a, AQ-284a	Type II polyketide	Photorhabdus laumondii subsp. laumondii TTO1
+BGC0000383	luminmycin A	NRP	Photorhabdus laumondii subsp. laumondii TTO1
+BGC0000383	luminmycin A	Modular type I polyketide	Photorhabdus laumondii subsp. laumondii TTO1
+BGC0001128	luminmide	NRP	Photorhabdus laumondii subsp. laumondii TTO1
+BGC0001134	photopyrone A, photopyrone B, photopyrone C, photopyrone D, photopyrone E, photopyrone F, photopyrone G, photopyrone H	Other	Photorhabdus laumondii subsp. laumondii TTO1
+BGC0001641	kolossin	NRP	Photorhabdus laumondii subsp. laumondii TTO1
+BGC0001736	pepteridine A, pepteridine B	NRP	Photorhabdus laumondii subsp. laumondii TTO1
+BGC0002020	photolose	NRP	Photorhabdus laumondii subsp. laumondii TTO1
+BGC0002020	photolose	Saccharide	Photorhabdus laumondii subsp. laumondii TTO1
+BGC0000865	eicoseicosapentaenoic acid	Other	Photobacterium profundum SS9
+BGC0000676	aphidicolin, aphidicolan-16β-ol, 3-deoxyaphidicolin, 17-deoxyaphidicolin	Terpene	Phoma betae
+BGC0001264	betaenone A, betaenone B, betaenone C	Polyketide	Phoma betae
+BGC0001280	betaenone C, betaenone A	Polyketide	Phoma betae
+BGC0001528	betaestacin	Terpene	Phoma betae
+BGC0001915	betaestacin I, betaestacin II	Terpene	Phoma betae
+BGC0001339	squalestatin S1	Iterative type I polyketide	Phoma sp. MF5453
+BGC0001966	BII-rafflesfungin	NRP	Phoma sp.
+BGC0001976	eupenifeldin	Terpene	Phoma sp.
+BGC0001977	eupenifeldin	Other	Phoma sp.
+BGC0000932	tropodithietic acid	Other	Phaeobacter inhibens DSM 17395
+BGC0001362	tropodithietic acid	Other	Phaeobacter inhibens DSM 17395
+BGC0000121	RES-1214-2	Polyketide	Pestalotiopsis fici
+BGC0001624	iso-A82775C	Other	Pestalotiopsis fici
+BGC0001372	penigequinolone A	Terpene	Penicillium thymicola
+BGC0001375	penitrem A, penitrem B, penitrem C, penitrem D, penitrem E, penitrem F	Terpene	Penicillium simplicissimum
+BGC0001717	okaramine B	Alkaloid	Penicillium simplicissimum
+BGC0000357	cyclo-(D-Phe-L-Phe-D-Val-L-Val), cyclo-(D-Tyr-L-Phe-D-Val-L-Val), cyclo-(D-Tyr-L-Trp-D-Val-L-Val), cyclo-(D-Phe-L-Trp-D-Val-L-Val), cyclo-(D-Phe-L-Phe-D-Val-L-Ile), cyclo-(D-Phe-L-Phe-D-Ile-L-Val), cyclo-(D-Tyr-L-Trp-D-Val-L-Ile), cyclo-(D-Tyr-L-Trp-D-Ile-L-Val), cyclo-(D-Tyr-L-Phe-D-Val-L-Ile), cyclo-(D-Tyr-L-Phe-D-Ile-L-Val)	Cyclic depsipeptide	Penicillium rubens Wisconsin 54-1255
+BGC0000420	histidyltryptophanyldiketopiperazine, dehydrohistidyltryptophanyldiketopiperazine, roquefortine D, roquefortine C, glandicoline A, glandicoline B, meleagrine	NRP	Penicillium rubens Wisconsin 54-1255
+BGC0001404	sorbicillin	Polyketide	Penicillium rubens Wisconsin 54-1255
+BGC0001882	chrysoxanthone A, chrysoxanthone B, chrysoxanthone C	Polyketide	Penicillium rubens Wisconsin 54-1255
+BGC0001508	andrastin A	Polyketide	Penicillium roqueforti
+BGC0001677	mycophenolic acid	Polyketide	Penicillium roqueforti
+BGC0000667	PR-toxin	Terpene	Penicillium roqueforti FM164
+BGC0001360	mycophenolic acid	Polyketide	Penicillium roqueforti FM164
+BGC0001082	paxilline, paspaline, 13-dehydroxypaxilline, paspaline B	Terpene	Penicillium paxilli
+BGC0001724	oxaleimide C	NRP	Penicillium oxalicum 114-2
+BGC0001724	oxaleimide C	Polyketide	Penicillium oxalicum 114-2
+BGC0001030	ochratoxin A	NRP	Penicillium nordicum
+BGC0001030	ochratoxin A	Polyketide	Penicillium nordicum
+BGC0001776	shearinine D	Terpene	Penicillium janthinellum
+BGC0000819	paraherquamide	NRP	Penicillium fellutanum
+BGC0000819	paraherquamide	Alkaloid	Penicillium fellutanum
+BGC0000120	patulin	Iterative type I polyketide	Penicillium expansum
+BGC0000968	chaetoglobosins	NRP	Penicillium expansum
+BGC0000968	chaetoglobosins	Iterative type I polyketide	Penicillium expansum
+BGC0001205	communesin A, communesin B, communesin C, communesin D, communesin E, communesin G, communesin H	Polyketide	Penicillium expansum
+BGC0000039	compactin	Polyketide	Penicillium citrinum
+BGC0000404	penicillin	NRP	Penicillium chrysogenum
+BGC0000405	δ-(L-α-aminoadipyl)-L-cysteine-D-valine, isopenicillin N, benzylpenicillin, phenoxymethylpenicillin	Beta-lactam	Penicillium chrysogenum
+BGC0000104	mycophenolic acid	Terpene	Penicillium brevicompactum
+BGC0000104	mycophenolic acid	Iterative type I polyketide	Penicillium brevicompactum
+BGC0001141	4-epi-15-epi-brefeldin A	Iterative type I polyketide	Penicillium brefeldianum
+BGC0001729	paraherquonin	Polyketide	Penicillium brasilianum
+BGC0001729	paraherquonin	Terpene	Penicillium brasilianum
+BGC0000070	griseofulvin, epidechlorogriseofulvin, norlichexanthone, dehydrogriseofulvin, 4-desmethylgriseofulvin, griseoxanthone B	Iterative type I polyketide	Penicillium aethiopicum
+BGC0000168	viridicatumtoxin, previridicatumtoxin, 5-hydroxyanthrotainin, 8-O-desmethylanthrotainin	Iterative type I polyketide	Penicillium aethiopicum
+BGC0001142	tryptoquialanine	NRP	Penicillium aethiopicum
+BGC0001847	1-carbapen-2-em-3-carboxylic acid	Other	Pectobacterium carotovorum
+BGC0000734	capsular polysaccharide	Saccharide	Pasteurella multocida
+BGC0000735	capsular polysaccharide	Saccharide	Pasteurella multocida
+BGC0000737	capsular polysaccharide	Saccharide	Pasteurella multocida
+BGC0000738	capsular polysaccharide	Saccharide	Pasteurella multocida
+BGC0000739	capsular polysaccharide	Saccharide	Pasteurella multocida
+BGC0001244	(-)-Mellein	Polyketide	Parastagonospora nodorum
+BGC0001284	alternariol	Terpene	Parastagonospora nodorum SN15
+BGC0001858	alternapyrone B, alternapyrone C, alternapyrone D, alternapyrone E, alternapyrone F	Polyketide	Parastagonospora nodorum SN15
+BGC0001865	elsinochrome C	Iterative type I polyketide	Parastagonospora nodorum SN15
+BGC0000630	(2R,3S,3'S)-2-hydroxyastaxanthin	Terpene	Paracoccus haeundaensis
+BGC0000635	carotenoid	Terpene	Paracoccus sp. N81106
+BGC0001112	rhizoxin A	NRP	Paraburkholderia rhizoxinica
+BGC0001112	rhizoxin A	Trans-AT type I polyketide	Paraburkholderia rhizoxinica
+BGC0000571	burhizin	Lassopeptide	Paraburkholderia rhizoxinica HKI 454
+BGC0001758	rhizomide A, rhizomide B, rhizomide C	NRP	Paraburkholderia rhizoxinica HKI 454
+BGC0001844	holrhizin	Lipopeptide	Paraburkholderia rhizoxinica HKI 454
+BGC0001999	gramibactin	NRP	Paraburkholderia graminis C4D1M
+BGC0001325	noscapine	Alkaloid	Papaver somniferum
+BGC0001799	thebaine	Alkaloid	Papaver somniferum
+BGC0000763	stewartan	Saccharide	Pantoea stewartii subsp. stewartii DC283
+BGC0000638	carotenoid	Terpene	Pantoea ananatis
+BGC0001499	aerobactin	Other	Pantoea ananatis
+BGC0000956	andrimid	Beta-lactam	Pantoea agglomerans
+BGC0000956	andrimid	Type II polyketide	Pantoea agglomerans
+BGC0001572	desferrioxamine E	Other	Pantoea agglomerans
+BGC0000449	tridecaptin	NRP	Paenibacillus terrae
+BGC0000542	paenicidin B	Lanthipeptide	Paenibacillus terrae
+BGC0000408	polymyxin	NRP	Paenibacillus polymyxa
+BGC0000541	paenicidin A	Lanthipeptide	Paenibacillus polymyxa
+BGC0001152	fusaricidin B	Polyketide	Paenibacillus polymyxa
+BGC0001152	fusaricidin B	Lipopeptide	Paenibacillus polymyxa
+BGC0001153	polymyxin B	Lipopeptide	Paenibacillus polymyxa
+BGC0001727	paenilan	RiPP	Paenibacillus polymyxa E681
+BGC0001728	paenilipoheptin	NRP	Paenibacillus polymyxa E681
+BGC0001728	paenilipoheptin	Polyketide	Paenibacillus polymyxa E681
+BGC0001993	paenilipoheptin	NRP	Paenibacillus polymyxa E681
+BGC0000540	paenibacillin	Lanthipeptide	Paenibacillus polymyxa OSY-DF
+BGC0000426	sevadicin	NRP	Paenibacillus larvae
+BGC0000402	paenilarvins	NRP	Paenibacillus larvae subsp. larvae DSM 25430
+BGC0001033	paenilamicin	NRP	Paenibacillus larvae subsp. larvae DSM 25430
+BGC0001033	paenilamicin	Polyketide	Paenibacillus larvae subsp. larvae DSM 25430
+BGC0000403	pelgipeptin	NRP	Paenibacillus elgii
+BGC0000401	paenibactin	NRP	Paenibacillus elgii B69
+BGC0001289	penisin	RiPP	Paenibacillus ehimensis
+BGC0001356	paeninodin	RiPP	Paenibacillus dendritiformis C454
+BGC0000796	S-layer glycan	Saccharide	Paenibacillus alvei
+BGC0001192	colistin A, colistin B	NRP	Paenibacillus alvei
+BGC0000400	paenibacterin	NRP	Paenibacillus sp. OSY-SE
+BGC0001843	tridecaptin M	NRP	Paenibacillus sp. M-152
+BGC0001436	cornexistin	Iterative type I polyketide	Paecilomyces divaricatus
+BGC0001557	cornexistin	Polyketide	Paecilomyces divaricatus
+BGC0000471	viridisamide A	Cyanobactin	Oscillatoria nigro-viridis PCC 7112
+BGC0000671	momilactone	Terpene	Oryza sativa Japonica Group
+BGC0000672	phytocassane, oryzalides	Terpene	Oryza sativa Japonica Group
+BGC0001970	malyngamide C acetate	NRP	Okeania hirsuta
+BGC0001970	malyngamide C acetate	Polyketide	Okeania hirsuta
+BGC0001971	malyngamide I	NRP	Okeania hirsuta
+BGC0001971	malyngamide I	Polyketide	Okeania hirsuta
+BGC0001713	ochrobactin	Other	Ochrobactrum anthropi
+BGC0001786	subterisin	RiPP	Novosphingobium subterraneum
+BGC0000480	tenuecyclamide A, tenuecyclamide C	Cyanobactin	Nostoc spongiaeforme var. tenue str. Carmeli
+BGC0000661	geosmin	Terpene	Nostoc punctiforme PCC 73102
+BGC0001479	anabaenopeptin NZ857, nostamide A	NRP	Nostoc punctiforme PCC 73102
+BGC0001663	merocyclophane C, merocyclophane D	Polyketide	Nostoc sp. UIC 10110
+BGC0001795	swinholide A	Polyketide	Nostoc sp. UHCC 0450
+BGC0001028	nostopeptolide A2	Polyketide	Nostoc sp. GSV224
+BGC0001028	nostopeptolide A2	Cyclic depsipeptide	Nostoc sp. GSV224
+BGC0001705	nodularin	NRP	Nostoc sp. CENA543
+BGC0001705	nodularin	Polyketide	Nostoc sp. CENA543
+BGC0001748	pseudospumigin A, pseudospumigin B, pseudospumigin C, pseudospumigin D, pseudospumigin E, pseudospumigin F	NRP	Nostoc sp. CENA543
+BGC0001748	pseudospumigin A, pseudospumigin B, pseudospumigin C, pseudospumigin D, pseudospumigin E, pseudospumigin F	Polyketide	Nostoc sp. CENA543
+BGC0001703	nocuolin A	Other	Nostoc sp. CCAP 1453/38
+BGC0001357	carbamidocyclophane A, carbamidocyclophane B, carbamidocyclophane C, carbamidocyclophane D, carbamidocyclophane E, carbamidocyclophane F, carbamidocyclophane H, carbamidocyclophane M, carbamidocyclophane N, carbamidocyclophane O, carbamidocyclophane P, carbamidocyclophane Q, carbamidocyclophane R, carbamidocyclophane S, carbamidocyclophane T, carbamidocyclophane U	Polyketide	Nostoc sp. CAVN2
+BGC0000397	nostocyclopeptide A2	NRP	Nostoc sp. ATCC 53789
+BGC0000975	cryptophycin-327	NRP	Nostoc sp. ATCC 53789
+BGC0000975	cryptophycin-327	Polyketide	Nostoc sp. ATCC 53789
+BGC0000396	nodularin	NRP	Nostoc sp. 73.1
+BGC0001029	nostophycin	NRP	Nostoc sp. 152
+BGC0001029	nostophycin	Polyketide	Nostoc sp. 152
+BGC0000869	heterocyst glycolipids	Other	Nostoc sp. 'Peltigera membranacea cyanobiont'
+BGC0001071	nosperin	NRP	Nostoc sp. 'Peltigera membranacea cyanobiont'
+BGC0001071	nosperin	Modular type I polyketide	Nostoc sp. 'Peltigera membranacea cyanobiont'
+BGC0001071	nosperin	Trans-AT type I polyketide	Nostoc sp. 'Peltigera membranacea cyanobiont'
+BGC0001038	pyralomicin 1a	NRP	Nonomuraea spiralis
+BGC0001038	pyralomicin 1a	Modular type I polyketide	Nonomuraea spiralis
+BGC0000813	K-252a	Alkaloid	Nonomuraea longicatena
+BGC0000814	K-252a	Alkaloid	Nonomuraea longicatena
+BGC0000289	A40926	Glycopeptide	Nonomuraea gerenzanensis
+BGC0000289	A40926	Hybrid/tailoring saccharide	Nonomuraea gerenzanensis
+BGC0000604	GE2270A	Thiopeptide	Nonomuraea sp. WU8817
+BGC0001582	ecumicin	NRP	Nonomuraea sp. MJM5123
+BGC0000613	thiomuracin A	Thiopeptide	Nonomuraea sp. Bp3714-39
+BGC0001635	kistamicin A	NRP	Nonomuraea sp. ATCC 55076
+BGC0001635	kistamicin A	Polyketide	Nonomuraea sp. ATCC 55076
+BGC0001257	1,3,6,8-tetrahydroxynaphthalene	Polyketide	Nodulisporium sp. ATCC74245
+BGC0001571	demethoxyviridin	Terpene	Nodulisporium sp.
+BGC0000430	spumigin E	NRP	Nodularia spumigena CCY9414
+BGC0000430	spumigin E	Modular type I polyketide	Nodularia spumigena CCY9414
+BGC0001704	nocuolin A	Other	Nodularia sp. HBU26
+BGC0001655	LP2006	RiPP	Nocardiopsis alba DSM 43377
+BGC0000615	TP-1161	Thiopeptide	Nocardiopsis sp. TFS65-07
+BGC0000021	apoptolidin	Polyketide	Nocardiopsis sp. FU 40
+BGC0001195	nocardiopsin A, nocardiopsin B, nocardiopsin C, nocardiopsin D	NRP	Nocardiopsis sp. CMB-M0232
+BGC0001195	nocardiopsin A, nocardiopsin B, nocardiopsin C, nocardiopsin D	Polyketide	Nocardiopsis sp. CMB-M0232
+BGC0000395	nocardicin A	NRP	Nocardia uniformis subsp. tsuyamanensis
+BGC0000632	brasilicardin A	Terpene	Nocardia terpenica
+BGC0000632	brasilicardin A	Saccharide	Nocardia terpenica
+BGC0001381	brasilinolide A, brasilinolide B, brasilinolide C	Polyketide	Nocardia terpenica
+BGC0001027	nocobactin NA	NRP	Nocardia farcinica IFM 10152
+BGC0001027	nocobactin NA	Polyketide	Nocardia farcinica IFM 10152
+BGC0002024	nargenicin	Polyketide	Nocardia argentinensis
+BGC0000609	nocathiacin	Thiopeptide	Nocardia sp. ATCC 202099
+BGC0001997	capsidiol	Terpene	Nicotiana tabacum
+BGC0001697	neurosporin A	Polyketide	Neurospora crassa OR74A
+BGC0002035	ilicicolin H	NRP	Neonectria sp. DH2
+BGC0002035	ilicicolin H	Polyketide	Neonectria sp. DH2
+BGC0000122	phenylnannolone A, phenylnannolone B, phenylnannolone C	Modular type I polyketide	Nannocystis pusilla
+BGC0001750	pyrronazol B	NRP	Nannocystis pusilla
+BGC0001750	pyrronazol B	Polyketide	Nannocystis pusilla
+BGC0001212	nannocystin a	NRP	Nannocystis sp. MB1016
+BGC0001212	nannocystin a	Polyketide	Nannocystis sp. MB1016
+BGC0000648	carotenoid	Terpene	Myxococcus xanthus
+BGC0000955	althiomycin	NRP	Myxococcus xanthus
+BGC0000955	althiomycin	Modular type I polyketide	Myxococcus xanthus
+BGC0001426	myxochromide A	Cyclic depsipeptide	Myxococcus xanthus
+BGC0001426	myxochromide A	Iterative type I polyketide	Myxococcus xanthus
+BGC0001427	myxochromide A	Cyclic depsipeptide	Myxococcus xanthus
+BGC0001427	myxochromide A	Iterative type I polyketide	Myxococcus xanthus
+BGC0001428	myxochromide A	Cyclic depsipeptide	Myxococcus xanthus
+BGC0001428	myxochromide A	Iterative type I polyketide	Myxococcus xanthus
+BGC0000393	myxoprincomide-c506	NRP	Myxococcus xanthus DK 1622
+BGC0000393	myxoprincomide-c506	Modular type I polyketide	Myxococcus xanthus DK 1622
+BGC0000871	VEPE, AEPE, TG-1	Nucleoside	Myxococcus xanthus DK 1622
+BGC0001025	myxovirescin A1	NRP	Myxococcus xanthus DK 1622
+BGC0001025	myxovirescin A1	Trans-AT type I polyketide	Myxococcus xanthus DK 1622
+BGC0001104	myxovirescin A1	NRP	Myxococcus xanthus DK 1622
+BGC0001104	myxovirescin A1	Polyketide	Myxococcus xanthus DK 1622
+BGC0001425	myxochromide A	Cyclic depsipeptide	Myxococcus xanthus DK 1622
+BGC0001425	myxochromide A	Iterative type I polyketide	Myxococcus xanthus DK 1622
+BGC0001831	alkylpyrone-407, alkylpyrone-393	Polyketide	Myxococcus xanthus DK 1622
+BGC0001424	myxochromide C	Cyclic depsipeptide	Myxococcus virescens
+BGC0001424	myxochromide C	Iterative type I polyketide	Myxococcus virescens
+BGC0001902	bengamide	NRP	Myxococcus virescens
+BGC0001902	bengamide	Polyketide	Myxococcus virescens
+BGC0001394	phenalamide A2	NRP	Myxococcus stipitatus DSM 14675
+BGC0001394	phenalamide A2	Polyketide	Myxococcus stipitatus DSM 14675
+BGC0001423	myxochromide C	Cyclic depsipeptide	Myxococcus hansupus
+BGC0001423	myxochromide C	Iterative type I polyketide	Myxococcus hansupus
+BGC0001941	fulvuthiacene A, fulvuthiacene B	Polyketide	Myxococcus fulvus
+BGC0001941	fulvuthiacene A, fulvuthiacene B	NRP	Myxococcus fulvus
+BGC0001422	myxochromide A	Cyclic depsipeptide	Myxococcus fulvus HW-1
+BGC0001422	myxochromide A	Iterative type I polyketide	Myxococcus fulvus HW-1
+BGC0001421	myxochromide B	Cyclic depsipeptide	Myxococcus sp.
+BGC0001421	myxochromide B	Iterative type I polyketide	Myxococcus sp.
+BGC0001945	chloromyxamide	NRP	Myxococcus sp.
+BGC0000351	exochelin	NRP	Mycolicibacterium smegmatis
+BGC0000365	glycopeptidolipid	NRP	Mycolicibacterium smegmatis MC2 155
+BGC0000363	glycopeptidolipid	NRP	Mycobacteroides chelonae
+BGC0000364	glycopeptidolipid	NRP	Mycobacteroides abscessus
+BGC0000103	mycolactone B	Polyketide	Mycobacterium ulcerans Agy99
+BGC0000870	mycolic acid	Other	Mycobacterium tuberculosis H37Rv
+BGC0001021	mycobactin	NRP	Mycobacterium tuberculosis H37Rv
+BGC0001021	mycobactin	Polyketide	Mycobacterium tuberculosis H37Rv
+BGC0001627	isonitrile lipopeptides	NRP	Mycobacterium tuberculosis H37Rv
+BGC0001665	methylated alkyl-resorcinol, methylated acyl-phloroglucinol	Polyketide	Mycobacterium marinum M
+BGC0000362	glycopeptidolipid	NRP	Mycobacterium avium
+BGC0000769	glycopeptidolipid	Saccharide	Mycobacterium avium subsp. hominissuis A5
+BGC0000864	eicosapentaenoic acid-like compound	Other	Moritella marina ATCC 15381
+BGC0000043	curacin A	Polyketide	Moorea producens 19L
+BGC0000976	curacin A	NRP	Moorea producens 3L
+BGC0000976	curacin A	Modular type I polyketide	Moorea producens 3L
+BGC0001163	1-heptadecene	Modular type I polyketide	Moorea producens 3L
+BGC0001162	1-heptadecene	Modular type I polyketide	Moorea producens JHB
+BGC0001560	cryptomaldamide	NRP	Moorea producens JHB
+BGC0001560	cryptomaldamide	Polyketide	Moorea producens JHB
+BGC0001161	1-heptadecene	Modular type I polyketide	Moorea bouillonii PNG
+BGC0001338	citrinin	Iterative type I polyketide	Monascus ruber
+BGC0000027	ankaflavin, monascin, rubropunctatine, monascorubrin	Iterative type I polyketide	Monascus pilosus
+BGC0000098	monacolin K	Polyketide	Monascus pilosus
+BGC0000894	citrinin	Other	Monascus aurantiacus
+BGC0001904	fluostatin	Polyketide	Micromonospora rosaria
+BGC0001327	rakicidin A, rakicidin B	Cyclic depsipeptide	Micromonospora purpureochromogenes
+BGC0001327	rakicidin A, rakicidin B	Modular type I polyketide	Micromonospora purpureochromogenes
+BGC0000695	fortimicin	Saccharide	Micromonospora olivasterospora
+BGC0000092	megalomicin A, megalomicin B, megalomicin C1, megalomicin C2	Polyketide	Micromonospora megalomicea subsp. nigra
+BGC0000714	sisomicin	Saccharide	Micromonospora inyonensis
+BGC0000102	mycinamicin II	Polyketide	Micromonospora griseorubida
+BGC0000033	calicheamicin	Polyketide	Micromonospora echinospora
+BGC0000689	2-deoxystreptamine	Saccharide	Micromonospora echinospora
+BGC0000696	gentamicin	Saccharide	Micromonospora echinospora
+BGC0001603	gentamicin	Saccharide	Micromonospora echinospora
+BGC0001693	nenestatin	Polyketide	Micromonospora echinospora
+BGC0001062	TLN-05220	Polyketide	Micromonospora echinospora subsp. challisensis
+BGC0001060	dynemicin A	Polyketide	Micromonospora chersina
+BGC0000162	tetrocarcin A	Polyketide	Micromonospora chalcea
+BGC0001812	tylactone	Polyketide	Micromonospora chalcea subsp. izumensis
+BGC0001473	Sch 18640	Thiopeptide	Micromonospora arborensis
+BGC0000267	saquayamycin Z	Oligosaccharide	Micromonospora sp. Tu 6368
+BGC0000267	saquayamycin Z	Type II polyketide	Micromonospora sp. Tu 6368
+BGC0001073	kosinostatin	NRP	Micromonospora sp. TP-A0468
+BGC0001073	kosinostatin	Polyketide	Micromonospora sp. TP-A0468
+BGC0001330	BE-43547A1, BE-43547A2, BE-43547B1, BE-43547B2, BE-43547B3, BE-43547C1, BE-43547C2	Cyclic depsipeptide	Micromonospora sp. RV43
+BGC0001330	BE-43547A1, BE-43547A2, BE-43547B1, BE-43547B2, BE-43547B3, BE-43547C1, BE-43547C2	Modular type I polyketide	Micromonospora sp. RV43
+BGC0001303	lobosamide A, lobosamide B, lobosamide C	Polyketide	Micromonospora sp. RL09-050-HVF-A
+BGC0000445	thiocoraline	Cyclic depsipeptide	Micromonospora sp. ML1
+BGC0000679	diazepinomicin	Terpene	Micromonospora sp. M42
+BGC0001328	rakicidin A, rakicidin B	Cyclic depsipeptide	Micromonospora sp. M42
+BGC0001328	rakicidin A, rakicidin B	Modular type I polyketide	Micromonospora sp. M42
+BGC0001666	microansamycin	Polyketide	Micromonospora sp. HK160111
+BGC0001288	maklamicin	Polyketide	Micromonospora sp. GMKU326
+BGC0001848	diazaquinomycin H, diazaquinomycin J	Other	Micromonospora sp. B006
+BGC0001018	micropeptin K139	NRP	Microcystis aeruginosa K-139
+BGC0001018	micropeptin K139	Polyketide	Microcystis aeruginosa K-139
+BGC0000593	microviridin J	Microviridin	Microcystis aeruginosa MRC
+BGC0000473	microcyclamide	Cyanobactin	Microcystis aeruginosa NIES-298
+BGC0000592	microviridin B	Microviridin	Microcystis aeruginosa NIES-298
+BGC0001631	kasumigamide	NRP	Microcystis aeruginosa NIES-87
+BGC0001631	kasumigamide	Polyketide	Microcystis aeruginosa NIES-87
+BGC0001632	kawaguchipeptin A	RiPP	Microcystis aeruginosa NIES-88
+BGC0000298	aeruginosin 98-A, aeruginosin 98-B, aeruginosin 98-C	NRP	Microcystis aeruginosa NIES-98
+BGC0001167	piricyclamide	RiPP	Microcystis aeruginosa PCC 7005
+BGC0000474	microcyclamide	Cyanobactin	Microcystis aeruginosa PCC 7806
+BGC0001017	microcystin LR	NRP	Microcystis aeruginosa PCC 7806
+BGC0001017	microcystin LR	Modular type I polyketide	Microcystis aeruginosa PCC 7806
+BGC0000483	aeruginosamide B, aeruginosamide C	Cyanobactin	Microcystis aeruginosa PCC 9432
+BGC0000332	cyanopeptolin	NRP	Microcystis sp. NIVA-CYA 172/5
+BGC0000529	microbisporicin A2	Lanthipeptide	Microbispora corallina
+BGC0001653	linfuranone B, linfuranone C	Polyketide	Microbispora sp. GMKU363
+BGC0001669	microvionin	RiPP	Microbacterium arborescens
+BGC0002004	methanobactin	RiPP	Methylosinus trichosporium OB3b
+BGC0001991	toblerol A, toblerol B, toblerol C, toblerol D, toblerol E, toblerol F, toblerol G, toblerol H	Polyketide	Methylorubrum extorquens AM1
+BGC0000856	ectoine	Other	Methylophaga thalassica
+BGC0000857	ectoine	Other	Methylophaga alcalica
+BGC0000855	ectoine	Other	Methylomicrobium kenyense
+BGC0000859	ectoine	Other	Methylomicrobium alcaliphilum
+BGC0000854	ectoine	Other	Methylomicrobium alcaliphilum 20Z
+BGC0001480	tundrenone	Other	Methylobacter tundripaludum 21/22
+BGC0000858	ectoine	Other	Methylobacter marinus
+BGC0000761	exopolysaccharide	Saccharide	Methylobacillus sp. 12S
+BGC0000860	ectoine	Other	Methylarcula marina
+BGC0001554	coenzyme F430	Other	Methanosarcina barkeri str. Fusaro
+BGC0001240	serinocyclin A, serinocyclin B	NRP	Metarhizium robertsii
+BGC0000337	destruxin A	NRP	Metarhizium robertsii ARSEF 23
+BGC0001026	NG-391	NRP	Metarhizium anisopliae
+BGC0001026	NG-391	Polyketide	Metarhizium anisopliae
+BGC0001009	melithiazol A	NRP	Melittangium lichenicola
+BGC0001009	melithiazol A	Polyketide	Melittangium lichenicola
+BGC0001010	melithiazol A	NRP	Melittangium lichenicola
+BGC0001010	melithiazol A	Modular type I polyketide	Melittangium lichenicola
+BGC0001465	bromopyrroles/bromophenols	Other	Marinomonas mediterranea MMB-1
+BGC0000391	methylpendolmycin, pendolmycin	NRP	Marinactinospora thermotolerans
+BGC0001137	marinacarboline A, marinacarboline B, marinacarboline C, marinacarboline D	Alkaloid	Marinactinospora thermotolerans
+BGC0001138	a201a	Nucleoside	Marinactinospora thermotolerans
+BGC0001660	mathermycin	RiPP	Marinactinospora thermotolerans
+BGC0000736	capsular polysaccharide	Saccharide	Mannheimia haemolytica
+BGC0001318	linamarin, lotaustralin	Other	Manihot esculenta
+BGC0000816	malbrancheamide A	NRP	Malbranchea aurantiaca
+BGC0000816	malbrancheamide A	Alkaloid	Malbranchea aurantiaca
+BGC0000607	micrococcin P1	Thiopeptide	Macrococcus caseolyticus
+BGC0000461	WAP-8294A2	NRP	Lysobacter enzymogenes
+BGC0000999	heat-stable antifungal factor	NRP	Lysobacter enzymogenes
+BGC0000999	heat-stable antifungal factor	Polyketide	Lysobacter enzymogenes
+BGC0001650	Le-pyrrolopyrazines	NRP	Lysobacter enzymogenes
+BGC0001657	lysocin	NRP	Lysobacter sp. RH2180-5
+BGC0000385	lysobactin	NRP	Lysobacter sp. ATCC 53042
+BGC0000384	lyngbyatoxin	NRP	Lyngbya majuscula
+BGC0000962	barbamide	NRP	Lyngbya majuscula
+BGC0000962	barbamide	Modular type I polyketide	Lyngbya majuscula
+BGC0001000	hectochlorin	Lipopeptide	Lyngbya majuscula
+BGC0001000	hectochlorin	Modular type I polyketide	Lyngbya majuscula
+BGC0001001	jamaicamide A, jamaicamide B, jamaicamide C	NRP	Lyngbya majuscula
+BGC0001001	jamaicamide A, jamaicamide B, jamaicamide C	Polyketide	Lyngbya majuscula
+BGC0001165	curacin A	NRP	Lyngbya majuscula
+BGC0001165	curacin A	Modular type I polyketide	Lyngbya majuscula
+BGC0001316	linamarin, lotaustralin	Other	Lotus japonicus
+BGC0001317	lupeol	Terpene	Lotus japonicus
+BGC0001171	listeriolysin S	LAP	Listeria monocytogenes serotype 4b str. F2365
+BGC0001864	listeriocytocin	Glycocin	Listeria monocytogenes SLCC2540
+BGC0000493	leucocyclicin Q	Head-to-tail cyclized peptide	Leuconostoc mesenteroides
+BGC0001044	sirodesmin PL	NRP	Leptosphaeria maculans
+BGC0001044	sirodesmin PL	Polyketide	Leptosphaeria maculans
+BGC0001899	abscisic acid	Polyketide	Leptosphaeria maculans JN3
+BGC0001837	leptolyngbyalide	Polyketide	Leptolyngbya sp. PCC 7375
+BGC0001350	phormidolide	Polyketide	Leptolyngbya sp. ISBN3-Nov-94-8
+BGC0000775	lipopolysaccharide	Saccharide	Legionella pneumophila
+BGC0000180	legioliulin	Trans-AT type I polyketide	Legionella parisiensis
+BGC0000821	rebeccamycin	Aminocoumarin	Lechevalieria aerocolonigenes
+BGC0000822	rebeccamycin	Alkaloid	Lechevalieria aerocolonigenes
+BGC0000823	rebeccamycin	Alkaloid	Lechevalieria aerocolonigenes
+BGC0001245	lasiodiplodin	Polyketide	Lasiodiplodia theobromae
+BGC0000520	lacticin 3147 A1, lacticin 3147 A2	Lanthipeptide	Lactococcus lactis
+BGC0000522	lacticin Z	Lanthipeptide	Lactococcus lactis
+BGC0000536	nisin Q	Lanthipeptide	Lactococcus lactis
+BGC0000538	nisin Z	Lanthipeptide	Lactococcus lactis
+BGC0000620	lacticin Q	RiPP	Lactococcus lactis
+BGC0000764	exopolysaccharide	Saccharide	Lactococcus lactis
+BGC0000521	lacticin 481	Lanthipeptide	Lactococcus lactis subsp. lactis
+BGC0000535	nisin A	Lanthipeptide	Lactococcus lactis subsp. lactis
+BGC0000490	garvicin ML	Head-to-tail cyclized peptide	Lactococcus garvieae DCC43
+BGC0000492	lactocyclicin Q	Head-to-tail cyclized peptide	Lactococcus sp. QU 12
+BGC0000624	salivaricin CRL1328 α peptide, salivaricin CRL1328 β peptide	RiPP	Lactobacillus salivarius
+BGC0000523	lactocin S	Lanthipeptide	Lactobacillus sakei
+BGC0000803	GG exopolysaccharide	Saccharide	Lactobacillus rhamnosus GG
+BGC0000484	glycocin F	Head-to-tail cyclized peptide	Lactobacillus plantarum
+BGC0000623	plantaricin W α, plantaricin W β	RiPP	Lactobacillus plantarum
+BGC0001743	plantaricyclin	RiPP	Lactobacillus plantarum
+BGC0001894	heteropolysaccharide (HePS)	Saccharide	Lactobacillus plantarum
+BGC0000895	citrulline	Other	Lactobacillus plantarum subsp. plantarum
+BGC0000628	lactocillin	Thiopeptide	Lactobacillus paragasseri JV-V03
+BGC0000765	exopolysaccharide	Saccharide	Lactobacillus johnsonii
+BGC0000766	exopolysaccharide	Saccharide	Lactobacillus johnsonii
+BGC0000767	exopolysaccharide	Saccharide	Lactobacillus johnsonii
+BGC0000491	gassericin A	Head-to-tail cyclized peptide	Lactobacillus gasseri
+BGC0000619	gassericin T	RiPP	Lactobacillus gasseri
+BGC0001388	gassericin E	RiPP	Lactobacillus gasseri
+BGC0001601	gassericin-S	RiPP	Lactobacillus gasseri
+BGC0001602	gassericin-T	RiPP	Lactobacillus gasseri
+BGC0000485	acidocin B	Head-to-tail cyclized peptide	Lactobacillus acidophilus
+BGC0001222	acidocin B	RiPP	Lactobacillus acidophilus
+BGC0000002	aculeximycin	Polyketide	Kutzneria albida DSM 43870
+BGC0000378	kutzneride 2	NRP	Kutzneria sp. 744
+BGC0000562	variacin	Lanthipeptide	Kocuria varians
+BGC0001640	kocurin	RiPP	Kocuria rosea
+BGC0001989	pulcherrimin	Other	Kluyveromyces lactis
+BGC0001684	N-acyloxyacyl glutamine	Other	Klebsiella variicola
+BGC0000729	capsular polysaccharide	Saccharide	Klebsiella pneumoniae
+BGC0000730	capsular polysaccharide	Saccharide	Klebsiella pneumoniae
+BGC0000731	capsular polysaccharide	Saccharide	Klebsiella pneumoniae
+BGC0000733	capsular polysaccharide	Saccharide	Klebsiella pneumoniae
+BGC0001639	klebsidin	RiPP	Klebsiella pneumoniae
+BGC0000586	microcin E492	Microcin	Klebsiella pneumoniae RYC492
+BGC0000728	capsular polysaccharide	Saccharide	Klebsiella pneumoniae subsp. ozaenae
+BGC0001638	klebsazolicin	RiPP	Klebsiella pneumoniae subsp. ozaenae
+BGC0000446	tilivalline, 9-deoxy tilivalline, dihydroxy tilivalline, dehydro tilivalline, dihydroxy-dehydro tilivalline	Pyrrolobenzodiazepine	Klebsiella oxytoca
+BGC0001637	kleboxymycin	NRP	Klebsiella oxytoca
+BGC0001805	tilivalline	NRP	Klebsiella oxytoca
+BGC0002031	kitasetaline	Alkaloid	Kitasatospora setae KM-6054
+BGC0001662	mediomycin A	Polyketide	Kitasatospora mediocidica
+BGC0001932	mediomiycin A	Polyketide	Kitasatospora mediocidica
+BGC0001440	cystargolide A, cystargolide B	Other	Kitasatospora cystarginea
+BGC0000209	chlortetracycline	Polyketide	Kitasatospora aureofaciens
+BGC0001003	α-lipomycin	Lipopeptide	Kitasatospora aureofaciens
+BGC0001003	α-lipomycin	Modular type I polyketide	Kitasatospora aureofaciens
+BGC0001003	α-lipomycin	Hybrid/tailoring saccharide	Kitasatospora aureofaciens
+BGC0001983	triacsins	Other	Kitasatospora aureofaciens
+BGC0000051	ebelactone A, ebelactone B	Polyketide	Kitasatospora aburaviensis
+BGC0001580	ebelactone	Polyketide	Kitasatospora aburaviensis
+BGC0000934	5-acetyl-5,10-dihydrophenazine-1-carboxylic acid, 5-(2-hydroxyacetyl)-5,10-dihydrophenazine-1-carboxylic acid, endophenazine A1, endophenazine F, endophenazine G	Phenazine	Kitasatospora sp. HKI 714
+BGC0002057	pateamine	Trans-AT type I polyketide	Kiritimatiellaeota bacterium
+BGC0000202	azicemicin B	Polyketide	Kibdelosporangium sp. MJ126-NF4
+BGC0001628	JBIR-78, JBIR-95	NRP	Kibdelosporangium sp. AK-AA56
+BGC0001383	macrolactin H, macrolactin B, macrolactin 1c, macrolactin E	Polyketide	Jeotgalibacillus marinus
+BGC0001127	jagaricin	NRP	Janthinobacterium agaricidamnosum
+BGC0001231	microsclerodermin	NRP	Jahnella sp. MSr9139
+BGC0001231	microsclerodermin	Modular type I polyketide	Jahnella sp. MSr9139
+BGC0002025	thaxteramide C	NRP	Jahnella sp. MSr9139
+BGC0002026	thaxteramide A1, thaxteramide A2, thaxteramide B1, thaxteramide B2	NRP	Jahnella sp. MSr9139
+BGC0001706	nodulisporic acid F	Terpene	Hypoxylon pulicicidum
+BGC0001936	nodulisporic acid F	Terpene	Hypoxylon pulicicidum
+BGC0000076	hypothemycin	Polyketide	Hypomyces subiculosus
+BGC0000077	hypothemycin	Polyketide	Hypomyces subiculosus
+BGC0001248	clavaric acid	Terpene	Hypholoma sublateritium
+BGC0001418	myxochromide D	Cyclic depsipeptide	Hyalangium minutum
+BGC0001418	myxochromide D	Iterative type I polyketide	Hyalangium minutum
+BGC0001419	myxochromide D	Cyclic depsipeptide	Hyalangium minutum
+BGC0001419	myxochromide D	Iterative type I polyketide	Hyalangium minutum
+BGC0001420	myxochromide D	Cyclic depsipeptide	Hyalangium minutum
+BGC0001420	myxochromide D	Iterative type I polyketide	Hyalangium minutum
+BGC0001615	hexose-palythine-serine, hexose-shinorine	NRP	Heteroscytonema crispum UCFS10
+BGC0001198	(+)-O-methylkolavelool	Terpene	Herpetosiphon aurantiacus DSM 785
+BGC0001521	auriculamide	NRP	Herpetosiphon aurantiacus DSM 785
+BGC0001780	siphonazole	NRP	Herpetosiphon sp. B060
+BGC0000424	serobactin C, serobactin B, serobactin A	NRP siderophore	Herbaspirillum seropedicae SmR1
+BGC0000906	heme D1	Other	Heliophilum fasciatum
+BGC0000905	heme D1	Other	Heliobacillus mobilis
+BGC0000668	12-epi-hapalindole C isonitrile, 12-epi-hapalindole E, 12-epi-fischerindole U isonitrile, fischerindole L, 12-epi-fischerindole I isonitrile, welwitindolinone A isonitrile, welwitindolinone B isothiocyanate, welwitindolinone C isothiocyanate, N-methylwelwitindolinone C isothiocyanate, N-methylwelwitinsolinone C isonitrile, 3-epi-welwitindolinone B isothiocyanate, 3-(Z-2'-isocyanoethenyl)-indole	Terpene	Hapalosiphon welwitschii UTEX B 1830
+BGC0000668	12-epi-hapalindole C isonitrile, 12-epi-hapalindole E, 12-epi-fischerindole U isonitrile, fischerindole L, 12-epi-fischerindole I isonitrile, welwitindolinone A isonitrile, welwitindolinone B isothiocyanate, welwitindolinone C isothiocyanate, N-methylwelwitindolinone C isothiocyanate, N-methylwelwitinsolinone C isonitrile, 3-epi-welwitindolinone B isothiocyanate, 3-(Z-2'-isocyanoethenyl)-indole	Alkaloid	Hapalosiphon welwitschii UTEX B 1830
+BGC0000645	carotenoid	Terpene	Halobacillus halophilus DSM 2266
+BGC0001367	haliamide	NRP	Haliangium ochraceum DSM 14365
+BGC0001367	haliamide	Polyketide	Haliangium ochraceum DSM 14365
+BGC0001543	chejuenolide A, chejuenolide B	Polyketide	Hahella chejuensis
+BGC0000260	prodigiosin	Polyketide	Hahella chejuensis KCTC 2396
+BGC0001644	lacunalides	Polyketide	Gynuella sunshinyii YC6258
+BGC0001791	sunshinamide	NRP	Gynuella sunshinyii YC6258
+BGC0001835	gynuellalide	Polyketide	Gynuella sunshinyii YC6258
+BGC0001836	tartrolon D, tartrolon F, tartrolon G	Trans-AT type I polyketide	Gynuella sunshinyii YC6258
+BGC0000939	aerobactin	Other	Grimontia hollisae
+BGC0000346	epoxomicin	NRP	Goodfellowiella coeruleoviolacea
+BGC0000346	epoxomicin	Modular type I polyketide	Goodfellowiella coeruleoviolacea
+BGC0000806	phosphonoglycans	Saccharide	Glycomyces sp. NRRL B-16210
+BGC0001820	verticillin	NRP	Gliocladium sp.
+BGC0001187	xenolozoyenone	Lipopeptide	Glarea lozoyensis
+BGC0001187	xenolozoyenone	Iterative type I polyketide	Glarea lozoyensis
+BGC0001258	1,3,6,8-tetrahydroxynaphthalene	Polyketide	Glarea lozoyensis
+BGC0001275	6-methylsalicyclic acid	Polyketide	Glarea lozoyensis
+BGC0001035	pneumocandin B0, pneumocandin A0	Polyketide	Glarea lozoyensis ATCC 20868
+BGC0001035	pneumocandin B0, pneumocandin A0	NRP	Glarea lozoyensis ATCC 20868
+BGC0001035	pneumocandin B0, pneumocandin A0	Aminocoumarin	Glarea lozoyensis ATCC 20868
+BGC0000516	geobacillin II	Lanthipeptide	Geobacillus thermodenitrificans
+BGC0000515	geobacillin I	Lanthipeptide	Geobacillus thermodenitrificans NG80-2
+BGC0000794	S-layer glycan	Saccharide	Geobacillus stearothermophilus
+BGC0001527	basidioferrin	Other	Gelatoporia subvermispora
+BGC0000062	fumonisin B1	Polyketide	Fusarium verticillioides
+BGC0000064	fusarin	Polyketide	Fusarium verticillioides
+BGC0001190	fusaric acid	Polyketide	Fusarium verticillioides 7600
+BGC0001278	nivalenol, deoxynivalenol, 3-acetyldeoxynivalenol, 15-acetyldeoxynivalenol, neosolaniol, calonectrin, apotrichodiol, isotrichotriol, 15-decalonectrin, T-2 toxin, 3-acetyl T-2 toxin, trichodiene	Terpene	Fusarium sporotrichioides
+BGC0000063	fumonisin	Polyketide	Fusarium oxysporum
+BGC0000304	apicidin	NRP	Fusarium incarnatum
+BGC0000992	fusaridione A	NRP	Fusarium heterosporum
+BGC0000992	fusaridione A	Polyketide	Fusarium heterosporum
+BGC0001255	equisetin	NRP	Fusarium heterosporum
+BGC0001255	equisetin	Polyketide	Fusarium heterosporum
+BGC0000930	deoxynivalenol	Other	Fusarium graminearum
+BGC0001057	zearalenone	NRP	Fusarium graminearum
+BGC0001057	zearalenone	Polyketide	Fusarium graminearum
+BGC0001277	nivalenol, vomitoxin, 3-acetyldeoxynivalenol, 15-acetyldeoxynivalenol, neosolaniol, calonectrin, apotrichodiol, isotrichotriol, 15-deacetylcalonectrin, T-2 toxin, 3-acetyl T-2 toxin, trichodiene	Terpene	Fusarium graminearum
+BGC0001600	fusarielin H	Polyketide	Fusarium graminearum
+BGC0001545	chrysogine	NRP	Fusarium graminearum PH-1
+BGC0000030	bikaverin	Polyketide	Fusarium fujikuroi IMI 58289
+BGC0001242	oxyjavanicin	Polyketide	Fusarium fujikuroi
+BGC0001268	fusarin	NRP	Fusarium fujikuroi
+BGC0001268	fusarin	Polyketide	Fusarium fujikuroi
+BGC0001604	gibberellin	Terpene	Fusarium fujikuroi
+BGC0001305	fujikurin A, fujikurin B, fujikurin C, fujikurin D	Polyketide	Fusarium fujikuroi IMI 58289
+BGC0001481	α-acorenol	Terpene	Fusarium fujikuroi IMI 58289
+BGC0001606	gibepyrone-A	Polyketide	Fusarium fujikuroi IMI 58289
+BGC0001642	koraiol	Terpene	Fusarium fujikuroi IMI 58289
+BGC0000342	enniatin	NRP	Fusarium equiseti
+BGC0001659	mangicol A	Terpene	Fusarium equiseti
+BGC0001811	trichodiene-11-one	Terpene	Fusarium asiaticum
+BGC0001913	phomoidride	Polyketide	fungal sp. ATCC 74256
+BGC0001197	frankiamicin	Polyketide	Frankia sp. EAN1pec
+BGC0000838	flexirubin	Polyketide	Flavobacterium johnsoniae UW101
+BGC0001594	fischerindole L	Alkaloid	Fischerella muscicola UTEX 1829
+BGC0001126	12-epi-hapalindole J isonitrile, ambiguine A isonitrile, ambiguine B isonitrile, ambiguine C isonitrile, ambiguine D isonitrile, ambiguine E isonitrile, ambiguine K isonitrile, ambiguine L isonitrile, ambiguine I isonitrile, ambiguine J isonitrile	Terpene	Fischerella ambigua UTEX 1903
+BGC0001126	12-epi-hapalindole J isonitrile, ambiguine A isonitrile, ambiguine B isonitrile, ambiguine C isonitrile, ambiguine D isonitrile, ambiguine E isonitrile, ambiguine K isonitrile, ambiguine L isonitrile, ambiguine I isonitrile, ambiguine J isonitrile	Alkaloid	Fischerella ambigua UTEX 1903
+BGC0001612	ambiguine H isonitrile	Alkaloid	Fischerella ambigua UTEX 1903
+BGC0001501	ambiguine P	Alkaloid	Fischerella sp. TAU
+BGC0001595	fischerindole	Alkaloid	Fischerella sp. SAG 46.79
+BGC0001467	hapalosin	Cyclic depsipeptide	Fischerella sp. PCC 9431
+BGC0001467	hapalosin	Modular type I polyketide	Fischerella sp. PCC 9431
+BGC0001884	aranazole A, aranazole B, aranazole C, aranazole D	NRP	Fischerella sp. PCC 9339
+BGC0001884	aranazole A, aranazole B, aranazole C, aranazole D	Polyketide	Fischerella sp. PCC 9339
+BGC0001667	microcystin-LR, microcystin-FR, microcystin-LA, microcystin-LAba, microcystin-LM, microcystin-LV, microcystin-LL	NRP	Fischerella sp. CENA161
+BGC0001667	microcystin-LR, microcystin-FR, microcystin-LA, microcystin-LAba, microcystin-LM, microcystin-LV, microcystin-LL	Polyketide	Fischerella sp. CENA161
+BGC0001583	emodin	Polyketide	Escovopsis weberi
+BGC0001585	melinacidin IV	Alkaloid	Escovopsis weberi
+BGC0001777	shearinine D	Terpene	Escovopsis weberi
+BGC0000568	microcin B17	LAP	Escherichia coli
+BGC0000581	microcin J25	Linaridin	Escherichia coli
+BGC0000584	colicin V	Microcin	Escherichia coli
+BGC0000585	microcin C7	Microcin	Escherichia coli
+BGC0000587	microcin H47	Microcin	Escherichia coli
+BGC0000588	microcin L	Microcin	Escherichia coli
+BGC0000590	microcin N	Microviridin	Escherichia coli
+BGC0000621	linaclotide	RiPP	Escherichia coli
+BGC0000749	capsular polysaccharide	Saccharide	Escherichia coli
+BGC0000773	lipopolysaccharide	Saccharide	Escherichia coli
+BGC0000776	lipopolysaccharide	Saccharide	Escherichia coli
+BGC0000777	lipopolysaccharide	Saccharide	Escherichia coli
+BGC0000787	O-antigen	Saccharide	Escherichia coli
+BGC0000789	O-antigen	Saccharide	Escherichia coli
+BGC0000790	O-antigen	Saccharide	Escherichia coli
+BGC0000799	colanic acid	Saccharide	Escherichia coli
+BGC0000972	N-myristoyl-D-asparagine, cis-7-tetradecenoyl-D-asparagine, (R)-N1-((S)-5-oxohexan-2-yl)-2-tetradecanamidosuccinamide	NRP	Escherichia coli
+BGC0000972	N-myristoyl-D-asparagine, cis-7-tetradecenoyl-D-asparagine, (R)-N1-((S)-5-oxohexan-2-yl)-2-tetradecanamidosuccinamide	Modular type I polyketide	Escherichia coli
+BGC0000972	N-myristoyl-D-asparagine, cis-7-tetradecenoyl-D-asparagine, (R)-N1-((S)-5-oxohexan-2-yl)-2-tetradecanamidosuccinamide	Trans-AT type I polyketide	Escherichia coli
+BGC0001055	yersiniabactin	NRP	Escherichia coli
+BGC0001055	yersiniabactin	Polyketide	Escherichia coli
+BGC0000836	APE Ec	Other	Escherichia coli CFT073
+BGC0001555	colicin V	RiPP	Escherichia coli chi7122
+BGC0000589	microcin M	Microcin	Escherichia coli Nissle 1917
+BGC0001992	thioguanine	Other	Erwinia amylovora CFBP1430
+BGC0000815	loline	Alkaloid	Epichloe uncinata
+BGC0001250	epichloenin A	NRP	Epichloe festucae
+BGC0001251	epichloenin A	NRP	Epichloe festucae
+BGC0000348	ergovaline	NRP	Epichloe festucae var. lolii
+BGC0001291	enterocin NKR-5-3B	RiPP	Enterococcus faecium
+BGC0000618	enterocin A	RiPP	Enterococcus faecium DO
+BGC0000489	enterocin AS-48	Head-to-tail cyclized peptide	Enterococcus faecalis
+BGC0000505	enterocin W α, enterocin W β	Lanthipeptide	Enterococcus faecalis
+BGC0000792	polysaccharide	Saccharide	Enterococcus faecalis OG1RF
+BGC0000639	carotenoid	Terpene	Enterobacteriaceae bacterium DC260
+BGC0000640	carotenoid	Terpene	Enterobacteriaceae bacterium DC404
+BGC0000642	carotenoid	Terpene	Enterobacteriaceae bacterium DC413
+BGC0000641	carotenoid	Terpene	Enterobacteriaceae bacterium DC416
+BGC0000913	MK-8	Other	Enterobacter cloacae
+BGC0001207	teixobactin	NRP	Eleftheria terrae
+BGC0000786	O-antigen	Saccharide	Edwardsiella ictaluri 93-146
+BGC0000867	polyhydroxyalkanoic acids	Other	Ectothiorhodospira shaposhnikovii
+BGC0000831	violacein	Alkaloid	Duganella sp. B2
+BGC0000048	dothistromin	Polyketide	Dothistroma septosporum
+BGC0000887	saxitoxin, gonyautoxin 2, gonyautoxin 3, toxin C2, toxin C3, gonyautoxin 5, decarbamoylsaxitoxin, decarbamoylgonyautoxin 2, decarbamoylgonyautoxin 3	Alkaloid	Dolichospermum circinale AWQC131C
+BGC0001974	kainic acid	Other	Digenea simplex
+BGC0000644	carotenoid	Terpene	Dietzia sp. CQ4
+BGC0000687	phyllocladan-16α-ol	Terpene	Diaporthe amygdali
+BGC0000688	copalyl diphosphate	Terpene	Diaporthe amygdali
+BGC0000984	delftibactin A, delftibactin B	NRP	Delftia acidovorans SPH-1
+BGC0000984	delftibactin A, delftibactin B	Polyketide	Delftia acidovorans SPH-1
+BGC0001906	naphthalene	Polyketide	Daldinia eschscholzii IFB-TL01
+BGC0001907	chromane	Polyketide	Daldinia eschscholzii IFB-TL01
+BGC0000165	tiacumicin B	Modular type I polyketide	Dactylosporangium aurantiacum subsp. hamdenensis
+BGC0000216	dactylocycline A	Polyketide	Dactylosporangium sp. SC14051
+BGC0001417	myxochromide D	Cyclic depsipeptide	Cystobacterineae bacterium
+BGC0001417	myxochromide D	Iterative type I polyketide	Cystobacterineae bacterium
+BGC0001964	alkylpyrone-407, alkylpyrone-393	Polyketide	Cystobacterineae bacterium
+BGC0000335	cystomanamide A, cystomanamide B, cystomanamide C, cystomanamide D	NRP	Cystobacter fuscus
+BGC0000982	cystothiazole A	NRP	Cystobacter fuscus
+BGC0000982	cystothiazole A	Polyketide	Cystobacter fuscus
+BGC0001344	tubulysin A, tubulysin B, tubulysin C, tubulysin D, tubulysin E, tubulysin F, tubulysin G, tubulysin H, tubulysin I	NRP	Cystobacter sp. SBCb004
+BGC0001344	tubulysin A, tubulysin B, tubulysin C, tubulysin D, tubulysin E, tubulysin F, tubulysin G, tubulysin H, tubulysin I	Polyketide	Cystobacter sp. SBCb004
+BGC0001413	cystobactamide	NRP	Cystobacter sp. Cbv34
+BGC0001822	vioprolide A	NRP	Cystobacter sp.
+BGC0001943	vioprolides A, vioprolides B, vioprolides C, vioprolides D	NRP	Cystobacter sp.
+BGC0001950	puwainaphycin F, minutissamide A	NRP	Cylindrospermum moravicum CCALA 993
+BGC0001064	cylindrocyclophane D, cylindrocyclophane E, cylindrocyclophane F	Modular type I polyketide	Cylindrospermum licheniforme UTEX B 2014
+BGC0001064	cylindrocyclophane D, cylindrocyclophane E, cylindrocyclophane F	Type III polyketide	Cylindrospermum licheniforme UTEX B 2014
+BGC0001566	cylindrocyclophane	Polyketide	Cylindrospermum licheniforme UTEX B 2014
+BGC0001125	puwainaphycin A, puwainaphycin B, puwainaphycin C, puwainaphycin D	NRP	Cylindrospermum alatosporum CCALA 988
+BGC0001125	puwainaphycin A, puwainaphycin B, puwainaphycin C, puwainaphycin D	Polyketide	Cylindrospermum alatosporum CCALA 988
+BGC0001951	puwainaphycin F, minutissamide A	NRP	Cylindrospermum alatosporum CCALA 994
+BGC0000978	cylindrospermopsin	NRP	Cylindrospermopsis raciborskii AWT205
+BGC0000978	cylindrospermopsin	Alkaloid	Cylindrospermopsis raciborskii AWT205
+BGC0000978	cylindrospermopsin	Modular type I polyketide	Cylindrospermopsis raciborskii AWT205
+BGC0000188	saxitoxin, neosaxitoxin, decarbamoylsaxitoxin, gonyautoxin 3, gonyautoxin 2	Alkaloid	Cylindrospermopsis raciborskii T3
+BGC0000928	T3 toxin	Other	Cylindrospermopsis raciborskii T3
+BGC0001164	1-heptadecene	Modular type I polyketide	Cyanothece sp. PCC 7822
+BGC0001962	hierridin B, hierridin C	Polyketide	Cyanobium sp. LEGE 06113
+BGC0001564	cusperin	NRP	Cuspidothrix issatschenkoi CHARLIE-1
+BGC0001564	cusperin	Polyketide	Cuspidothrix issatschenkoi CHARLIE-1
+BGC0001636	KK-1	NRP	Curvularia clavata
+BGC0001189	taiwachelin	NRP	Cupriavidus taiwanensis LMG 19424
+BGC0000330	cupriachelin	NRP siderophore	Cupriavidus necator H16
+BGC0001315	cucurbitacin	Terpene	Cucumis sativus
+BGC0000791	O-antigen	Saccharide	Cronobacter sakazakii
+BGC0001491	67-121C	Polyketide	Couchioplanes caeruleus subsp. caeruleus
+BGC0001174	corynazolicin	LAP	Corynebacterium urealyticum DSM 7111
+BGC0000637	carotenoid	Terpene	Corynebacterium glutamicum
+BGC0001218	fumosorinone	NRP	Cordyceps fumosorosea
+BGC0001218	fumosorinone	Polyketide	Cordyceps fumosorosea
+BGC0001775	sespendole	Terpene	Cordana terrestris
+BGC0001091	corallopyronin	NRP	Corallococcus coralloides
+BGC0001091	corallopyronin	Polyketide	Corallococcus coralloides
+BGC0001737	phenalamide	NRP	Corallococcus coralloides
+BGC0001737	phenalamide	Polyketide	Corallococcus coralloides
+BGC0000321	chaetocin	NRP	Collariella virescens
+BGC0001563	curvupallide-B	NRP	Cochliobolus pallescens
+BGC0001563	curvupallide-B	Polyketide	Cochliobolus pallescens
+BGC0001170	clostridiolysin S	LAP	Clostridium sporogenes ATCC 15579
+BGC0000564	clostridiolysin S	LAP	Clostridium botulinum A str. ATCC 3502
+BGC0000488	circularin A	Head-to-tail cyclized peptide	Clostridium beijerinckii
+BGC0001686	N-octanoyl-Met-Phe-H	NRP	Clostridium sp. CAG:567
+BGC0001365	clapurines	NRP	Claviceps purpurea 20.1
+BGC0001886	secalonic acids	Polyketide	Claviceps purpurea 20.1
+BGC0001241	ergotamine	Terpene	Claviceps fusiformis
+BGC0001267	lysergic acid, elymoclavine	Terpene	Claviceps fusiformis
+BGC0001573	dihydrolysergic acid	Alkaloid	Claviceps africana
+BGC0000528	michiganin A	Lanthipeptide	Clavibacter michiganensis subsp. michiganensis NCPPB 382
+BGC0001489	6-hydroxymellein	Polyketide	Cladonia uncialis subsp. uncialis
+BGC0001266	grayanic acid	Polyketide	Cladonia grayi
+BGC0000829	violacein	Alkaloid	Chromobacterium violaceum
+BGC0000993	FR901228	Cyclic depsipeptide	Chromobacterium violaceum
+BGC0000993	FR901228	Modular type I polyketide	Chromobacterium violaceum
+BGC0000954	ajudazol A	NRP	Chondromyces crocatus
+BGC0000954	ajudazol A	Modular type I polyketide	Chondromyces crocatus
+BGC0000969	chondramide A	Cyclic depsipeptide	Chondromyces crocatus
+BGC0000969	chondramide A	Modular type I polyketide	Chondromyces crocatus
+BGC0000970	chondrochloren A	NRP	Chondromyces crocatus
+BGC0000970	chondrochloren A	Modular type I polyketide	Chondromyces crocatus
+BGC0000974	crocacin	NRP	Chondromyces crocatus
+BGC0000974	crocacin	Polyketide	Chondromyces crocatus
+BGC0001342	Cmc-thuggacin A, Cmc-thuggacin B	NRP	Chondromyces crocatus
+BGC0001342	Cmc-thuggacin A, Cmc-thuggacin B	Polyketide	Chondromyces crocatus
+BGC0001559	crocagin A, crocagin B	RiPP	Chondromyces crocatus
+BGC0000178	elansolid A1	Trans-AT type I polyketide	Chitinophaga sancti
+BGC0000839	flexirubin	Other	Chitinophaga pinensis DSM 2588
+BGC0001392	pinensins	RiPP	Chitinophaga pinensis DSM 2588
+BGC0001793	swainsonine	Polyketide	Chaetothyriaceae sp.
+BGC0001182	chaetoglobosins	NRP	Chaetomium globosum CBS 148.51
+BGC0001182	chaetoglobosins	Iterative type I polyketide	Chaetomium globosum CBS 148.51
+BGC0001219	shanorellin	Polyketide	Chaetomium globosum CBS 148.51
+BGC0001405	chaetoviridin E, 11-epichaetomugilin A	Polyketide	Chaetomium globosum CBS 148.51
+BGC0001542	cercosporin	Polyketide	Cercospora zeina
+BGC0001541	cercosporin	Polyketide	Cercospora beticola
+BGC0000574	caulosegnin I, caulosegnin II, caulosegnin III	Lassopeptide	Caulobacter segnis ATCC 21756
+BGC0000573	caulonodin I, caulonodin II	Lassopeptide	Caulobacter sp. K31
+BGC0000501	catenulipeptin	Lanthipeptide	Catenulispora acidiphila DSM 44928
+BGC0001154	cacibiocin B	Other	Catenulispora acidiphila DSM 44928
+BGC0001963	catenulisporolides	NRP	Catenulispora sp.
+BGC0001963	catenulisporolides	Polyketide	Catenulispora sp.
+BGC0000487	carnocyclin	Head-to-tail cyclized peptide	Carnobacterium maltaromaticum
+BGC0000500	carnolysin A1, carnolysin A2	Lanthipeptide	Carnobacterium maltaromaticum
+BGC0001742	piericidin A1	Polyketide	Candidatus Streptomyces philanthi bv. triangulum
+BGC0001186	misakinolide A	Polyketide	Candidatus Entotheonella serta
+BGC0001800	theonellamide	NRP	Candidatus Entotheonella serta
+BGC0001800	theonellamide	Polyketide	Candidatus Entotheonella serta
+BGC0001938	entotheonella	Polyketide	Candidatus Entotheonella serta
+BGC0000174	bryostatin	Polyketide	Candidatus Endobugula sertula
+BGC0000205	bryostatin	Polyketide	Candidatus Endobugula sertula
+BGC0001451	FR900359	NRP	Candidatus Burkholderia crenata
+BGC0000770	lipo-oligosaccharide	Saccharide	Campylobacter jejuni
+BGC0001866	viriditoxin	Polyketide	Byssochlamys spectabilis
+BGC0002030	viriditoxin	Polyketide	Byssochlamys spectabilis
+BGC0001340	byssochlamic acid	Iterative type I polyketide	Byssochlamys fulva
+BGC0000486	butyrivibriocin AR10	Head-to-tail cyclized peptide	Butyrivibrio fibrisolvens
+BGC0000499	butyrivibriocin OR79	Lanthipeptide	Butyrivibrio fibrisolvens
+BGC0001114	thailanstatin A	NRP	Burkholderia thailandensis
+BGC0001114	thailanstatin A	Polyketide	Burkholderia thailandensis
+BGC0000186	thailandamide, thailandamide lactone	NRP	Burkholderia thailandensis E264
+BGC0000186	thailandamide, thailandamide lactone	Modular type I polyketide	Burkholderia thailandensis E264
+BGC0000386	malleobactin A, malleobactin B, malleobactin C, malleobactin D	NRP siderophore	Burkholderia thailandensis E264
+BGC0000961	bactobolin	NRP	Burkholderia thailandensis E264
+BGC0000961	bactobolin	Polyketide	Burkholderia thailandensis E264
+BGC0000964	burkholdac A	Cyclic depsipeptide	Burkholderia thailandensis E264
+BGC0000964	burkholdac A	Trans-AT type I polyketide	Burkholderia thailandensis E264
+BGC0001102	malleilactone	Beta-lactam	Burkholderia thailandensis E264
+BGC0001102	malleilactone	Modular type I polyketide	Burkholderia thailandensis E264
+BGC0001120	burkholderic acid	NRP	Burkholderia thailandensis E264
+BGC0001120	burkholderic acid	Modular type I polyketide	Burkholderia thailandensis E264
+BGC0000572	capistruin	Lassopeptide	Burkholderia thailandensis E444
+BGC0001711	occidiofungin A	NRP	Burkholderia pyrrocinia
+BGC0001711	occidiofungin A	Polyketide	Burkholderia pyrrocinia
+BGC0000782	O-antigen	Saccharide	Burkholderia pseudomallei 1026b
+BGC0001588	exopolysaccharides	Saccharide	Burkholderia pseudomallei 1026b
+BGC0000785	O-antigen	Saccharide	Burkholderia mallei
+BGC0000929	xanthothricin	Other	Burkholderia glumae
+BGC0000173	isobongkrekic acid, bongkrekic acid	Modular type I polyketide	Burkholderia gladioli
+BGC0001646	lagriamide	Polyketide	Burkholderia gladioli
+BGC0001833	icosalide A, icosalide B	Lipopeptide	Burkholderia gladioli
+BGC0001946	lagriamide	NRP	Burkholderia gladioli
+BGC0001946	lagriamide	Polyketide	Burkholderia gladioli
+BGC0000892	caryoynencin	Other	Burkholderia gladioli BSR3
+BGC0001721	ornibactin	NRP	Burkholderia cepacia
+BGC0001599	fragin	NRP	Burkholderia cenocepacia H111
+BGC0001900	fragin	NRP	Burkholderia cenocepacia H111
+BGC0001589	exopolysaccharides	Saccharide	Burkholderia cenocepacia J2315
+BGC0001094	enacyloxin IIa	NRP	Burkholderia ambifaria AMMD
+BGC0001094	enacyloxin IIa	Polyketide	Burkholderia ambifaria AMMD
+BGC0001897	cepacin A	Polyketide	Burkholderia ambifaria IOP40-10
+BGC0001113	spliceostatin, FR901464	NRP	Burkholderia sp. FERM BP-3421
+BGC0001113	spliceostatin, FR901464	Polyketide	Burkholderia sp. FERM BP-3421
+BGC0000866	polyhydroxyalkanoate	Other	Burkholderia sp. DSM 9242
+BGC0000772	lipopolysaccharide	Saccharide	Brucella melitensis
+BGC0000643	carotenoid	Terpene	Brevundimonas vesicularis
+BGC0000634	carotenoid	Terpene	Brevundimonas sp. SD212
+BGC0000636	carotenoid	Terpene	Brevibacterium linens
+BGC0001532	bogorol A	NRP	Brevibacillus laterosporus
+BGC0001536	brevicidine	NRP	Brevibacillus laterosporus
+BGC0001796	tauramamide	NRP	Brevibacillus laterosporus DSM 25
+BGC0000172	basiliskamide A, basiliskamide B	Polyketide	Brevibacillus laterosporus PE36
+BGC0000367	gramicidin	NRP	Brevibacillus brevis NBRC 100599
+BGC0000452	tyrocidine	NRP	Brevibacillus brevis NBRC 100599
+BGC0001469	marthiapeptide A	NRP	Brevibacillus sp. Leaf182
+BGC0001470	macrobrevin	Trans-AT type I polyketide	Brevibacillus sp. Leaf182
+BGC0001680	N-acyl alanine	Other	Bradyrhizobiaceae bacterium SG-6C
+BGC0000631	botrydial	Terpene	Botrytis cinerea B05.10
+BGC0001892	botcinic acid	Polyketide	Botrytis cinerea B05.10
+BGC0001893	abscisic acid	Other	Botrytis cinerea B05.10
+BGC0001701	nisin O	RiPP	Blautia obeum
+BGC0001265	melanin	Polyketide	Bipolaris oryzae
+BGC0001565	cyclosporin C	NRP	Beauveria felina
+BGC0000312	bassianolide	NRP	Beauveria bassiana
+BGC0000313	beauvericin	NRP	Beauveria bassiana
+BGC0001049	tenellin	NRP	Beauveria bassiana
+BGC0001049	tenellin	Iterative type I polyketide	Beauveria bassiana
+BGC0001136	desmethylbassianin	NRP	Beauveria bassiana
+BGC0001136	desmethylbassianin	Iterative type I polyketide	Beauveria bassiana
+BGC0001720	oosporein	Polyketide	Beauveria bassiana ARSEF 2860
+BGC0001654	lipooligosaccharide	Saccharide	Bacteroides thetaiotaomicron VPI-5482
+BGC0001410	polysaccharide A	Saccharide	Bacteroides fragilis
+BGC0001411	polysaccharide B	Saccharide	Bacteroides fragilis
+BGC0001412	polysaccharide C	Saccharide	Bacteroides fragilis
+BGC0001681	N-acyl glycine	Other	Bacteroides fragilis 638R
+BGC0000948	α-galactosylceramide	Other	Bacteroides fragilis NCTC 9343
+BGC0000176	difficidin	Polyketide	Bacillus velezensis FZB42
+BGC0000176	difficidin	NRP	Bacillus velezensis FZB42
+BGC0000181	macrolactin H	Polyketide	Bacillus velezensis FZB42
+BGC0000433	surfactin	Lipopeptide	Bacillus velezensis FZB42
+BGC0000569	plantazolicin	LAP	Bacillus velezensis FZB42
+BGC0000616	amylocyclicin	Head-to-tail cyclized peptide	Bacillus velezensis FZB42
+BGC0001089	bacillaene	Polyketide	Bacillus velezensis FZB42
+BGC0001089	bacillaene	NRP	Bacillus velezensis FZB42
+BGC0001090	bacillomycin D	Polyketide	Bacillus velezensis FZB42
+BGC0001090	bacillomycin D	Lipopeptide	Bacillus velezensis FZB42
+BGC0001095	fengycin	NRP	Bacillus velezensis FZB42
+BGC0001184	bacilysin	Other	Bacillus velezensis FZB42
+BGC0001185	bacillibactin	NRP siderophore	Bacillus velezensis FZB42
+BGC0000599	thuricin CD α, thuricin CD β	Sactipeptide	Bacillus thuringiensis
+BGC0000600	thurincin H	RiPP	Bacillus thuringiensis
+BGC0000626	thuricin	RiPP	Bacillus thuringiensis
+BGC0001809	trans-aconitic acid	Other	Bacillus thuringiensis serovar chinensis CT-43
+BGC0001887	huazacin	RiPP	Bacillus thuringiensis serovar huazhongensis BGSC 4BD1
+BGC0001391	thusin	RiPP	Bacillus thuringiensis serovar rongseni
+BGC0000511	ericin S	Lanthipeptide	Bacillus subtilis
+BGC0000560	subtilomycin	Lanthipeptide	Bacillus subtilis
+BGC0001005	locillomycin	NRP	Bacillus subtilis
+BGC0001005	locillomycin	Polyketide	Bacillus subtilis
+BGC0001098	iturin	NRP	Bacillus subtilis
+BGC0001098	iturin	Polyketide	Bacillus subtilis
+BGC0001520	aurantinin B, aurantinin C, aurantinin D	Polyketide	Bacillus subtilis
+BGC0000506	entianin	Lanthipeptide	Bacillus subtilis subsp. spizizenii
+BGC0000559	subtilin	Lanthipeptide	Bacillus subtilis subsp. spizizenii ATCC 6633
+BGC0000602	subtilosin A	Thiopeptide	Bacillus subtilis subsp. spizizenii ATCC 6633
+BGC0000926	rhizocticin A	Other	Bacillus subtilis subsp. spizizenii ATCC 6633
+BGC0001103	mycosubtilin	NRP	Bacillus subtilis subsp. spizizenii ATCC 6633
+BGC0001103	mycosubtilin	Polyketide	Bacillus subtilis subsp. spizizenii ATCC 6633
+BGC0000407	plipastatin	NRP	Bacillus subtilis subsp. subtilis
+BGC0000309	bacillibactin	NRP	Bacillus subtilis subsp. subtilis str. 168
+BGC0000558	sublancin 168	Lanthipeptide	Bacillus subtilis subsp. subtilis str. 168
+BGC0000601	sporulation killing factor	Head-to-tail cyclized peptide	Bacillus subtilis subsp. subtilis str. 168
+BGC0000868	teichuronic acid	Other	Bacillus subtilis subsp. subtilis str. 168
+BGC0001173	plantazolicin	LAP	Bacillus pumilus ATCC 7061
+BGC0001210	pseudomycoicidin	RiPP	Bacillus pseudomycoides DSM 12442
+BGC0001863	bacillicn CER074	Terpene	Bacillus mycoides
+BGC0001863	bacillicn CER074	Glycocin	Bacillus mycoides
+BGC0000622	megacin	RiPP	Bacillus megaterium
+BGC0001725	oxetanocin A	Other	Bacillus megaterium
+BGC0000310	bacitracin	NRP	Bacillus licheniformis
+BGC0000525	lichenicidin VK21 A1, lichenicidin VK21 A2	Lanthipeptide	Bacillus licheniformis
+BGC0000381	lichenysin	NRP	Bacillus licheniformis DSM 13 = ATCC 14580
+BGC0000517	haloduracin β, haloduracin α	Lanthipeptide	Bacillus halodurans C-125
+BGC0000617	coagulin	RiPP	Bacillus coagulans
+BGC0000693	butirosin A, butirosin B	Saccharide	Bacillus circulans
+BGC0000694	butirosin	Saccharide	Bacillus circulans
+BGC0001715	octapeptin C4	NRP	Bacillus circulans
+BGC0000320	cereulide	Cyclic depsipeptide	Bacillus cereus
+BGC0000502	cerecidin, cerecidin A1, cerecidin A2, cerecidin A3, cerecidin A4, cerecidin A5, cerecidin A6, cerecidin A7	Lanthipeptide	Bacillus cereus
+BGC0000920	polyhydroxyalkanoates	Other	Bacillus cereus
+BGC0001059	zwittermicin A	NRP	Bacillus cereus
+BGC0001059	zwittermicin A	Polyketide	Bacillus cereus
+BGC0000612	thiocillin I	Thiopeptide	Bacillus cereus ATCC 14579
+BGC0001861	bacillicin BAG2O	Glycocin	Bacillus cereus BAG2O-1
+BGC0001407	bicereucin	RiPP	Bacillus cereus SJ1
+BGC0000942	petrobactin	Other	Bacillus anthracis str. Ames
+BGC0000377	koranimine	NRP	Bacillus sp. NK2003
+BGC0000527	mersacidin	Lanthipeptide	Bacillus sp. HIL-Y85/54728
+BGC0000888	bacilysin	Other	Bacillus sp. CS93
+BGC0001683	N-acyl serinol	Other	Bacillus sp. 2_A_57_CT2
+BGC0000284	phenolic lipids	Polyketide	Azotobacter vinelandii DJ
+BGC0002001	crochelin A	NRP	Azotobacter chroococcum NCIMB 8003
+BGC0002001	crochelin A	Polyketide	Azotobacter chroococcum NCIMB 8003
+BGC0000754	capsular polysaccharide	Saccharide	Avibacterium paragallinarum
+BGC0000756	capsular polysaccharide	Saccharide	Avibacterium paragallinarum
+BGC0000757	capsular polysaccharide	Saccharide	Avibacterium paragallinarum
+BGC0000755	capsular polysaccharide	Saccharide	Avibacterium paragallinarum 221
+BGC0000307	AbT1	NRP	Aureobasidium pullulans
+BGC0000570	astexin-1	Lassopeptide	Asticcacaulis excentricus CB 48
+BGC0000818	notoamide A	NRP	Aspergillus versicolor
+BGC0000045	dehydrocurvularin	Polyketide	Aspergillus terreus
+BGC0000088	monacolin K	Polyketide	Aspergillus terreus
+BGC0001276	6-methylsalicyclic acid	Polyketide	Aspergillus terreus
+BGC0000160	terreic acid	Polyketide	Aspergillus terreus NIH2624
+BGC0000161	isoterrein	Iterative type I polyketide	Aspergillus terreus NIH2624
+BGC0000292	acetylaranotin	NRP	Aspergillus terreus NIH2624
+BGC0000682	terretonin	Terpene	Aspergillus terreus NIH2624
+BGC0001122	dihydroisoflavipucine, isoflavipucine	NRP	Aspergillus terreus NIH2624
+BGC0001122	dihydroisoflavipucine, isoflavipucine	Iterative type I polyketide	Aspergillus terreus NIH2624
+BGC0001400	citreoviridin	Polyketide	Aspergillus terreus NIH2624
+BGC0001475	aspterric acid	Polyketide	Aspergillus terreus NIH2624
+BGC0001517	asperphenamate	NRP	Aspergillus terreus NIH2624
+BGC0001712	ochrindole A	Other	Aspergillus steynii IBT 23096
+BGC0001547	citreohybridonol	Terpene	Aspergillus stellatus
+BGC0000005	aflatoxin	Polyketide	Aspergillus parasiticus
+BGC0000004	aflatoxin G1	Polyketide	Aspergillus oryzae
+BGC0000900	ferrichrome	Other	Aspergillus oryzae
+BGC0000977	cyclopiazonic acid	NRP	Aspergillus oryzae
+BGC0000977	cyclopiazonic acid	Polyketide	Aspergillus oryzae
+BGC0001123	aspirochlorine	NRP	Aspergillus oryzae RIB40
+BGC0001518	astellolide A	Terpene	Aspergillus oryzae RIB40
+BGC0001995	heptelidic acid	Terpene	Aspergillus oryzae RIB40
+BGC0001996	oryzine A, oryzine B	Other	Aspergillus oryzae RIB40
+BGC0001273	asperlactone	Polyketide	Aspergillus ochraceus
+BGC0000011	sterigmatocystin	Polyketide	Aspergillus ochraceoroseus
+BGC0001708	novofumigatonin	Polyketide	Aspergillus novofumigatus IBT 16806
+BGC0001708	novofumigatonin	Terpene	Aspergillus novofumigatus IBT 16806
+BGC0001988	neosartorin	Polyketide	Aspergillus novofumigatus IBT 16806
+BGC0000009	aflatoxin	Polyketide	Aspergillus nomius
+BGC0000156	TAN-1612, 1-(2,3,5,10-tetrahydroxy-7-methoxy-4-oxo-1,2,3,4-tetrahydroanthracen-2-yl)pentane-2,4-dione, desmethyl TAN-1612	Iterative type I polyketide	Aspergillus niger
+BGC0000901	ferrichrome	Other	Aspergillus niger
+BGC0000170	yanuthone D	Polyketide	Aspergillus niger ATCC 1015
+BGC0001124	pyranonigrin E	Polyketide	Aspergillus niger ATCC 1015
+BGC0001143	azanigerone A	Polyketide	Aspergillus niger ATCC 1015
+BGC0000013	alternariol	Polyketide	Aspergillus nidulans FGSC A4
+BGC0000022	asperfuranone	Polyketide	Aspergillus nidulans FGSC A4
+BGC0000037	cichorine	Polyketide	Aspergillus nidulans FGSC A4
+BGC0000057	F9775A, F9775B, orsellinic acid	Iterative type I polyketide	Aspergillus nidulans FGSC A4
+BGC0000101	emodin, monodictyphenone, shamixanthone	Iterative type I polyketide	Aspergillus nidulans FGSC A4
+BGC0000107	naphthopyrone	Polyketide	Aspergillus nidulans FGSC A4
+BGC0000152	sterigmatocystin	Polyketide	Aspergillus nidulans
+BGC0001238	biotin	Other	Aspergillus nidulans
+BGC0001239	biotin	Other	Aspergillus nidulans
+BGC0000442	terrequinone A	NRP	Aspergillus nidulans FGSC A4
+BGC0000673	pimara-8(14),15-diene	Terpene	Aspergillus nidulans FGSC A4
+BGC0000684	asperthecin	Terpene	Aspergillus nidulans FGSC A4
+BGC0000959	aspyridone A	NRP	Aspergillus nidulans FGSC A4
+BGC0000959	aspyridone A	Iterative type I polyketide	Aspergillus nidulans FGSC A4
+BGC0001290	emericellamide A, emericellamide B	NRP	Aspergillus nidulans FGSC A4
+BGC0001399	fellutamide B	NRP	Aspergillus nidulans FGSC A4
+BGC0001515	aspercryptins	NRP	Aspergillus nidulans FGSC A4
+BGC0001668	EQ-4	NRP	Aspergillus nidulans FGSC A4
+BGC0001679	N-Acetyltryptophan	NRP	Aspergillus nidulans FGSC A4
+BGC0001699	nidulanin A	Polyketide	Aspergillus nidulans FGSC A4
+BGC0001722	aspernidine A	Polyketide	Aspergillus nidulans FGSC A4
+BGC0001998	aspernidgulene A1, aspernidgulene A2, aspernidgulene B1	Polyketide	Aspergillus nidulans FGSC A4
+BGC0001371	echinocandin B	NRP	Aspergillus nidulans NRRL 8112
+BGC0001220	aculeacin A	NRP	Aspergillus japonicus
+BGC0001616	himeic acid A	NRP	Aspergillus japonicus
+BGC0001616	himeic acid A	Polyketide	Aspergillus japonicus
+BGC0000129	pyripyropene A	Polyketide	Aspergillus fumigatus Af293
+BGC0000356	verruculogen, fumitremorgin B, fumitremorgin c, tryprostatin A, tryprostatin B, demethoxyfumitremorgin C, brevianamide F	NRP	Aspergillus fumigatus
+BGC0000356	verruculogen, fumitremorgin B, fumitremorgin c, tryprostatin A, tryprostatin B, demethoxyfumitremorgin C, brevianamide F	Alkaloid	Aspergillus fumigatus
+BGC0000355	fumiquinazoline A, fumiquinazoline C, fumiquinazoline D	NRP	Aspergillus fumigatus Af293
+BGC0000361	gliotoxin, bisdethiobis(methylthio)gliotoxin	NRP	Aspergillus fumigatus Af293
+BGC0000372	hexadehydroastechrome, terezine-D, astechrome	NRP	Aspergillus fumigatus Af293
+BGC0000686	helvolic acid	Terpene	Aspergillus fumigatus Af293
+BGC0000811	fumigaclavine C	Alkaloid	Aspergillus fumigatus Af293
+BGC0001037	pseurotin, azaspirene	NRP	Aspergillus fumigatus Af293
+BGC0001037	pseurotin, azaspirene	Iterative type I polyketide	Aspergillus fumigatus Af293
+BGC0001067	fumagillin, β-trans-bergamotene, fumagillol	Terpene	Aspergillus fumigatus Af293
+BGC0001067	fumagillin, β-trans-bergamotene, fumagillol	Iterative type I polyketide	Aspergillus fumigatus Af293
+BGC0001118	endocrocin	Iterative type I polyketide	Aspergillus fumigatus Af293
+BGC0001403	trypacidin	Polyketide	Aspergillus fumigatus Af293
+BGC0001990	xanthocillin	Other	Aspergillus fumigatus Af293
+BGC0000006	aflatoxin	Polyketide	Aspergillus flavus
+BGC0000007	aflatoxin	Polyketide	Aspergillus flavus
+BGC0000008	aflatoxin	Polyketide	Aspergillus flavus
+BGC0000010	aflatoxin	Polyketide	Aspergillus flavus
+BGC0001874	cyclopiazonic acid	NRP	Aspergillus flavus
+BGC0001874	cyclopiazonic acid	Polyketide	Aspergillus flavus
+BGC0000627	ustiloxin B	Thiopeptide	Aspergillus flavus NRRL3357
+BGC0001304	aflavarin	Polyketide	Aspergillus flavus NRRL3357
+BGC0001306	asperipin 2a	RiPP	Aspergillus flavus NRRL3357
+BGC0001445	leporin B	NRP	Aspergillus flavus NRRL3357
+BGC0001445	leporin B	Iterative type I polyketide	Aspergillus flavus NRRL3357
+BGC0001446	asparasone A	Iterative type I polyketide	Aspergillus flavus NRRL3357
+BGC0001516	aspergillic acid	NRP	Aspergillus flavus NRRL3357
+BGC0001621	imizoquin A, imizoquin B, imizoquin C, imizoquin D, TMC-2A, TMC-2B	NRP	Aspergillus flavus NRRL3357
+BGC0000293	acetylaszonalenin	NRP	Aspergillus fischeri NRRL 181
+BGC0000983	cytochalasin E, cytochalasin K	NRP	Aspergillus clavatus NRRL 1
+BGC0000983	cytochalasin E, cytochalasin K	Iterative type I polyketide	Aspergillus clavatus NRRL 1
+BGC0001544	chlorflavonin	NRP	Aspergillus campestris IBT 28561
+BGC0001544	chlorflavonin	Polyketide	Aspergillus campestris IBT 28561
+BGC0001718	okaramine D	NRP	Aspergillus aculeatus ATCC 16872
+BGC0001839	squalestatin S1	Terpene	Aspergillus sp. Z5
+BGC0001084	notoamide A	NRP	Aspergillus sp. MF297-2
+BGC0001084	notoamide A	Terpene	Aspergillus sp. MF297-2
+BGC0001084	notoamide A	Alkaloid	Aspergillus sp. MF297-2
+BGC0001857	burnettramic acid A	Alkaloid	Aspergillus sp. CLMG-2019a
+BGC0001857	burnettramic acid A	Iterative type I polyketide	Aspergillus sp. CLMG-2019a
+BGC0001978	burnettramic acid	Polyketide	Aspergillus sp. CLMG-2019a
+BGC0001978	burnettramic acid	NRP	Aspergillus sp. CLMG-2019a
+BGC0000069	gephyronic acid	Polyketide	Archangium violaceum Cb vi76
+BGC0001053	tubulysin A	NRP	Archangium disciforme
+BGC0001053	tubulysin A	Polyketide	Archangium disciforme
+BGC0000669	marneral	Terpene	Arabidopsis thaliana
+BGC0000670	thalianol, thaliandiol	Terpene	Arabidopsis thaliana
+BGC0001313	arabidiol-baruol	Terpene	Arabidopsis thaliana
+BGC0001314	tirucalla	Terpene	Arabidopsis thaliana
+BGC0001756	retigeranin, arathanatriene	Terpene	Arabidopsis thaliana
+BGC0000980	cylindrospermopsin	NRP	Aphanizomenon sp. 22D11
+BGC0000980	cylindrospermopsin	Polyketide	Aphanizomenon sp. 22D11
+BGC0000979	cylindrospermopsin	NRP	Aphanizomenon sp. 10E9
+BGC0000979	cylindrospermopsin	Polyketide	Aphanizomenon sp. 10E9
+BGC0000981	cylindrospermopsin	NRP	Aphanizomenon sp. 10E6
+BGC0000981	cylindrospermopsin	Polyketide	Aphanizomenon sp. 10E6
+BGC0000795	S-layer glycan	Saccharide	Aneurinibacillus thermoaerophilus
+BGC0001952	minutissamide A, minutissamide C, minutissamide D	NRP	Anabaena minutissima UTEX B 1613
+BGC0001953	puwainaphycin F, minutissamide A, minutissamide B, minutissamide C, minutissamide D	NRP	Anabaena sp. UHCC-0399
+BGC0001772	scytophycin	Polyketide	Anabaena sp. UHCC 0451
+BGC0000369	hassallidin C	NRP	Anabaena sp. Syke748
+BGC0000369	hassallidin C	Hybrid/tailoring saccharide	Anabaena sp. Syke748
+BGC0000302	anabaenopeptin	NRP	Anabaena sp. 90
+BGC0000472	anacyclamide A10	Cyanobactin	Anabaena sp. 90
+BGC0001016	microcystin	NRP	Anabaena sp. 90
+BGC0001016	microcystin	Polyketide	Anabaena sp. 90
+BGC0002009	kanglemycin A, kanglemycin V1, kanglemycin V2	Polyketide	Amycolatopsis vancoresmycina
+BGC0002007	atolypene A, atolypene B	Terpene	Amycolatopsis tolypomycina
+BGC0000208	chelocardin	Polyketide	Amycolatopsis sulphurea
+BGC0001471	saalfelduracin	Thiopeptide	Amycolatopsis saalfeldensis
+BGC0002023	saalfelduracin	RiPP	Amycolatopsis saalfeldensis
+BGC0001459	decaplanin	Glycopeptide	Amycolatopsis regifaucium
+BGC0000133	quartromicin A1	Polyketide	Amycolatopsis orientalis
+BGC0000455	vancomycin	NRP	Amycolatopsis orientalis HCCB10007
+BGC0000203	BE-7585A	Polyketide	Amycolatopsis orientalis subsp. vinearia
+BGC0000136	rifamycin	Polyketide	Amycolatopsis mediterranei S699
+BGC0000418	ristocetin	NRP	Amycolatopsis lurida
+BGC0001955	keratinimicin A, keratinimicin B, keratinimicin C, keratinimicin D	Other	Amycolatopsis keratiniphila
+BGC0001461	nogabecin	Glycopeptide	Amycolatopsis keratiniphila subsp. nogabecina
+BGC0001841	detoxin P1, detoxin P2, detoxin P3	NRP	Amycolatopsis jejuensis
+BGC0001841	detoxin P1, detoxin P2, detoxin P3	Polyketide	Amycolatopsis jejuensis
+BGC0000419	ristomycin A	Saccharide	Amycolatopsis japonica
+BGC0000419	ristomycin A	Glycopeptide	Amycolatopsis japonica
+BGC0001460	decaplanin	Glycopeptide	Amycolatopsis decaplanina DSM 44594
+BGC0001462	avoparcin	Glycopeptide	Amycolatopsis coloradensis
+BGC0000311	balhimycin	NRP	Amycolatopsis balhimycina DSM 5908
+BGC0001211	albachelin	NRP	Amycolatopsis alba DSM 44262
+BGC0002011	ansacarbamitocin A	Polyketide	Amycolatopsis alba DSM 44262
+BGC0001191	A-102395	Other	Amycolatopsis sp. SANK 60206
+BGC0001658	macrotermycins	Polyketide	Amycolatopsis sp. M39
+BGC0001504	amycomicin	Polyketide	Amycolatopsis sp. AA4
+BGC0001503	amycolamycin A, amycolamycin B	Polyketide	Amycolatopsis sp.
+BGC0001759	rifamorpholine A, rifamorpholine B, rifamorpholine C, rifamorpholine D, rifamorpholine E	Polyketide	Amycolatopsis sp.
+BGC0000591	marinostatin	Microviridin	Alteromonas sp. B-10-31
+BGC0000012	alternapyrone	Polyketide	Alternaria solani
+BGC0000146	solanapyrone D	Polyketide	Alternaria solani
+BGC0001794	swainsonine	Polyketide	Alternaria oxytropis
+BGC0001166	HC-toxin	NRP	Alternaria jesenskae
+BGC0000046	depudecin	Iterative type I polyketide	Alternaria brassicicola
+BGC0000685	brassicicene C	Terpene	Alternaria brassicicola ATCC 96836
+BGC0000003	AF-toxin	Polyketide	Alternaria alternata
+BGC0001249	dimethylcoprogen	NRP	Alternaria alternata
+BGC0001252	UNII-YC2Q1O94PT	Polyketide	Alternaria alternata
+BGC0001254	ACT-Toxin II	Polyketide	Alternaria alternata
+BGC0001261	AM-toxin	NRP	Alternaria alternata
+BGC0001262	AK-toxin I	Polyketide	Alternaria alternata
+BGC0000837	APE Vf	Other	Aliivibrio fischeri ES114
+BGC0000650	carotenoid	Terpene	Algoriphagus sp. KK10202C
+BGC0001671	monobactam	NRP	Agrobacterium tumefaciens
+BGC0001765	salecan	Saccharide	Agrobacterium tumefaciens
+BGC0001380	salecan	Saccharide	Agrobacterium sp. ZX09
+BGC0000778	lipopolysaccharide	Saccharide	Aeromonas piscicola
+BGC0000779	lipopolysaccharide	Saccharide	Aeromonas piscicola
+BGC0001502	amonabactin P 750	NRP	Aeromonas hydrophila subsp. hydrophila ATCC 7966
+BGC0000054	erythromycin	Polyketide	Aeromicrobium erythreum
+BGC0001862	geocillicin	Glycocin	Aeribacillus pallidus
+BGC0001930	pallidocin	RiPP	Aeribacillus pallidus
+BGC0000020	maytansine, ansamitocin P-3	Polyketide	Actinosynnema pretiosum subsp. auranticum
+BGC0000090	macbecin, macbecin II	Polyketide	Actinosynnema pretiosum subsp. pretiosum
+BGC0001511	ansamitocin P-3	Polyketide	Actinosynnema pretiosum subsp. pretiosum
+BGC0000392	mirubactin	NRP	Actinosynnema mirum DSM 43827
+BGC0001485	3-demethylchuangxinmycin	Other	Actinoplanes tsinanensis
+BGC0001546	chuangxinmycin	Alkaloid	Actinoplanes tsinanensis
+BGC0000440	teicoplanin	Glycopeptide	Actinoplanes teichomyceticus
+BGC0000441	teicoplanin	NRP	Actinoplanes teichomyceticus
+BGC0001395	teichomycin	Other	Actinoplanes teichomyceticus
+BGC0001077	alkyl-O-dihydrogeranyl-methoxyhydroquinones	Terpene	Actinoplanes missouriensis 431
+BGC0001077	alkyl-O-dihydrogeranyl-methoxyhydroquinones	Polyketide	Actinoplanes missouriensis 431
+BGC0002021	fogacin A, fogacin B, fogacin C	Polyketide	Actinoplanes missouriensis 431
+BGC0000495	actagardine	Lanthipeptide	Actinoplanes garbadinensis
+BGC0000354	friulimicin A, friulimicin B, friulimicin C, friulimicin D	NRP	Actinoplanes friuliensis
+BGC0000691	acarbose	Saccharide	Actinoplanes sp. SE50/110
+BGC0001178	UK-68,597	Glycopeptide	Actinoplanes sp. ATCC 53533
+BGC0000283	cetoniacytone A	Cyclitol	Actinomyces sp. Lu 9419
+BGC0000056	esperamicin	Polyketide	Actinomadura verrucosospora
+BGC0000519	labyrinthopeptin A2, labyrinthopeptin A1, labyrinthopeptin A3	Lanthipeptide	Actinomadura namibiensis
+BGC0000809	AT2433-A1	Alkaloid	Actinomadura melliaura
+BGC0001008	maduropeptin	Iterative type I polyketide	Actinomadura madurae
+BGC0001008	maduropeptin	Enediyne type I polyketide	Actinomadura madurae
+BGC0000082	kijanimicin	Polyketide	Actinomadura kijaniata
+BGC0000256	pradimicin-A	Polyketide	Actinomadura hibisca
+BGC0001597	fluvirucin B2	Polyketide	Actinomadura fulva subsp. indica
+BGC0001364	cinnamycin B	RiPP	Actinomadura atramentaria DSM 43919
+BGC0001443	matlystatin A	NRP	Actinomadura atramentaria DSM 43919
+BGC0001443	matlystatin A	Polyketide	Actinomadura atramentaria DSM 43919
+BGC0001484	2'-chloropentostatin, 2'-amino-2'-deoxyadenosine	Other	Actinomadura sp. ATCC 39365
+BGC0001496	actinokineosin	RiPP	Actinokineospora spheciospongiae
+BGC0000608	nocathiacin	Thiopeptide	Actinokineospora fastidiosa
+BGC0001513	anthrabenzoxocinone	Polyketide	Actinobacteria bacterium
+BGC0002014	pepticinnamin E	NRP	Actinobacteria bacterium OK006
+BGC0002014	pepticinnamin E	Polyketide	Actinobacteria bacterium OK006
+BGC0000751	capsular polysaccharide	Saccharide	Actinobacillus pleuropneumoniae
+BGC0000753	capsular polysaccharide	Saccharide	Actinobacillus pleuropneumoniae
+BGC0000752	capsular polysaccharide	Saccharide	Actinobacillus pleuropneumoniae serovar 6 str. Femo
+BGC0000966	caerulomycin A	NRP	Actinoalloteichus sp. WH1-2216-6
+BGC0000966	caerulomycin A	Polyketide	Actinoalloteichus sp. WH1-2216-6
+BGC0001495	actinoallolide A	Polyketide	Actinoallomurus fulvus
+BGC0001500	allocyclinone	Polyketide	Actinoallomurus sp. ID145698
+BGC0001730	paramagnetoquinone 1, paramagnetoquinone 2	Polyketide	Actinoallomurus sp.
+BGC0001923	ascochlorin	Polyketide	Acremonium egyptiacum
+BGC0001923	ascochlorin	Terpene	Acremonium egyptiacum
+BGC0001924	ascofuranone	Terpene	Acremonium egyptiacum
+BGC0000317	cephalosporin C	NRP	Acremonium chrysogenum ATCC 11550
+BGC0000760	emulsan	Saccharide	Acinetobacter venetianus RAG-1 = CIP 110063
+BGC0000295	acinetoferrin	NRP	Acinetobacter haemolyticus
+BGC0001494	acinetodin	RiPP	Acinetobacter gyllenbergii CIP 110306
+BGC0000294	acinetobactin	NRP	Acinetobacter baumannii
+BGC0001947	K53 capsular polysaccharide	Saccharide	Acinetobacter baumannii
+BGC0000352	fimsbactin A	NRP siderophore	Acinetobacter sp. ADP1
+BGC0000545	ruminococcin A	Lanthipeptide	[Ruminococcus] gnavus E1
+BGC0000997	glidobactin	NRP	[Polyangium] brachysporum
+BGC0000997	glidobactin	Polyketide	[Polyangium] brachysporum
+BGC0001608	glidopeptin	NRP	[Polyangium] brachysporum
+BGC0002003	glidopeptin A	NRP	[Polyangium] brachysporum
+BGC0000017	anatoxin-a, homoanatoxin-a	Alkaloid	[Oscillatoria] sp. PCC 6506
+BGC0000017	anatoxin-a, homoanatoxin-a	Modular type I polyketide	[Oscillatoria] sp. PCC 6506
+BGC0001768	sansalvamide	NRP	[Nectria] haematococca mpVI 77-13-4
+BGC0001672	monobactam	NRP	[Flexibacter] sp. ATCC 35103
+

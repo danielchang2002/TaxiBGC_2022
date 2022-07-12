@@ -1,6 +1,7 @@
 import os
 import argparse
 from . import prerun
+from . import pipeline
 import argparse
 from argparse import RawTextHelpFormatter
 
@@ -9,9 +10,6 @@ __version__ = "1.0"
 
 
 def main():
-    up_to_date = prerun.check_versions()
-    if not up_to_date:
-        return
     parser = argparse.ArgumentParser(
         description="DESCRIPTION:\n"
         "TaxiBGC version " + __version__ + " \n"
@@ -58,8 +56,20 @@ def main():
 
     args = parser.parse_args()
 
-    
+    forward, reverse = args.f, args.r
 
+    print("Inputs:", forward, reverse)
+    if not os.path.exists(forward) or not os.path.exists(reverse):
+        print("file(s) do not exist")
+        return
+    if forward.split(".")[-1] != "fastq" or reverse.split(".")[-1] != "fastq":
+        print("invalid file extensions")
+        return
+
+    up_to_date = prerun.check_versions()
+    if not up_to_date:
+        return
+    pipeline.run(args)
 
 if __name__ == "__main__":
     main()
