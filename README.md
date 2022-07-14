@@ -17,11 +17,7 @@ To avoid dependency conflicts, create an isolated conda environment and install 
 
 1. Create new conda environment and install taxibgc package
 ```bash
-conda create --name taxibgc_env \
-  -c danielchang2002 \
-  -c bioconda
-  -c conda-forge
-   taxibgc
+conda create --name taxibgc_env -c danielchang2002 -c bioconda -c conda-forge taxibgc
 ```
 
 2. Activate environment
