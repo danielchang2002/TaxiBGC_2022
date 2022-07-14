@@ -20,5 +20,5 @@ setuptools.setup(
     packages=setuptools.find_packages(where="src"),
     python_requires=">=3.7",
     entry_points={"console_scripts": ["taxibgc=TaxiBGC.__main__:main"]},
-    package_data={"taxibgc": ["TaxiBGC_databases/*"]},
+    package_data={"TaxiBGC": ["TaxiBGC_databases/*"]},
 )
