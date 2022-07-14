@@ -15,9 +15,13 @@ in Shotgun Metagenomic Data.
 ### Installation
 To avoid dependency conflicts, create an isolated conda environment and install TaxiBGC
 
-1. Install via conda
+1. Create new conda environment and install taxibgc package
 ```bash
-conda create --name taxibgc_env -c danielchang2002 -c bioconda taxibgc
+conda create --name taxibgc_env \
+  -c danielchang2002 \
+  -c bioconda
+  -c conda-forge
+   taxibgc
 ```
 
 2. Activate environment
