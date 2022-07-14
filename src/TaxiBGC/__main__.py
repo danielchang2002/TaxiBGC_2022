@@ -72,8 +72,9 @@ def main():
         return
     
     print(utils.logo())
+    print()
 
-    up_to_date = prerun.check_versions()
+    up_to_date = prerun.check_dependencies()
     if not up_to_date:
         return
     pipeline.run(args)

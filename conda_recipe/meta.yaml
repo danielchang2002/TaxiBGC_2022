@@ -11,12 +11,12 @@ source:
 requirements:
   host:
     - pip
-    - python=3.7
+    - python
   run:
-    - python=3.7
-    - bbmap=38.90
-    - bowtie2=2.4.4
-    - metaphlan=3.0.13
+    - python
+    - bbmap
+    - bowtie2
+    - metaphlan
 
 test:
 

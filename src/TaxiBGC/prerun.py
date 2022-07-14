@@ -19,15 +19,15 @@ def print_check_message(boolean):
         else bcolors.FAIL + "failed" + bcolors.ENDC
     )
 
-version_dict = {
-    "repair.sh": "38.90",
-    "bowtie2": "2.4.4",
-    "metaphlan": "3.0.13",
+output_dict = {
+    "repair.sh": "bbmap",
+    "bowtie2": "bowtie2",
+    "metaphlan": "MetaPhlAn",
 }
 
 def check_tool(tool):
-    gt = version_dict[tool]
-    print(tool, "version:", gt)
+    gt = output_dict[tool]
+    print("Checking for", tool, "on path")
     flag = "--version"
     cmd = [tool, flag]
     try:
@@ -45,23 +45,23 @@ def check_tool(tool):
     if not correct:
         if tool == "repair.sh":
             tool = "bbmap"
-        print(bcolors.WARNING + tool, "not found on path or wrong version")
+        print(bcolors.WARNING + tool, "not found on path")
         print(
             'please run: "conda install -c bioconda',
-            tool + "=" + gt + '"',
+            tool + '"',
             bcolors.ENDC,
         )
     print()
     return correct
 
-def check_versions():
+def check_dependencies():
     print(
         "-" * 5,
-        "Version checks",
+        "Dependency checks",
         "-" * 5,
     )
     any_failed = False
-    for tool in version_dict:
+    for tool in output_dict:
         if not check_tool(tool):
             any_failed = True
     if any_failed:
@@ -76,5 +76,5 @@ def check_versions():
             "All dependencies up to date",
             bcolors.ENDC,
         )
-    print("-" * 5, "Version checks done", "-" * 5, "\n")
+    print("-" * 5, "Dependency checks done", "-" * 5, "\n")
     return not any_failed

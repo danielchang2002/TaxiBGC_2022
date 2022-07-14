@@ -4,7 +4,7 @@
 [![Anaconda-Server Badge](https://anaconda.org/danielchang2002/taxibgc/badges/platforms.svg)](https://anaconda.org/danielchang2002/taxibgc)
 [![Anaconda-Server Badge](https://anaconda.org/danielchang2002/taxibgc/badges/license.svg)](https://anaconda.org/danielchang2002/taxibgc)
 [![Anaconda-Server Badge](https://anaconda.org/danielchang2002/taxibgc/badges/downloads.svg)](https://anaconda.org/danielchang2002/taxibgc)
-[![Anaconda-Server Badge](https://anaconda.org/danielchang2002/taxibgc/badges/installer/conda.svg)](https://conda.anaconda.org/danielchang2002)
+[![Anaconda-Server Badge](https://anaconda.org/danielchang2002/taxibgc/badges/installer/conda.svg)](https://conda.anaconda.org/danielchang2002/taxibgc)
 
 
 ### Description
@@ -15,19 +15,14 @@ in Shotgun Metagenomic Data.
 ### Installation
 To avoid dependency conflicts, create an isolated conda environment and install TaxiBGC
 
-1. Create new conda environment
+1. Install via conda
 ```bash
-conda create --name taxibgc_env python=3.7
+conda create --name taxibgc_env -c danielchang2002 taxibgc
 ```
 
 2. Activate environment
 ```bash
 conda activate taxibgc_env
-```
-
-3. Install taxibgc package
-```bash
-conda install -c danielchang2002 taxibgc
 ```
 
 ### Usage
