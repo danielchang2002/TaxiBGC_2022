@@ -71,9 +71,9 @@ $ ls
 └── output_prefix_covstats_taxibgc2022.txt
 
 The three output files:
-(i) output_prefix_BGC_FINAL_RESULT.txt => Biosynthetic gene clusters identified
-(ii) output_prefix_BGC_metsp.txt => the MetaPhlAn taxonomic profiling output
-(iii) output_prefix_covstats_taxibgc2022.txt => the bbmap output
+(i) output_prefix_BGC_FINAL_RESULT.txt: Biosynthetic gene clusters identified
+(ii) output_prefix_BGC_metsp.txt: the MetaPhlAn taxonomic profiling output
+(iii) output_prefix_covstats_taxibgc2022.txt: the bbmap output
 
 optional arguments:
   -h, --help            show this help message and exit
