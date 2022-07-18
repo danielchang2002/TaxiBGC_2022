@@ -33,9 +33,9 @@ do
  esac
 done
 
-bbmap.sh in1=${i1} in2=${i2} ref=${t}BGC_MiBIG_01_13_2022_final.fasta out=${o}.sam covstats=${o}_covstats_taxigc2022.txt nodisk
+bbmap.sh in1=${i1} in2=${i2} ref=${t}BGC_MiBIG_01_13_2022_final.fasta out=${o}.sam covstats=${o}_covstats_taxibgc2022.txt nodisk
 rm ${o}.sam
-awk -F"\t" -v OFS="\t" '{gsub(/_.+/,"",$1)}1' ${o}_covstats_taxigc2022.txt >${o}_BGC_name_clean.txt
+awk -F"\t" -v OFS="\t" '{gsub(/_.+/,"",$1)}1' ${o}_covstats_taxibgc2022.txt >${o}_BGC_name_clean.txt
 awk -F"\t" -v OFS="\t" '{print $1,$5}' ${o}_BGC_name_clean.txt >${o}_BGC_gene_coverage.txt
 rm ${o}_BGC_name_clean.txt
 sed '1d' ${o}_BGC_gene_coverage.txt >${o}_BGC_gene_coverage_1.txt
