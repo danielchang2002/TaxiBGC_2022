@@ -8,9 +8,11 @@
 
 
 ### Description
-TaxiBGC is a Taxonomy-guided Approach for the Identification of 
-Experimentally Verified Microbial Biosynthetic Gene Clusters 
-in Shotgun Metagenomic Data.
+TaxiBGC (Taxonomy-guided Identification of Biosynthetic Gene Clusters): A computational pipeline for identifying experimentally verified Biosynthetic Gene Clusters (BGCs) and inferring their annotated secondary metabolites (SMs) from metagenomic shotgun sequencing data. The TaxiBGC pipeline includes three major steps: 1) species-level, taxonomic profiling on the metagenome; 2) a first-pass prediction of BGCs through querying the species (identified in the first step) in the TaxiBGC database; and 3) confirmation (in silico) of the predicted BGCs (from the second step) based on the detection of BGC genes in the metagenome. MetaPhlAn is a computational tool for profiling the composition of microbial communities (Bacteria, Archaea, and Eukaryotes) from metagenomic shotgun sequencing data (not 16S) at species-level resolution.
+
+If you use TaxiBGC, please cite:
+
+[Bakshi and Gupta et al. TaxiBGC: a Taxonomy-guided Approach for the Identification of Experimentally Verified Microbial Biosynthetic Gene Clusters in Shotgun Metagenomic](https://doi.org/10.1101/2021.07.30.454505) (preprint)
 
 ### Installation
 To avoid dependency conflicts, create an isolated conda environment and install TaxiBGC
