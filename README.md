@@ -12,7 +12,9 @@ TaxiBGC (Taxonomy-guided Identification of Biosynthetic Gene Clusters): A comput
 
 If you use TaxiBGC, please cite:
 
-[Bakshi and Gupta et al. TaxiBGC: a Taxonomy-guided Approach for the Identification of Experimentally Verified Microbial Biosynthetic Gene Clusters in Shotgun Metagenomic](https://doi.org/10.1101/2021.07.30.454505) (preprint)
+[TaxiBGC: a Taxonomy-guided Approach for the Identification of Experimentally Verified Microbial Biosynthetic Gene Clusters in Shotgun Metagenomic]
+(https://doi.org/10.1101/2021.07.30.454505)
+*Bakshi and Gupta et al.* (preprint)
 
 ### Installation
 To avoid dependency conflicts, create an isolated conda environment and install TaxiBGC
