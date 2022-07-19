@@ -38,9 +38,11 @@ def main():
         "├── reverse.fastq\n"
         "├── output_prefix_BGC_FINAL_RESULT.txt\n"
         "├── output_prefix_BGC_metsp.txt\n"
-        "└── output_prefix_covstats_taxigc2022.txt\n\n"
-        "The three output files are (i) Biosynthetic gene clusters identified,"
-        " (ii) the MetaPhlAn taxonomic profiling output, and (iii) the bbmap output.",
+        "└── output_prefix_covstats_taxibgc2022.txt\n\n"
+        "The three output files are: \n"
+        "(i) output_prefix_BGC_FINAL_RESULT.txt: Biosynthetic gene clusters identified\n"
+        "(ii) output_prefix_BGC_metsp.txt: the MetaPhlAn taxonomic profiling output\n"
+        "(iii) output_prefix_covstats_taxibgc2022.txt: the bbmap output",
         formatter_class=RawTextHelpFormatter,
     )
     parser.add_argument(
