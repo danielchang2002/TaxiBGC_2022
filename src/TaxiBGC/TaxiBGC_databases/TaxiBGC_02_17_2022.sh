@@ -20,7 +20,7 @@ display_usage() {
 	fi
 
 
-while getopts f:r:t:o:n: option 
+while getopts f:r:t:o:n:g:b: option 
 do
  case "${option}"
  in
@@ -29,6 +29,8 @@ do
  t) t=${OPTARG};;
  o) o=${OPTARG};;
  n) n=${OPTARG};;
+ g) g=${OPTARG};;
+ b) b=${OPTARG};;
 
  esac
 done
@@ -42,13 +44,13 @@ sed '1d' ${o}_BGC_gene_coverage.txt >${o}_BGC_gene_coverage_1.txt
 rm ${o}_BGC_gene_coverage.txt
 awk -F"\t" -v OFS="\t" '{print $0,1}' ${o}_BGC_gene_coverage_1.txt >${o}_BGC_gene_column.txt
 rm ${o}_BGC_gene_coverage_1.txt
-awk -F'\t' -v OFS="\t" '{ if($2>=5) $4=1; else $4=0;print $0; }' ${o}_BGC_gene_column.txt >${o}_BGC_gene_presence.txt
+awk -F'\t' -v OFS="\t" '{ if($2>='${g}') $4=1; else $4=0;print $0; }' ${o}_BGC_gene_column.txt >${o}_BGC_gene_presence.txt
 rm ${o}_BGC_gene_column.txt
 awk -f ${t}BGC_gene_count.awk ${o}_BGC_gene_presence.txt >${o}_BGC_gene_presence_count.txt
 rm ${o}_BGC_gene_presence.txt
 awk -F'\t' -v OFS="\t" '{print $1,$4*100/$3 }' OFMT='%.3g' ${o}_BGC_gene_presence_count.txt >${o}_BGC_gene_presence_percent.txt
 rm ${o}_BGC_gene_presence_count.txt
-awk -F'\t' -v OFS="\t" '{ if($2>=10) print $0}' ${o}_BGC_gene_presence_percent.txt >${o}_BGC_gene_presence_pred_raw.txt
+awk -F'\t' -v OFS="\t" '{ if($2>='${b}') print $0}' ${o}_BGC_gene_presence_percent.txt >${o}_BGC_gene_presence_pred_raw.txt
 rm ${o}_BGC_gene_presence_percent.txt
 metaphlan ${i1},${i2} --bowtie2out ${o}_BGC.bowtie2.bz2 --nproc ${n} --input_type fastq -o ${o}_BGC_metaphlan3.txt --add_viruses --unknown_estimation
 rm ${o}_BGC.bowtie2.bz2

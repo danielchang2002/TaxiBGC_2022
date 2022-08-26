@@ -3,11 +3,16 @@ from . import utils
 import os
 
 def repair(args):
+    # handle gz case
+    forward, reverse = args.forward, args.reverse
+    if forward.endswith("gz"): forward = forward[:-3]
+    if reverse.endswith("gz"): reverse = reverse[:-3]
+
     subprocess.call(
         [
             "repair.sh",
-            f"in1={args.forward}",
-            f"in2={args.reverse}",
+            f"in1={forward}",
+            f"in2={reverse}",
             "out1=repaired1.fastq",
             "out2=repaired2.fastq",
             "outs=garbage",
@@ -27,7 +32,11 @@ def run(args):
     "-t",
     utils.DEFAULT_DB_FOLDER + "/",
     "-o",
-    args.output
+    args.output,
+    "-g",
+    str(args.BGC_gene_presence_threshold),
+    "-b",
+    str(args.BGC_coverage_threshold)
   ])
 
   # cleanup

@@ -5,6 +5,7 @@ import argparse
 from . import prerun
 from . import pipeline
 import argparse
+import subprocess
 from argparse import RawTextHelpFormatter
 
 __author__ = "Daniel Chang, Vinod Gupta, Jaeyun Sung"
@@ -45,17 +46,28 @@ def main():
         "(iii) output_prefix_covstats_taxibgc2022.txt: the bbmap output",
         formatter_class=RawTextHelpFormatter,
     )
-    parser.add_argument(
+    requiredNamed = parser.add_argument_group("required named arguments")
+    requiredNamed.add_argument(
         "-n", "--num_threads", required=True, help="number of threads", type=int
     )
-    parser.add_argument(
+    requiredNamed.add_argument(
         "-f", "--forward", required=True, help="forward read of metagenome (.fastq)", type=str
     )
-    parser.add_argument(
+    requiredNamed.add_argument(
         "-r", "--reverse", required=True, help="reverse read of metagenome (.fastq)", type=str
     )
-    parser.add_argument(
+    requiredNamed.add_argument(
         "-o", "--output", required=True, help="prefix for output file names", type=str
+    )
+    parser.add_argument(
+        "-g", "--BGC_gene_presence_threshold", required=False, default=5, 
+        help="gene-presence threshold for predicting BGCs from the metagenomes", 
+        type=int
+    )
+    parser.add_argument(
+        "-b", "--BGC_coverage_threshold", required=False, default=10, 
+        help="coverage threshold for predicting BGCs from the metagenomes", 
+        type=int
     )
 
     if len(sys.argv) == 1:
@@ -63,22 +75,38 @@ def main():
         return
 
     args = parser.parse_args()
-
     forward, reverse = args.forward, args.reverse
-
     if not os.path.exists(forward) or not os.path.exists(reverse):
         print("input file(s) do not exist")
         return
-    if forward.split(".")[-1] != "fastq" or reverse.split(".")[-1] != "fastq":
-        print("invalid input file extensions")
-        return
-    
+
     print(utils.logo())
     print()
-
+    
     up_to_date = prerun.check_dependencies()
     if not up_to_date:
         return
+        
+    # check forward file
+    if forward.endswith("fastq.gz"):
+        # unzip command
+        print("unzipping", forward)
+        subprocess.call(["gunzip", forward])
+        forward = forward[:-3]
+    if forward.split(".")[-1] != "fastq":
+        print("invalid input file extensions")
+        return
+    
+    # check reverse file
+    if reverse.endswith("fastq.gz"):
+        # unzip command
+        print("unzipping", reverse)
+        subprocess.call(["gunzip", reverse])
+        reverse = reverse[:-3]
+    if reverse.split(".")[-1] != "fastq":
+        print("invalid input file extensions")
+        return
+
     pipeline.run(args)
 
 if __name__ == "__main__":
