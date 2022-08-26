@@ -22,7 +22,7 @@ def main():
         " from shotgun metagenomic data and infers their known SM products.\n\n"
         "AUTHORS: \n" + __author__ + "\n\n"
         "USAGE: \n"
-        "TaxiBGC is a pipeline that takes as input two raw fastq files generated "
+        "TaxiBGC is a pipeline that takes as input two raw fastq (or fastq.gz) files generated "
         "from a paired end sequence, "
         "estimates microbial abundances, "
         "and using these microbial estimates, "
