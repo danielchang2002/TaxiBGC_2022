@@ -45,6 +45,9 @@ python setup.py install
 ```
 
 ### Usage
+
+Download and run TaxiBGC on an example metagenome [here](https://github.com/danielchang2002/TaxiBGC_2022/tree/main/example)
+
 ```bash
 usage: taxibgc [-h] -n NUM_THREADS -f FORWARD -r REVERSE -o OUTPUT
 
