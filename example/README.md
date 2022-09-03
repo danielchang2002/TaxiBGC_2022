@@ -40,7 +40,7 @@ Output:
 ```
 
 ## Verify that the produced output files are identical to those in this directory
-Note: slight differences in output may be present due to updated marker databases 
+Note: slight differences in output may be present due to updated marker databases or version differences
 
 ```bash
 head *.txt
