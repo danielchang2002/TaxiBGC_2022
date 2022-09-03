@@ -33,6 +33,17 @@ conda create --name taxibgc_env -c danielchang2002 -c bioconda -c conda-forge ta
 conda activate taxibgc_env
 ```
 
+Alternatively, (not recommended) clone this repository and install TaxiBGC from the source. Note: you must manually install dependencies (see conda_recipe/meta.yaml for requirements)
+1. Clone this repository
+```bash
+git clone https://github.com/danielchang2002/TaxiBGC_2022.git
+```
+
+2. Install python script
+```bash
+python setup.py install
+```
+
 ### Usage
 ```bash
 usage: taxibgc [-h] -n NUM_THREADS -f FORWARD -r REVERSE -o OUTPUT

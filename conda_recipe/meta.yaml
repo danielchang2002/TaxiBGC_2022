@@ -1,5 +1,5 @@
 {% set name = "taxibgc" %}
-{% set version = "1.02" %}
+{% set version = "1.03" %}
 
 package:
   name: "{{ name }}"
@@ -16,7 +16,7 @@ requirements:
     - python
     - bbmap
     - bowtie2
-    - metaphlan
+    - metaphlan=3
 
 test:
 
