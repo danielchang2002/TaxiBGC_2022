@@ -49,23 +49,17 @@ python setup.py install
 Download and run TaxiBGC on an example metagenome [here](https://github.com/danielchang2002/TaxiBGC_2022/tree/main/example)
 
 ```bash
-usage: taxibgc [-h] -n NUM_THREADS -f FORWARD -r REVERSE -o OUTPUT
+usage: taxibgc [-h] -n NUM_THREADS -f FORWARD -r REVERSE -o OUTPUT [-g BGC_GENE_PRESENCE_THRESHOLD] [-b BGC_COVERAGE_THRESHOLD]
 
 DESCRIPTION:
-TaxiBGC version 1.0
-TaxiBGC (Taxonomy-guided Identification of Biosynthetic Gene Clusters) 
-is an original computational pipeline that identifies experimentally 
-verified BGCs from shotgun metagenomic data and infers 
-their known SM products.
+TaxiBGC version 1.0 
+TaxiBGC (Taxonomy-guided Identification of Biosynthetic Gene Clusters) is an original computational pipeline that identifies experimentally verified BGCs from shotgun metagenomic data and infers their known SM products.
 
-AUTHORS:
+AUTHORS: 
 Daniel Chang, Vinod Gupta, Jaeyun Sung
 
-USAGE:
-TaxiBGC is a pipeline that takes as input two raw fastq (or fastq.gz) files generated 
-from a paired end sequence, estimates microbial abundances, and using 
-these microbial estimates, returns as output predictions of 
-experimentally verified BGCs.
+USAGE: 
+TaxiBGC is a pipeline that takes as input two raw fastq (or fastq.gz) files generated from a paired end sequence, estimates microbial abundances, and using these microbial estimates, returns as output predictions of experimentally verified BGCs
 
 * Example usage:
 
@@ -84,13 +78,17 @@ $ ls
 ├── output_prefix_BGC_metsp.txt
 └── output_prefix_covstats_taxibgc2022.txt
 
-The three output files:
+The three output files are: 
 (i) output_prefix_BGC_FINAL_RESULT.txt: Biosynthetic gene clusters identified
 (ii) output_prefix_BGC_metsp.txt: the MetaPhlAn taxonomic profiling output
 (iii) output_prefix_covstats_taxibgc2022.txt: the bbmap output
 
 optional arguments:
   -h, --help            show this help message and exit
+  -g BGC_GENE_PRESENCE_THRESHOLD, --BGC_gene_presence_threshold 
+                        gene-presence threshold for predicting BGCs from the metagenomes
+  -b BGC_COVERAGE_THRESHOLD, --BGC_coverage_threshold 
+                        coverage threshold for predicting BGCs from the metagenomes
 
 required named arguments:
   -n NUM_THREADS, --num_threads NUM_THREADS
