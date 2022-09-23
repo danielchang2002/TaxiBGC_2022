@@ -53,7 +53,7 @@ Input: Two (forward/reverse) raw fastq (or fastq.gz) files generated from paired
 
 Output: Predicted (if any) experimentally characterized BGCs and their known SMs
 
-* Usage: taxibgc [-h] -n NUM_THREADS -f FORWARD -r REVERSE -o OUTPUT [-g BGC_GENE_PRESENCE_THRESHOLD] [-b BGC_COVERAGE_THRESHOLD]
+Usage: taxibgc [-h] -n NUM_THREADS -f FORWARD -r REVERSE -o OUTPUT [-g BGC_GENE_PRESENCE_THRESHOLD] [-b BGC_COVERAGE_THRESHOLD]
 
 * Example usage:
 
