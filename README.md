@@ -10,7 +10,7 @@
 TaxiBGC (Taxonomy-guided Identification of Biosynthetic Gene Clusters) is a computational pipeline for predicting experimentally characterized Biosynthetic Gene Clusters (BGCs) and their known secondary metabolites (SMs) (also called natural products) from shotgun metagenomic sequencing data. 
 
 On a metagenome sample, TaxiBGC performs three major steps:
-1. Taxonomic profiling using MetaPhlAn3 to identify BGC-harboring microbial species
+1. Taxonomic profiling using MetaPhlAn3 (v3.0.13 or higher) to identify BGC-harboring microbial species
 2. The first-pass prediction of BGCs through querying these species (identified in the first step) in the TaxiBGC reference database 
 3. in silico confirmation of the predicted BGCs (from the second step) based on read mapping (i.e., alignment) using BBMap
 
@@ -72,7 +72,7 @@ $ ls
 
 The three output files are: 
 (i) output_prefix_BGC_FINAL_RESULT.txt: A list of the predicted biosynthetic gene clusters (i.e., MIBiG BGC IDs), SMs, BGC classes, and source species
-(ii) output_prefix_BGC_metsp.txt: MetaPhlAn3 taxonomic profiling output
+(ii) output_prefix_BGC_metsp.txt: MetaPhlAn3 species-level taxonomic profiling output
 (iii) output_prefix_covstats_taxibgc2022.txt: BBMAP output
 
 required named arguments:
