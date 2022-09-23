@@ -11,7 +11,6 @@ from argparse import RawTextHelpFormatter
 __author__ = "Daniel Chang, Vinod Gupta, Jaeyun Sung"
 __version__ = "1.0"
 
-
 def main():
     parser = argparse.ArgumentParser(
         description="\n" + utils.logo() + 
