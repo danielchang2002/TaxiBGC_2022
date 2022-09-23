@@ -1,7 +1,7 @@
 # Example usage of TaxiBGC
 
 TaxiBGC is a computational pipeline that takes as inputs two raw fastq (or fastq.gz) files generated 
-from a paired-end metagenome; performs taxonomic profiling to identify the BGC-harboring microbial species; and returns as output predictions of 
+from a paired-end metagenome; performs taxonomic profiling to identify BGC-harboring microbial species; and returns as output predictions of 
 experimentally characterized biosynthetic gene clusters (BGCs) and their known secondary metabolites (SMs).
 
 Below is a mini-tutorial on how to download from the Sequence Read Archive (SRA) a metagenome sample (run accession SRR6915153) and use TaxiBGC on the downloaded .fastq files.
