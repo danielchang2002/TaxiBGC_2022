@@ -89,14 +89,14 @@ required named arguments:
   -r REVERSE, --reverse REVERSE
                         reverse-read sequences of the metagenome (.fastq)
   -o OUTPUT, --output OUTPUT
-                        prefix for output file names
+                        prefix to designate output file names
                         
 optional arguments:
   -h, --help            show this help message and exit
   -g BGC_GENE_PRESENCE_THRESHOLD, --BGC_gene_presence_threshold 
-                        a user-defined BGC gene presence threshold (see TaxiBGC manuscript for description)
+                        a user-defined BGC gene presence threshold (see description in TaxiBGC manuscript)
   -b BGC_COVERAGE_THRESHOLD, --BGC_coverage_threshold 
-                        a user-defined BGC coverage threshold (see TaxiBGC manuscript for description)
+                        a user-defined BGC coverage threshold (see description in TaxiBGC manuscript)
 ```
 
 ### Runtime
