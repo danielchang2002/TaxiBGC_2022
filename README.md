@@ -49,13 +49,13 @@ python setup.py install
 Download and run TaxiBGC on an [example metagenome](https://github.com/danielchang2002/TaxiBGC_2022/tree/main/example)
 
 ```bash
-DESCRIPTION:
-TaxiBGC (Taxonomy-guided Identification of Biosynthetic Gene Clusters) version 1.0
-Input: Two (forward/reverse) raw fastq (or fastq.gz) files generated from paired-end metagenome reads
-Output: Predicted (if any) experimentally characterized BGCs and their known SMs
+DESCRIPTION: TaxiBGC (Taxonomy-guided Identification of Biosynthetic Gene Clusters) version 1.0
 
-AUTHORS: 
-Daniel Chang, Vinod Gupta, Jaeyun Sung
+AUTHORS: Daniel Chang, Vinod Gupta, Jaeyun Sung
+
+INPUT: Two (forward/reverse) raw fastq (or fastq.gz) files generated from paired-end metagenome reads
+
+OUTPUT: Predicted (if any) experimentally characterized BGCs and their known SMs
 
 * Usage: taxibgc [-h] -n NUM_THREADS -f FORWARD -r REVERSE -o OUTPUT [-g BGC_GENE_PRESENCE_THRESHOLD] [-b BGC_COVERAGE_THRESHOLD]
 
