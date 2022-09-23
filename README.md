@@ -68,12 +68,12 @@ $ ls
 ├── reverse.fastq
 ├── output_prefix_BGC_FINAL_RESULT.txt
 ├── output_prefix_BGC_metsp.txt
-└── output_prefix_covstats_taxibgc2022.txt
+└── output_prefix_coverage_stats_taxibgc2022.txt
 
 The three output files are: 
 (i) output_prefix_BGC_FINAL_RESULT.txt: A list of the predicted biosynthetic gene clusters (i.e., MIBiG BGC IDs), SMs, BGC classes, and source species
 (ii) output_prefix_BGC_metsp.txt: MetaPhlAn3 species-level taxonomic profiling output
-(iii) output_prefix_covstats_taxibgc2022.txt: BBMAP output
+(iii) output_prefix_coverage_stats_taxibgc2022.txt: BBMAP output
 
 required named arguments:
   -n NUM_THREADS, --num_threads NUM_THREADS
