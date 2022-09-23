@@ -49,9 +49,9 @@ python setup.py install
 Download and run TaxiBGC on an [example metagenome](https://github.com/danielchang2002/TaxiBGC_2022/tree/main/example)
 
 ```bash
-INPUT: Two (forward/reverse) raw fastq (or fastq.gz) files generated from paired-end metagenome reads
+Input: Two (forward/reverse) raw fastq (or fastq.gz) files generated from paired-end metagenome reads
 
-OUTPUT: Predicted (if any) experimentally characterized BGCs and their known SMs
+Output: Predicted (if any) experimentally characterized BGCs and their known SMs
 
 * Usage: taxibgc [-h] -n NUM_THREADS -f FORWARD -r REVERSE -o OUTPUT [-g BGC_GENE_PRESENCE_THRESHOLD] [-b BGC_COVERAGE_THRESHOLD]
 
