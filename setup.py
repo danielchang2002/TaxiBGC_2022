@@ -5,10 +5,10 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="TaxiBGC-package",
-    version="0.0.1",
+    version="1.0.0",
     author="Daniel Chang",
     author_email="danielchang2002@gmail.com",
-    description="Taxonomy-guided Identification of Biosynthetic Gene Clusters",
+    description="TaxiBGC (Taxonomy-guided Identification of Biosynthetic Gene Clusters)",
     long_description=long_description,
     long_description_content_type="text/markdown",
     classifiers=[
