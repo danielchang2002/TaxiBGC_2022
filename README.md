@@ -17,48 +17,47 @@ On a metagenome sample, TaxiBGC performs three major steps:
 If you use TaxiBGC, please cite:
 
 [TaxiBGC: a Taxonomy-guided Approach for Profiling Experimentally Characterized Microbial Biosynthetic Gene Clusters and Secondary Metabolite Production Potential in Metagenomes](https://doi.org/10.1101/2021.07.30.454505)
-*Gupta et al.* (preprint)
+*Gupta et al.* (bioRxiv preprint)
 
 ### Installation
 To avoid dependency conflicts, please create an isolated conda environment and install TaxiBGC.
 
-1. Create new conda environment and install taxibgc package:
+1. Create new conda environment and install taxibgc package
 ```bash
 conda create --name taxibgc_env -c danielchang2002 -c bioconda -c conda-forge taxibgc
 ```
 
-2. Activate environment:
+2. Activate environment
 ```bash
 conda activate taxibgc_env
 ```
 
-Alternatively, (not recommended) clone this repository and install TaxiBGC from the source. For this option, you must manually install dependencies (see conda_recipe/meta.yaml for requirements)
+Alternatively (not recommended), the user can clone this repository and install TaxiBGC from the source. For this option, you must manually install dependencies (see conda_recipe/meta.yaml for requirements).
 
-1. Clone this repository:
+1. Clone this repository
 ```bash
 git clone https://github.com/danielchang2002/TaxiBGC_2022.git
 ```
 
-2. Install python script:
+2. Install python script
 ```bash
 python setup.py install
 ```
 
 ### Usage
 
-Download and run TaxiBGC on an example metagenome [here](https://github.com/danielchang2002/TaxiBGC_2022/tree/main/example)
+Download and run TaxiBGC on an [example metagenome](https://github.com/danielchang2002/TaxiBGC_2022/tree/main/example)
 
 ```bash
-usage: taxibgc [-h] -n NUM_THREADS -f FORWARD -r REVERSE -o OUTPUT [-g BGC_GENE_PRESENCE_THRESHOLD] [-b BGC_COVERAGE_THRESHOLD]
-
 DESCRIPTION:
 TaxiBGC (Taxonomy-guided Identification of Biosynthetic Gene Clusters) version 1.0
+Input: Two (forward/reverse) raw fastq (or fastq.gz) files generated from paired-end metagenome reads
+Output: Predicted (if any) experimentally characterized BGCs and their known SMs
 
 AUTHORS: 
 Daniel Chang, Vinod Gupta, Jaeyun Sung
 
-USAGE: 
-TaxiBGC is a computational pipeline that takes in two (i.e., forward/reverse) raw fastq (or fastq.gz) files generated from a paired-end sequenced metagenome and returns the predicted (if any) experimentally characterized BGCs and their known SMs.
+* Usage: taxibgc [-h] -n NUM_THREADS -f FORWARD -r REVERSE -o OUTPUT [-g BGC_GENE_PRESENCE_THRESHOLD] [-b BGC_COVERAGE_THRESHOLD]
 
 * Example usage:
 
@@ -78,26 +77,26 @@ $ ls
 └── output_prefix_covstats_taxibgc2022.txt
 
 The three output files are: 
-(i) output_prefix_BGC_FINAL_RESULT.txt: a list of the predicted biosynthetic gene clusters
+(i) output_prefix_BGC_FINAL_RESULT.txt: A list of the predicted biosynthetic gene clusters
 (ii) output_prefix_BGC_metsp.txt: MetaPhlAn3 taxonomic profiling output
 (iii) output_prefix_covstats_taxibgc2022.txt: BBMAP output
-
-optional arguments:
-  -h, --help            show this help message and exit
-  -g BGC_GENE_PRESENCE_THRESHOLD, --BGC_gene_presence_threshold 
-                        user-defined BGC gene presence threshold (see description in the TaxiBGC manuscript)
-  -b BGC_COVERAGE_THRESHOLD, --BGC_coverage_threshold 
-                        user-defined BGC coverage threshold (see description in the TaxiBGC manuscript)
 
 required named arguments:
   -n NUM_THREADS, --num_threads NUM_THREADS
                         number of threads
   -f FORWARD, --forward FORWARD
-                        forward read sequences of the metagenome (.fastq)
+                        forward-read sequences of the metagenome (.fastq)
   -r REVERSE, --reverse REVERSE
-                        reverse read sequences of the metagenome (.fastq)
+                        reverse-read sequences of the metagenome (.fastq)
   -o OUTPUT, --output OUTPUT
                         prefix for output file names
+                        
+optional arguments:
+  -h, --help            show this help message and exit
+  -g BGC_GENE_PRESENCE_THRESHOLD, --BGC_gene_presence_threshold 
+                        a user-defined BGC gene presence threshold (see TaxiBGC manuscript for description)
+  -b BGC_COVERAGE_THRESHOLD, --BGC_coverage_threshold 
+                        a user-defined BGC coverage threshold (see TaxiBGC manuscript for description)
 ```
 
 ### Runtime
