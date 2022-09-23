@@ -11,7 +11,6 @@ class bcolors:
     BOLD = "\033[1m"
     UNDERLINE = "\033[4m"
 
-
 def print_check_message(boolean):
     print(
         bcolors.OKGREEN + "passed" + bcolors.ENDC
