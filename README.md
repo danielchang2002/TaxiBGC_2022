@@ -7,7 +7,7 @@
 [![Anaconda-Server Badge](https://anaconda.org/danielchang2002/taxibgc/badges/installer/conda.svg)](https://conda.anaconda.org/danielchang2002/taxibgc)
 
 ### Description
-TaxiBGC (Taxonomy-guided Identification of Biosynthetic Gene Clusters) is a computational pipeline for predicting experimentally characterized Biosynthetic Gene Clusters (BGCs) and their known secondary metabolites (SMs) (also known as natural products) from shotgun metagenomic sequencing data. 
+TaxiBGC (Taxonomy-guided Identification of Biosynthetic Gene Clusters) is a computational pipeline for predicting experimentally characterized Biosynthetic Gene Clusters (BGCs) and their known secondary metabolites (SMs) (also called natural products) from shotgun metagenomic sequencing data. 
 
 On a metagenome sample, TaxiBGC performs three major steps:
 1. Taxonomic profiling using MetaPhlAn3 to identify BGC-harboring microbial species
