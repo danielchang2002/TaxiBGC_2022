@@ -38,11 +38,11 @@ def main():
         "├── reverse.fastq\n"
         "├── output_prefix_BGC_FINAL_RESULT.txt\n"
         "├── output_prefix_BGC_metsp.txt\n"
-        "└── output_prefix_covstats_taxibgc2022.txt\n\n"
+        "└── output_prefix_coverage_stats_taxibgc2022.txt\n\n"
         "The three output files are: \n"
         "(i) output_prefix_BGC_FINAL_RESULT.txt: A list of the predicted biosynthetic gene clusters\n"
         "(ii) output_prefix_BGC_metsp.txt: MetaPhlAn3 taxonomic profiling output\n"
-        "(iii) output_prefix_covstats_taxibgc2022.txt: BBMAP output",
+        "(iii) output_prefix_coverage_stats_taxibgc2022.txt: BBMAP output",
         formatter_class=RawTextHelpFormatter,
     )
     requiredNamed = parser.add_argument_group("required named arguments")
