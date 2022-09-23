@@ -39,7 +39,7 @@ Output:
 ```
 
 ## Verify that your output files are identical to those shown below
-Note: Slight differences in the output may occur due to updated marker databases or version differences.
+Note: Slight differences in the output may occur due to updates in the marker databases or version differences.
 
 ```bash
 head *.txt
