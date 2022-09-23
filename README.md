@@ -71,7 +71,7 @@ $ ls
 └── output_prefix_covstats_taxibgc2022.txt
 
 The three output files are: 
-(i) output_prefix_BGC_FINAL_RESULT.txt: A list of the predicted biosynthetic gene clusters
+(i) output_prefix_BGC_FINAL_RESULT.txt: A list of the predicted biosynthetic gene clusters (i.e., MIBiG BGC IDs), SM, BGC class(es), and source species
 (ii) output_prefix_BGC_metsp.txt: MetaPhlAn3 taxonomic profiling output
 (iii) output_prefix_covstats_taxibgc2022.txt: BBMAP output
 
