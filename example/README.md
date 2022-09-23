@@ -35,7 +35,7 @@ Output:
 ├── SRR6915153_2.fastq
 ├── SRR6915153_BGC_FINAL_RESULT.txt
 ├── SRR6915153_BGC_metsp.txt
-└── SRR6915153_covstats_taxigc2022.txt
+└── SRR6915153_coverage_stats_taxibgc2022.txt
 ```
 
 ## Verify that your output files are identical to those shown below
@@ -71,7 +71,7 @@ s__Lachnospira_pectinoschiza    2|1239|186801|186802|186803|28050|28052 1.338940
 s__Ruminococcus_torques 2|1239|186801|186802|186803|572511|33039        1.22351251200625
 s__Dorea_longicatena    2|1239|186801|186802|186803|189330|88431        1.177466320099923
 
-==> SRR6915153_covstats_taxigc2022.txt <==
+==> SRR6915153_coverage_stats_taxibgc2022.txt <==
 #ID     Avg_fold        Length  Ref_GC  Covered_percent Covered_bases   Plus_reads      Minus_reads     Read_GC Median_fold  Std_Dev
 BGC0000001_orfP_1       0.0000  1083    0.7138  0.0000  0       0       0       0.0000  0       0.00
 BGC0000001_NULL_2       0.0000  627     0.6794  0.0000  0       0       0       0.0000  0       0.00
