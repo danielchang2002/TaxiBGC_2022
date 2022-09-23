@@ -96,4 +96,5 @@ optional arguments:
 ```
 
 ### Runtime
-Runtime depends on the size of the input metagenome and the specs of the computer system. On a 2019 MacBook Pro with a 2.3 GHz 8-Core Intel Core i9 processor and 16GB of RAM, a single run of TaxiBGC on an input metagenome of approximately 4 GB takes about half an hour. Please note that the initial run on any machine will take extra time because databases will need to be downloaded and installed prior to the actual computation.
+The computation runtime depends on the size of the input metagenome and the specs of the computer system. On a 2019 MacBook Pro with a 2.3 GHz 8-Core Intel Core i9 processor and 16GB of RAM, a single run of TaxiBGC on an input metagenome of approximately 4 GB takes about half an hour. Please note that the initial run on any machine will take extra time because databases will need to be downloaded and installed prior to the actual computation.
+
