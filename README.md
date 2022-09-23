@@ -46,7 +46,7 @@ python setup.py install
 
 ### Usage
 
-Download and run TaxiBGC on an [example metagenome](https://github.com/danielchang2002/TaxiBGC_2022/tree/main/example)
+Try downloading and running TaxiBGC on an [example metagenome](https://github.com/danielchang2002/TaxiBGC_2022/tree/main/example)
 
 ```bash
 Input: Two (forward/reverse) raw fastq (or fastq.gz) files generated from paired-end metagenome reads
@@ -90,9 +90,9 @@ required named arguments:
 optional arguments:
   -h, --help            show this help message and exit
   -g BGC_GENE_PRESENCE_THRESHOLD, --BGC_gene_presence_threshold 
-                        a user-defined BGC gene presence threshold (see description in TaxiBGC manuscript)
+                        a user-defined BGC gene presence threshold (see description in the TaxiBGC manuscript)
   -b BGC_COVERAGE_THRESHOLD, --BGC_coverage_threshold 
-                        a user-defined BGC coverage threshold (see description in TaxiBGC manuscript)
+                        a user-defined BGC coverage threshold (see description in the TaxiBGC manuscript)
 ```
 
 ### Runtime
