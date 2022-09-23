@@ -6,40 +6,40 @@
 [![Anaconda-Server Badge](https://anaconda.org/danielchang2002/taxibgc/badges/downloads.svg)](https://anaconda.org/danielchang2002/taxibgc)
 [![Anaconda-Server Badge](https://anaconda.org/danielchang2002/taxibgc/badges/installer/conda.svg)](https://conda.anaconda.org/danielchang2002/taxibgc)
 
-
 ### Description
-TaxiBGC (Taxonomy-guided Identification of Biosynthetic Gene Clusters): A computational pipeline for identifying experimentally verified Biosynthetic Gene Clusters (BGCs) and inferring their annotated secondary metabolites (SMs) from metagenomic shotgun sequencing data. 
+TaxiBGC (Taxonomy-guided Identification of Biosynthetic Gene Clusters) is a computational pipeline for predicting experimentally characterized Biosynthetic Gene Clusters (BGCs) and their known secondary metabolites (SMs) (also known as natural products) from shotgun metagenomic sequencing data. 
 
-The TaxiBGC pipeline includes three major steps: 
-1. Species-level, taxonomic profiling on the metagenome
-2. A first-pass prediction of BGCs through querying the species (identified in the first step) in the TaxiBGC database
-3. Confirmation (in silico) of the predicted BGCs (from the second step) based on the detection of BGC genes in the metagenome. 
+On a metagenome sample, TaxiBGC performs three major steps:
+1. Taxonomic profiling using MetaPhlAn3 to identify BGC-harboring microbial species
+2. The first-pass prediction of BGCs through querying these species (identified in the first step) in the TaxiBGC reference database 
+3. in silico confirmation of the predicted BGCs (from the second step) based on read mapping (i.e., alignment) using BBMap
 
 If you use TaxiBGC, please cite:
 
-[TaxiBGC: a Taxonomy-guided Approach for the Identification of Experimentally Verified Microbial Biosynthetic Gene Clusters in Shotgun Metagenomic](https://doi.org/10.1101/2021.07.30.454505)
-*Bakshi and Gupta et al.* (preprint)
+[TaxiBGC: a Taxonomy-guided Approach for Profiling Experimentally Characterized Microbial Biosynthetic Gene Clusters and Secondary Metabolite Production Potential in Metagenomes](https://doi.org/10.1101/2021.07.30.454505)
+*Gupta et al.* (preprint)
 
 ### Installation
-To avoid dependency conflicts, create an isolated conda environment and install TaxiBGC
+To avoid dependency conflicts, please create an isolated conda environment and install TaxiBGC.
 
-1. Create new conda environment and install taxibgc package
+1. Create new conda environment and install taxibgc package:
 ```bash
 conda create --name taxibgc_env -c danielchang2002 -c bioconda -c conda-forge taxibgc
 ```
 
-2. Activate environment
+2. Activate environment:
 ```bash
 conda activate taxibgc_env
 ```
 
-Alternatively, (not recommended) clone this repository and install TaxiBGC from the source. Note: you must manually install dependencies (see conda_recipe/meta.yaml for requirements)
-1. Clone this repository
+Alternatively, (not recommended) clone this repository and install TaxiBGC from the source. For this option, you must manually install dependencies (see conda_recipe/meta.yaml for requirements)
+
+1. Clone this repository:
 ```bash
 git clone https://github.com/danielchang2002/TaxiBGC_2022.git
 ```
 
-2. Install python script
+2. Install python script:
 ```bash
 python setup.py install
 ```
@@ -52,14 +52,13 @@ Download and run TaxiBGC on an example metagenome [here](https://github.com/dani
 usage: taxibgc [-h] -n NUM_THREADS -f FORWARD -r REVERSE -o OUTPUT [-g BGC_GENE_PRESENCE_THRESHOLD] [-b BGC_COVERAGE_THRESHOLD]
 
 DESCRIPTION:
-TaxiBGC version 1.0 
-TaxiBGC (Taxonomy-guided Identification of Biosynthetic Gene Clusters) is an original computational pipeline that identifies experimentally verified BGCs from shotgun metagenomic data and infers their known SM products.
+TaxiBGC (Taxonomy-guided Identification of Biosynthetic Gene Clusters) version 1.0
 
 AUTHORS: 
 Daniel Chang, Vinod Gupta, Jaeyun Sung
 
 USAGE: 
-TaxiBGC is a pipeline that takes as input two raw fastq (or fastq.gz) files generated from a paired end sequence, estimates microbial abundances, and using these microbial estimates, returns as output predictions of experimentally verified BGCs
+TaxiBGC is a computational pipeline that takes in two (i.e., forward/reverse) raw fastq (or fastq.gz) files generated from a paired-end sequenced metagenome and returns the predicted (if any) experimentally characterized BGCs and their known SMs.
 
 * Example usage:
 
@@ -79,31 +78,29 @@ $ ls
 └── output_prefix_covstats_taxibgc2022.txt
 
 The three output files are: 
-(i) output_prefix_BGC_FINAL_RESULT.txt: Biosynthetic gene clusters identified
-(ii) output_prefix_BGC_metsp.txt: the MetaPhlAn taxonomic profiling output
-(iii) output_prefix_covstats_taxibgc2022.txt: the bbmap output
+(i) output_prefix_BGC_FINAL_RESULT.txt: a list of the predicted biosynthetic gene clusters
+(ii) output_prefix_BGC_metsp.txt: MetaPhlAn3 taxonomic profiling output
+(iii) output_prefix_covstats_taxibgc2022.txt: BBMAP output
 
 optional arguments:
   -h, --help            show this help message and exit
   -g BGC_GENE_PRESENCE_THRESHOLD, --BGC_gene_presence_threshold 
-                        gene-presence threshold for predicting BGCs from the metagenomes
+                        user-defined BGC gene presence threshold (see description in the TaxiBGC manuscript)
   -b BGC_COVERAGE_THRESHOLD, --BGC_coverage_threshold 
-                        coverage threshold for predicting BGCs from the metagenomes
+                        user-defined BGC coverage threshold (see description in the TaxiBGC manuscript)
 
 required named arguments:
   -n NUM_THREADS, --num_threads NUM_THREADS
                         number of threads
   -f FORWARD, --forward FORWARD
-                        forward read of metagenome (.fastq)
+                        forward read sequences of the metagenome (.fastq)
   -r REVERSE, --reverse REVERSE
-                        reverse read of metagenome (.fastq)
+                        reverse read sequences of the metagenome (.fastq)
   -o OUTPUT, --output OUTPUT
                         prefix for output file names
 ```
 
 ### Runtime
-Runtime depends on the size of the input metagenome and the system specs.
+Runtime depends on the size of the input metagenome and the specs of the computer system.
 
-On a 2019 MacBook Pro with a 2.3 GHz 8-Core Intel Core i9 processor and 16GB of RAM, a single run of taxibgc on an input metagenome of 4 GB takes about half an hour.
-
-Note: the initial run on any machine will take extra time because databases will need to be downloaded and installed before the actual computation.
+On a 2019 MacBook Pro with a 2.3 GHz 8-Core Intel Core i9 processor and 16GB of RAM, a single run of TaxiBGC on an input metagenome of approximately 4 GB takes about half an hour. Please note that the initial run on any machine will take extra time because databases will need to be downloaded and installed prior to the actual computation.
