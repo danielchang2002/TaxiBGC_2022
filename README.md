@@ -51,6 +51,7 @@ Try downloading and running TaxiBGC on an [example metagenome](https://github.co
 ```bash
 Input: Two (forward/reverse) raw fastq (or fastq.gz) files generated from paired-end metagenome reads
 Output: Predicted (if any) experimentally characterized BGCs and their known SMs
+
 Usage: taxibgc [-h] -n NUM_THREADS -f FORWARD -r REVERSE -o OUTPUT [-g BGC_GENE_PRESENCE_THRESHOLD] [-b BGC_COVERAGE_THRESHOLD]
 
 * Example usage:
