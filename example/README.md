@@ -38,8 +38,8 @@ Output:
 └── SRR6915153_covstats_taxigc2022.txt
 ```
 
-## Verify that the output files are identical to those in this directory
-Note: Slight differences in the output presented below may occur due to updated marker databases or version differences.
+## Verify that your output files are identical to those shown below
+Note: Slight differences in the output may occur due to updated marker databases or version differences.
 
 ```bash
 head *.txt
