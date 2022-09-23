@@ -1,11 +1,10 @@
 # Example TaxiBGC usage
 
-TaxiBGC is a pipeline that takes as input two raw fastq (or fastq.gz) files generated 
-from a paired end sequence, estimates microbial abundances, and using 
-these microbial estimates, returns as output predictions of 
-experimentally verified BGCs.
+TaxiBGC is a computational pipeline that takes as input two raw fastq (or fastq.gz) files generated 
+from a paired-end metagenome; performs taxonomic profiling to identify the BGC-harboring microbial species; and returns as output predictions of 
+experimentally characterized biosynthetic gene clusters (BGCs) and their known secondary metabolites (SMs).
 
-Below is a mini-tutorial on how to download SRA data from the run accession SRR6915153 and use TaxiBGC on the downloaded .fastq files.
+Below is a mini-tutorial on how to download from the Sequence Read Archive (SRA) a metagenome sample (run accession SRR6915153) and use TaxiBGC on the downloaded .fastq files.
 
 ## Download and uncompress fastq files using [sra-tools](https://github.com/ncbi/sra-tools/wiki/)
 
@@ -23,7 +22,7 @@ Output:
 └── SRR6915153_2.fastq
 ```
 
-## Run taxibgc on the extracted metagenome
+## Run TaxiBGC on the extracted metagenome
 ```bash
 taxibgc -n 8 -f SRR6915153_1.fastq -r SRR6915153_2.fastq -o SRR6915153
 ```
@@ -39,8 +38,8 @@ Output:
 └── SRR6915153_covstats_taxigc2022.txt
 ```
 
-## Verify that the produced output files are identical to those in this directory
-Note: slight differences in output may be present due to updated marker databases or version differences
+## Verify that the output files are identical to those in this directory
+Note: Slight differences in the output presented below may occur due to updated marker databases or version differences.
 
 ```bash
 head *.txt
