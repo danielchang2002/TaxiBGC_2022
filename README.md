@@ -88,9 +88,9 @@ required named arguments:
 optional arguments:
   -h, --help            show this help message and exit
   -g BGC_GENE_PRESENCE_THRESHOLD, --BGC_gene_presence_threshold 
-                        a user-defined BGC gene presence threshold (see description in the TaxiBGC manuscript)
+                        a user-defined BGC gene presence threshold (see description in the TaxiBGC manuscript). default is set to "5" for 5%.
   -b BGC_COVERAGE_THRESHOLD, --BGC_coverage_threshold 
-                        a user-defined BGC coverage threshold (see description in the TaxiBGC manuscript)
+                        a user-defined BGC coverage threshold (see description in the TaxiBGC manuscript). default is set to "10" for 10%.
 ```
 
 ### Runtime
