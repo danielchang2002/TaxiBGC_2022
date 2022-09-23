@@ -46,7 +46,7 @@ python setup.py install
 
 ### Usage
 
-Try downloading and running TaxiBGC on an [example metagenome](https://github.com/danielchang2002/TaxiBGC_2022/tree/main/example)
+Try downloading and running TaxiBGC on an [example metagenome](https://github.com/danielchang2002/TaxiBGC_2022/tree/main/example).
 
 ```bash
 Input: Two (forward/reverse) raw fastq (or fastq.gz) files generated from paired-end metagenome reads
@@ -96,6 +96,4 @@ optional arguments:
 ```
 
 ### Runtime
-Runtime depends on the size of the input metagenome and the specs of the computer system.
-
-On a 2019 MacBook Pro with a 2.3 GHz 8-Core Intel Core i9 processor and 16GB of RAM, a single run of TaxiBGC on an input metagenome of approximately 4 GB takes about half an hour. Please note that the initial run on any machine will take extra time because databases will need to be downloaded and installed prior to the actual computation.
+Runtime depends on the size of the input metagenome and the specs of the computer system. On a 2019 MacBook Pro with a 2.3 GHz 8-Core Intel Core i9 processor and 16GB of RAM, a single run of TaxiBGC on an input metagenome of approximately 4 GB takes about half an hour. Please note that the initial run on any machine will take extra time because databases will need to be downloaded and installed prior to the actual computation.
