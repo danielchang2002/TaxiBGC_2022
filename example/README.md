@@ -22,7 +22,7 @@ Output:
 └── SRR6915153_2.fastq
 ```
 
-## Run TaxiBGC on the extracted metagenome
+## Run TaxiBGC on the extracted paired-end metagenome reads
 ```bash
 taxibgc -n 8 -f SRR6915153_1.fastq -r SRR6915153_2.fastq -o SRR6915153
 ```
