@@ -20,7 +20,7 @@ If you use TaxiBGC, please cite:
 *Gupta et al.* (bioRxiv preprint)
 
 ### Installation
-To avoid dependency conflicts, please create an isolated conda environment and install TaxiBGC.
+To avoid dependency conflicts, please create an isolated conda environment and install TaxiBGC. Installation via conda automatically installs TaxiBGC and its dependencies (bbmap, bowtie2, MetaPhlAn3).
 
 1. Create new conda environment and install taxibgc package
 ```bash
