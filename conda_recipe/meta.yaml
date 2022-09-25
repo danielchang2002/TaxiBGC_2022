@@ -16,7 +16,7 @@ requirements:
     - python
     - bbmap
     - bowtie2
-    - metaphlan=3
+    - metaphlan>=3.0.13
 
 test:
 
