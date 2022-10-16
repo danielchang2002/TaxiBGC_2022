@@ -22,7 +22,7 @@ def repair(args):
 def run(args):
   repair(args)
   subprocess.call([
-    os.path.join(utils.DEFAULT_DB_FOLDER, "TaxiBGC_02_17_2022.sh"),
+    os.path.join(utils.DEFAULT_DB_FOLDER, "TaxiBGC.sh"),
     "-n",
     str(args.num_threads),
     "-f",
