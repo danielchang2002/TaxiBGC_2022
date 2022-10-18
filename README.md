@@ -4,7 +4,7 @@
 [![Anaconda-Server Badge](https://anaconda.org/danielchang2002/taxibgc/badges/platforms.svg)](https://anaconda.org/danielchang2002/taxibgc)
 [![Anaconda-Server Badge](https://anaconda.org/danielchang2002/taxibgc/badges/license.svg)](https://anaconda.org/danielchang2002/taxibgc)
 [![Anaconda-Server Badge](https://anaconda.org/danielchang2002/taxibgc/badges/downloads.svg)](https://anaconda.org/danielchang2002/taxibgc)
-[![Anaconda-Server Badge](https://anaconda.org/danielchang2002/taxibgc/badges/installer/conda.svg)](https://conda.anaconda.org/danielchang2002/taxibgc)
+<!-- [![Anaconda-Server Badge](https://anaconda.org/danielchang2002/taxibgc/badges/installer/conda.svg)](https://conda.anaconda.org/danielchang2002/taxibgc) -->
 
 ### Description
 TaxiBGC (Taxonomy-guided Identification of Biosynthetic Gene Clusters) is a computational pipeline for predicting experimentally characterized Biosynthetic Gene Clusters (BGCs) and their known secondary metabolites (SMs) (also called natural products) from shotgun metagenomic sequencing data. 
