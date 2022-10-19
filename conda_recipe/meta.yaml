@@ -1,5 +1,5 @@
 {% set name = "taxibgc" %}
-{% set version = "1.09" %}
+{% set version = "1.10" %}
 
 package:
   name: "{{ name }}"
