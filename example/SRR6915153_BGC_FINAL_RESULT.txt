@@ -1,11 +1,9 @@
-BGC0000552	SmbA, SmbB	Lanthipeptide	Streptococcus mutans
-BGC0000530	mutacin B-Ny266	Lanthipeptide	Streptococcus mutans N66
-BGC0000522	lacticin Z	Lanthipeptide	Lactococcus lactis
-BGC0000538	nisin Z	Lanthipeptide	Lactococcus lactis
+BGC0000522	lacticin Z	RiPP (Lanthipeptide)	Lactococcus lactis
+BGC0000523	lactocin S	RiPP (Lanthipeptide)	Lactobacillus sakei
+BGC0000530	mutacin B-Ny266	RiPP (Lanthipeptide)	Streptococcus mutans N66
+BGC0000535	nisin A	RiPP (Lanthipeptide)	Lactococcus lactis subsp. lactis
+BGC0000538	nisin Z	RiPP (Lanthipeptide)	Lactococcus lactis
+BGC0000552	SmbA, SmbB	RiPP (Lanthipeptide)	Streptococcus mutans
 BGC0000764	exopolysaccharide	Saccharide	Lactococcus lactis
-BGC0000535	nisin A	Lanthipeptide	Lactococcus lactis subsp. lactis
-BGC0000523	lactocin S	Lanthipeptide	Lactobacillus sakei
-BGC0000619	gassericin T	RiPP	Lactobacillus gasseri
-BGC0001388	gassericin E	RiPP	Lactobacillus gasseri
-BGC0001601	gassericin-S	RiPP	Lactobacillus gasseri
-BGC0001701	nisin O	RiPP	Blautia obeum
+BGC0002287	leuvalin, mutanocyclin, tyrvalin	NRP	Streptococcus mutans
+BGC0002583	tryglysin B	RiPP	Streptococcus mutans UA159
