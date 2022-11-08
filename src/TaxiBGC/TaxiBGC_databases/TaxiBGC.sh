@@ -1,5 +1,4 @@
 #!/bin/bash 
-set -e
  
 display_usage() { 
 #	echo "This script must be run with super-user privileges." 
@@ -58,6 +57,9 @@ sed -n 's/^.*s__/s__/p' ${o}_BGC_metaphlan3.txt >${o}_BGC_metsp.txt
 rm ${o}_BGC_metaphlan3.txt
 awk -F"\t" -v OFS="\t" 'FNR==NR{a[$1]=$2;next} ($2 in a){print $1}' ${o}_BGC_metsp.txt ${t}TaxiBGC_MiBIG_metaphlan_database.txt >${o}_BGC_Step1.txt
 grep -Fw -f ${o}_BGC_Step1.txt ${o}_BGC_gene_presence_pred_raw.txt >${o}_BGC_Step1_1.txt
+if [ $? -ne 0 ]; then
+    echo "\nNo BGCs were detected in the metagenome"
+fi
 rm ${o}_BGC_gene_presence_pred_raw.txt
 rm ${o}_BGC_Step1.txt
 awk -F"\t" -v OFS="\t" '{print $1}' ${o}_BGC_Step1_1.txt >${o}_BGC_prediction.txt
