@@ -17,7 +17,7 @@ On a metagenome sample, TaxiBGC performs three major steps:
 If you use TaxiBGC, please cite:
 
 [TaxiBGC: a Taxonomy-guided Approach for Profiling Experimentally Characterized Microbial Biosynthetic Gene Clusters and Secondary Metabolite Production Potential in Metagenomes](https://doi.org/10.1128/msystems.00925-22)
-*Gupta et al.*
+*Gupta et al. mSystems (2022).*
 
 ### Installation
 To avoid dependency conflicts, please create an isolated conda environment and install TaxiBGC. Installation via conda automatically installs TaxiBGC and its dependencies (bbmap, bowtie2, MetaPhlAn3).
