@@ -20,16 +20,21 @@ If you use TaxiBGC, please cite:
 Gupta *et al.* *mSystems* (2022).
 
 ### Installation
-To avoid dependency conflicts, please create an isolated conda environment and install TaxiBGC. Installation via conda automatically installs TaxiBGC and its dependencies (bbmap, bowtie2, MetaPhlAn3).
+To avoid dependency conflicts, please create an isolated conda environment and install TaxiBGC. Installation via conda/mamba automatically installs TaxiBGC and its dependencies (bbmap, bowtie2, MetaPhlAn3).
 
-1. Create new conda environment and install taxibgc package
+1. Create new conda environment and install mamba
 ```bash
-conda create --name taxibgc_env -c danielchang2002 -c bioconda -c conda-forge taxibgc
+conda create --name taxibgc_env mamba python=3.8
 ```
 
 2. Activate environment
 ```bash
 conda activate taxibgc_env
+```
+
+3. Install taxibgc package with mamba
+```bash
+mamba install -c danielchang2002 -c bioconda -c conda-forge taxibgc
 ```
 
 Alternatively (not recommended), the user can clone this repository and install TaxiBGC from the source. For this option, you must manually install dependencies (see conda_recipe/meta.yaml for requirements).
